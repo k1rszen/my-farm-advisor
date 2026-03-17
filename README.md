@@ -47,13 +47,41 @@ Both agents follow the evidence-first, test-before-scaling practices defined in 
 
 The active custom layer currently keeps these skills:
 
-- `skills/my-farm-advisor/`
+- [`skills/my-farm-advisor/`](skills/my-farm-advisor/README.md)
 - `skills/my-farm-breeding-trial-management/`
 - `skills/my-farm-qtl-analysis/`
 - `skills/superior-byte-works-google-timesfm-forecasting/`
-- `skills/superior-byte-works-wrighter/`
+- [`skills/superior-byte-works-wrighter/`](skills/superior-byte-works-wrighter/README.md)
 
 These sit on top of the upstream OpenClaw skill system rather than replacing it.
+
+### Highlighted Skill Packs
+
+- [`skills/my-farm-advisor/README.md`](skills/my-farm-advisor/README.md) is the main farm umbrella skill. It routes requests into field management, imagery, soil, weather, strategy, data rebuilds, reporting, and admin workflows so the system can act like a real farm advisor instead of a generic chat assistant.
+- [`skills/superior-byte-works-wrighter/README.md`](skills/superior-byte-works-wrighter/README.md) is the structured writing and documentation engine for the repo. It explains how we produce docs, reports, Mermaid diagrams, research syntheses, and delivery-ready artifacts through a text-first workflow.
+
+Together, those two skill packs cover the project's two most important custom layers:
+
+- farm intelligence and field-level decision support
+- writing, reporting, and explanation of how the system works
+
+### Which Skill Should I Start With?
+
+```mermaid
+flowchart TD
+    Start[What are you trying to do?] --> Farm{Farm decision or farm data work?}
+    Farm -->|Yes| MFA[Start with skills/my-farm-advisor]
+    Farm -->|No| Writing{Writing, diagrams, reports, or walkthroughs?}
+    Writing -->|Yes| Wrighter[Start with skills/superior-byte-works-wrighter]
+    Writing -->|No| Other[Use the other bundled skill packs for breeding, QTL, or forecasting work]
+    MFA --> Ops[Field operations, imagery, soil, weather, reporting, strategy]
+    Wrighter --> Docs[Docs, Mermaid, research synthesis, delivery artifacts]
+```
+
+As a rule of thumb:
+
+- start with `my-farm-advisor` when the question is about fields, crops, weather, soil, imagery, or farm operations
+- start with `superior-byte-works-wrighter` when the task is to explain, document, diagram, package, or publish something clearly
 
 ## Core Principles
 
