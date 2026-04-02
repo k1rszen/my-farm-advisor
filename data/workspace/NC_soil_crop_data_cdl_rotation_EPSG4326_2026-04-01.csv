@@ -1,0 +1,24 @@
+field_id,rotation_sequence,rotation_count,rotation_patterns,history_years,history_start_year,history_end_year,crop_diversity,corn_years,soybean_years,predicted_next_crop,rotation_confidence
+osm-1009084804,Corn -> Code_26 -> Code_26 -> Corn -> Code_26,4,Code_26->Code_26; Code_26->Corn; Corn->Code_26,5,2021,2025,2,2,0,Code_26,medium
+osm-1103713058,Corn -> Corn -> Corn -> Soybeans -> Corn,4,Corn->Corn; Corn->Soybeans; Soybeans->Corn,5,2021,2025,2,4,1,Corn,high
+osm-1133139440,Code_2 -> Soybeans -> Soybeans -> Soybeans -> Soybeans,4,Code_2->Soybeans; Soybeans->Soybeans,5,2021,2025,2,0,4,Soybeans,high
+osm-1153259427,Soybeans -> Code_26 -> Corn -> Code_26 -> Corn,4,Code_26->Corn; Corn->Code_26; Soybeans->Code_26,5,2021,2025,3,2,1,Code_26,medium
+osm-1197040178,Soybeans -> Soybeans -> Soybeans -> Soybeans -> Soybeans,4,Soybeans->Soybeans,5,2021,2025,1,0,5,Soybeans,high
+osm-1278239614,Soybeans -> Corn -> Soybeans -> Corn -> Code_4,4,Corn->Code_4; Corn->Soybeans; Soybeans->Corn,5,2021,2025,3,2,2,Corn,low
+osm-1305439648,Grass/Pasture -> Grass/Pasture -> Code_26 -> Corn -> Code_26,4,Code_26->Corn; Corn->Code_26; Grass/Pasture->Code_26; Grass/Pasture->Grass/Pasture,5,2021,2025,3,1,0,Corn,medium
+osm-1361967329,Code_11 -> Code_26 -> Code_11 -> Code_26 -> Soybeans,4,Code_11->Code_26; Code_26->Code_11; Code_26->Soybeans,5,2021,2025,3,0,1,Code_26,low
+osm-1383475117,Code_26 -> Code_2 -> Code_26 -> Code_26 -> Soybeans,4,Code_2->Code_26; Code_26->Code_2; Code_26->Code_26; Code_26->Soybeans,5,2021,2025,3,0,1,Code_26,low
+osm-1386621285,Code_2 -> Winter Wheat -> Code_2 -> Code_26 -> Code_2,4,Code_2->Code_26; Code_2->Winter Wheat; Code_26->Code_2; Winter Wheat->Code_2,5,2021,2025,3,0,0,Code_26,medium
+osm-1424677694,Soybeans -> Soybeans -> Corn -> Corn -> Corn,4,Corn->Corn; Soybeans->Corn; Soybeans->Soybeans,5,2021,2025,2,3,2,Corn,high
+osm-1435108796,Soybeans -> Soybeans -> Soybeans -> Grass/Pasture -> Corn,4,Grass/Pasture->Corn; Soybeans->Grass/Pasture; Soybeans->Soybeans,5,2021,2025,3,1,3,Grass/Pasture,low
+osm-1476971106,Soybeans -> Code_2 -> Soybeans -> Code_2 -> Soybeans,4,Code_2->Soybeans; Soybeans->Code_2,5,2021,2025,2,0,3,Code_2,high
+osm-199889806,Code_142 -> Code_142 -> Code_142 -> Code_142 -> Grass/Pasture,4,Code_142->Code_142; Code_142->Grass/Pasture,5,2021,2025,2,0,0,Code_142,low
+osm-260949778,Deciduous Forest -> Deciduous Forest -> Deciduous Forest -> Grass/Pasture -> Grass/Pasture,4,Deciduous Forest->Deciduous Forest; Deciduous Forest->Grass/Pasture; Grass/Pasture->Grass/Pasture,5,2021,2025,2,0,0,Grass/Pasture,medium
+osm-274848457,Soybeans -> Soybeans -> Code_26 -> Soybeans -> Code_240,4,Code_26->Soybeans; Soybeans->Code_240; Soybeans->Code_26; Soybeans->Soybeans,5,2021,2025,3,0,3,Soybeans,low
+osm-548794709,Code_37 -> Code_37 -> Code_37 -> Code_37 -> Code_37,4,Code_37->Code_37,5,2021,2025,1,0,0,Code_37,high
+osm-566823123,Code_26 -> Soybeans -> Soybeans -> Soybeans -> Code_26,4,Code_26->Soybeans; Soybeans->Code_26; Soybeans->Soybeans,5,2021,2025,2,0,3,Soybeans,medium
+osm-588414811,Code_122 -> Code_122 -> Code_122 -> Code_123 -> Code_122,4,Code_122->Code_122; Code_122->Code_123; Code_123->Code_122,5,2021,2025,2,0,0,Code_122,high
+osm-692623518,Corn -> Corn -> Corn -> Grass/Pasture -> Grass/Pasture,4,Corn->Corn; Corn->Grass/Pasture; Grass/Pasture->Grass/Pasture,5,2021,2025,2,3,0,Grass/Pasture,medium
+osm-813157720,Code_26 -> Corn -> Code_26 -> Corn -> Code_26,4,Code_26->Corn; Corn->Code_26,5,2021,2025,2,2,0,Corn,high
+osm-834363677,Code_237 -> Corn -> Code_237 -> Code_237 -> Code_237,4,Code_237->Code_237; Code_237->Corn; Corn->Code_237,5,2021,2025,2,1,0,Code_237,high
+osm-976134461,Grass/Pasture -> Xmas Trees -> Xmas Trees -> Grass/Pasture -> Grass/Pasture,4,Grass/Pasture->Grass/Pasture; Grass/Pasture->Xmas Trees; Xmas Trees->Grass/Pasture; Xmas Trees->Xmas Trees,5,2021,2025,2,0,0,Grass/Pasture,medium

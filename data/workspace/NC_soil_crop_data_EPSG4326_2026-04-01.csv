@@ -1,0 +1,709 @@
+mukey,muname,compname,comppct_r,drainagecl,hzdept_r,hzdepb_r,om_r,ph1to1h2o_r,awc_r,claytotal_r,sandtotal_r,silttotal_r,dbthirdbar_r,cec7_r,field_id
+3050324,"Cullen clay loam, 2 to 6 percent slopes, moderately eroded",Cullen,95.0,Well drained,0.0,25.0,1.25,6.7,0.16,33.0,32.0,35.0,1.43,10.2,osm-1476971106
+3050325,"Cullen clay loam, 6 to 10 percent slopes, moderately eroded",Cullen,95.0,Well drained,0.0,25.0,1.25,6.7,0.16,33.0,32.0,35.0,1.43,10.2,osm-1476971106
+3050326,"Cullen clay loam, 10 to 15 percent slopes, moderately eroded",Cullen,95.0,Well drained,0.0,25.0,1.25,6.7,0.16,33.0,32.0,35.0,1.43,10.2,osm-1476971106
+3050324,"Cullen clay loam, 2 to 6 percent slopes, moderately eroded",Cullen,95.0,Well drained,25.0,127.0,0.25,4.8,0.11,64.0,10.0,26.0,1.28,,osm-1476971106
+3050325,"Cullen clay loam, 6 to 10 percent slopes, moderately eroded",Cullen,95.0,Well drained,25.0,127.0,0.25,4.8,0.11,64.0,10.0,26.0,1.28,,osm-1476971106
+3050326,"Cullen clay loam, 10 to 15 percent slopes, moderately eroded",Cullen,95.0,Well drained,25.0,127.0,0.25,4.8,0.11,64.0,10.0,26.0,1.28,,osm-1476971106
+3050323,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Chewacla,90.0,Somewhat poorly drained,0.0,15.0,2.5,6.3,0.23,13.0,47.0,40.0,1.5,7.1,osm-1476971106
+3050350,"Herndon silt loam, 2 to 6 percent slopes",Herndon,90.0,Well drained,0.0,20.0,0.75,4.5,0.17,20.0,24.0,56.0,1.3,,osm-1476971106
+3050351,"Herndon silt loam, 6 to 10 percent slopes",Herndon,90.0,Well drained,0.0,20.0,0.75,4.5,0.17,20.0,24.0,56.0,1.3,,osm-1476971106
+3050323,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Chewacla,90.0,Somewhat poorly drained,15.0,132.0,1.0,5.5,0.11,28.0,53.0,19.0,1.4,,osm-1476971106
+3050350,"Herndon silt loam, 2 to 6 percent slopes",Herndon,90.0,Well drained,20.0,30.0,0.25,4.6,0.18,30.0,15.0,55.0,1.4,,osm-1476971106
+3050351,"Herndon silt loam, 6 to 10 percent slopes",Herndon,90.0,Well drained,20.0,30.0,0.25,4.6,0.18,30.0,15.0,55.0,1.4,,osm-1476971106
+3050384,"Wynott-Enon complex, 2 to 6 percent slopes, moderately eroded",Wynott,50.0,Well drained,0.0,13.0,1.25,5.5,0.1,28.0,50.0,22.0,1.44,,osm-1476971106
+3050385,"Wynott-Enon complex, 6 to 10 percent slopes, moderately eroded",Wynott,50.0,Well drained,0.0,13.0,1.25,5.5,0.1,28.0,50.0,22.0,1.44,,osm-1476971106
+3050384,"Wynott-Enon complex, 2 to 6 percent slopes, moderately eroded",Wynott,50.0,Well drained,13.0,36.0,0.2,5.5,0.18,50.0,22.0,28.0,1.36,,osm-1476971106
+3050385,"Wynott-Enon complex, 6 to 10 percent slopes, moderately eroded",Wynott,50.0,Well drained,13.0,36.0,0.2,5.5,0.18,50.0,22.0,28.0,1.36,,osm-1476971106
+3050384,"Wynott-Enon complex, 2 to 6 percent slopes, moderately eroded",Enon,45.0,Well drained,0.0,20.0,1.25,5.5,0.11,28.0,50.0,22.0,1.44,,osm-1476971106
+3050385,"Wynott-Enon complex, 6 to 10 percent slopes, moderately eroded",Enon,45.0,Well drained,0.0,20.0,1.25,5.5,0.11,28.0,50.0,22.0,1.44,,osm-1476971106
+3050384,"Wynott-Enon complex, 2 to 6 percent slopes, moderately eroded",Enon,45.0,Well drained,20.0,81.0,0.25,5.5,0.15,54.0,30.0,16.0,1.4,,osm-1476971106
+3050385,"Wynott-Enon complex, 6 to 10 percent slopes, moderately eroded",Enon,45.0,Well drained,20.0,81.0,0.25,5.5,0.14,54.0,30.0,16.0,1.4,,osm-1476971106
+3050323,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Riverview,5.0,Well drained,0.0,46.0,1.25,5.5,0.22,19.0,43.0,38.0,1.44,,osm-1476971106
+3050323,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Wehadkee,5.0,Poorly drained,0.0,20.0,3.5,5.5,0.2,18.0,47.0,35.0,1.34,,osm-1476971106
+3050324,"Cullen clay loam, 2 to 6 percent slopes, moderately eroded",Enon,5.0,Well drained,0.0,18.0,0.75,5.0,0.2,29.0,41.0,30.0,1.48,,osm-1476971106
+3050325,"Cullen clay loam, 6 to 10 percent slopes, moderately eroded",Enon,5.0,Well drained,0.0,18.0,0.75,5.0,0.2,29.0,41.0,30.0,1.48,,osm-1476971106
+3050326,"Cullen clay loam, 10 to 15 percent slopes, moderately eroded",Enon,5.0,Well drained,0.0,18.0,0.75,5.0,0.2,29.0,41.0,30.0,1.48,,osm-1476971106
+3050350,"Herndon silt loam, 2 to 6 percent slopes",Lignum,5.0,Moderately well drained,0.0,5.0,1.5,5.0,0.19,17.0,29.0,54.0,1.48,,osm-1476971106
+3050350,"Herndon silt loam, 2 to 6 percent slopes",Nanford,5.0,Well drained,0.0,18.0,2.0,4.7,0.21,11.0,23.0,66.0,1.36,,osm-1476971106
+3050351,"Herndon silt loam, 6 to 10 percent slopes",Lignum,5.0,Moderately well drained,0.0,5.0,1.5,5.0,0.19,17.0,29.0,54.0,1.48,,osm-1476971106
+3050351,"Herndon silt loam, 6 to 10 percent slopes",Nanford,5.0,Well drained,0.0,18.0,2.0,4.7,0.21,11.0,23.0,66.0,1.36,,osm-1476971106
+3050384,"Wynott-Enon complex, 2 to 6 percent slopes, moderately eroded",Iredell,5.0,Moderately well drained,0.0,20.0,1.25,5.5,0.17,30.0,36.0,34.0,1.42,,osm-1476971106
+3050385,"Wynott-Enon complex, 6 to 10 percent slopes, moderately eroded",Iredell,5.0,Moderately well drained,0.0,20.0,1.25,5.5,0.17,30.0,36.0,34.0,1.42,,osm-1476971106
+3050350,"Herndon silt loam, 2 to 6 percent slopes",Lignum,5.0,Moderately well drained,5.0,30.0,1.0,5.0,0.19,17.0,29.0,54.0,1.42,,osm-1476971106
+3050351,"Herndon silt loam, 6 to 10 percent slopes",Lignum,5.0,Moderately well drained,5.0,30.0,1.0,5.0,0.19,17.0,29.0,54.0,1.42,,osm-1476971106
+3050324,"Cullen clay loam, 2 to 6 percent slopes, moderately eroded",Enon,5.0,Well drained,18.0,76.0,0.5,5.8,0.15,54.0,30.0,16.0,1.36,28.3,osm-1476971106
+3050325,"Cullen clay loam, 6 to 10 percent slopes, moderately eroded",Enon,5.0,Well drained,18.0,76.0,0.5,5.8,0.15,54.0,30.0,16.0,1.36,28.3,osm-1476971106
+3050326,"Cullen clay loam, 10 to 15 percent slopes, moderately eroded",Enon,5.0,Well drained,18.0,76.0,0.5,5.8,0.15,54.0,30.0,16.0,1.36,28.3,osm-1476971106
+3050350,"Herndon silt loam, 2 to 6 percent slopes",Nanford,5.0,Well drained,18.0,69.0,0.1,4.7,0.09,49.0,7.0,44.0,1.4,,osm-1476971106
+3050351,"Herndon silt loam, 6 to 10 percent slopes",Nanford,5.0,Well drained,18.0,69.0,0.1,4.7,0.09,49.0,7.0,44.0,1.4,,osm-1476971106
+3050323,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Wehadkee,5.0,Poorly drained,20.0,109.0,0.5,5.5,0.12,25.0,50.0,25.0,1.44,,osm-1476971106
+3050384,"Wynott-Enon complex, 2 to 6 percent slopes, moderately eroded",Iredell,5.0,Moderately well drained,20.0,86.0,0.25,5.5,0.17,50.0,22.0,28.0,1.38,,osm-1476971106
+3050385,"Wynott-Enon complex, 6 to 10 percent slopes, moderately eroded",Iredell,5.0,Moderately well drained,20.0,86.0,0.25,5.5,0.17,50.0,22.0,28.0,1.38,,osm-1476971106
+132003,"Claycreek silt loam, 0 to 2 percent slopes",Claycreek,95.0,Moderately well drained,0.0,10.0,1.25,5.5,0.19,4.0,28.3,67.7,1.3,1.5,osm-1009084804
+132004,"Claycreek silt loam, 2 to 6 percent slopes",Claycreek,95.0,Moderately well drained,0.0,10.0,1.25,5.5,0.19,4.0,28.3,67.7,1.3,1.5,osm-1009084804
+132003,"Claycreek silt loam, 0 to 2 percent slopes",Claycreek,95.0,Moderately well drained,10.0,38.0,0.25,5.3,0.15,18.0,11.8,70.2,1.3,,osm-1009084804
+132004,"Claycreek silt loam, 2 to 6 percent slopes",Claycreek,95.0,Moderately well drained,10.0,38.0,0.25,5.3,0.15,18.0,11.8,70.2,1.3,,osm-1009084804
+114509,"Creedmoor fine sandy loam, 2 to 8 percent slopes",Creedmoor,90.0,Moderately well drained,0.0,36.0,1.25,5.0,0.12,13.5,66.5,20.0,1.63,6.2,osm-1009084804
+114529,"Mayodan fine sandy loam, 2 to 8 percent slopes",Mayodan,85.0,Well drained,0.0,15.0,1.25,5.3,0.14,12.5,67.3,20.2,1.53,6.0,osm-1009084804
+115370,"White Store loam, 2 to 8 percent slopes",White Store,85.0,Moderately well drained,0.0,15.0,1.25,5.0,0.15,16.0,43.8,40.2,1.43,10.0,osm-1009084804
+114529,"Mayodan fine sandy loam, 2 to 8 percent slopes",Mayodan,85.0,Well drained,15.0,23.0,0.1,5.3,0.17,30.0,55.5,14.5,1.35,7.5,osm-1009084804
+115370,"White Store loam, 2 to 8 percent slopes",White Store,85.0,Moderately well drained,15.0,104.0,0.25,5.0,0.16,57.5,16.2,26.3,1.25,29.3,osm-1009084804
+114529,"Mayodan fine sandy loam, 2 to 8 percent slopes",Mayodan,85.0,Well drained,23.0,84.0,0.1,5.0,0.15,47.5,23.3,29.2,1.4,12.0,osm-1009084804
+114508,"Claycreek fine sandy loam, 0 to 2 percent slopes",Claycreek,80.0,Moderately well drained,0.0,20.0,1.25,5.0,0.19,12.0,71.3,16.7,1.3,7.0,osm-1009084804
+114573,"White Store fine sandy loam, 2 to 8 percent slopes, moderately eroded",White Store,80.0,Moderately well drained,0.0,13.0,1.25,5.8,0.15,12.5,70.9,16.6,1.48,9.0,osm-1009084804
+114573,"White Store fine sandy loam, 2 to 8 percent slopes, moderately eroded",White Store,80.0,Moderately well drained,13.0,122.0,0.1,4.7,0.16,57.5,16.2,26.3,1.25,,osm-1009084804
+114508,"Claycreek fine sandy loam, 0 to 2 percent slopes",Claycreek,80.0,Moderately well drained,20.0,81.0,0.1,5.8,0.15,26.5,6.8,66.7,1.3,9.5,osm-1009084804
+114509,"Creedmoor fine sandy loam, 2 to 8 percent slopes",Mayodan,8.0,Well drained,0.0,23.0,1.25,5.3,0.14,12.5,67.9,19.6,1.53,5.9,osm-1009084804
+114509,"Creedmoor fine sandy loam, 2 to 8 percent slopes",Mayodan,8.0,Well drained,23.0,38.0,0.75,5.3,0.17,30.0,33.5,36.5,1.35,9.2,osm-1009084804
+111642,"Enon sandy loam, 8 to 15 percent slopes",Enon,85.0,Well drained,0.0,18.0,1.25,5.8,0.13,12.5,70.9,16.6,1.55,9.1,osm-588414811
+2422543,"Chewacla sandy loam, 0 to 2 percent slopes, frequently flooded",Chewacla,85.0,Somewhat poorly drained,0.0,10.0,2.5,6.0,0.2,22.5,39.8,37.7,1.45,11.2,osm-588414811
+2422543,"Chewacla sandy loam, 0 to 2 percent slopes, frequently flooded",Chewacla,85.0,Somewhat poorly drained,10.0,66.0,1.25,5.5,0.2,30.0,17.4,52.6,1.4,9.4,osm-588414811
+111642,"Enon sandy loam, 8 to 15 percent slopes",Enon,85.0,Well drained,18.0,25.0,0.5,5.8,0.13,28.0,54.7,17.3,1.45,15.1,osm-588414811
+111642,"Enon sandy loam, 8 to 15 percent slopes",Enon,85.0,Well drained,25.0,68.0,0.25,6.4,0.14,50.0,22.1,27.9,1.3,25.6,osm-588414811
+2422536,"Cullen clay loam, 2 to 8 percent slopes, moderately eroded",Cullen,80.0,Well drained,0.0,15.0,1.25,5.6,0.15,25.0,28.5,46.5,1.45,9.1,osm-588414811
+2422536,"Cullen clay loam, 2 to 8 percent slopes, moderately eroded",Cullen,80.0,Well drained,15.0,107.0,0.25,5.6,0.12,62.0,8.7,29.3,1.35,16.1,osm-588414811
+111659,"Poindexter loam, 2 to 8 percent slopes",Poindexter,75.0,Well drained,0.0,10.0,2.0,6.8,0.16,14.0,44.8,41.2,1.35,9.4,osm-588414811
+111659,"Poindexter loam, 2 to 8 percent slopes",Poindexter,75.0,Well drained,10.0,30.0,1.0,6.2,0.16,14.0,44.8,41.2,1.35,7.2,osm-588414811
+2422536,"Cullen clay loam, 2 to 8 percent slopes, moderately eroded",Mecklenburg,8.0,Well drained,0.0,18.0,0.75,6.5,0.13,30.0,33.5,36.5,1.5,12.2,osm-588414811
+2422536,"Cullen clay loam, 2 to 8 percent slopes, moderately eroded",Mecklenburg,8.0,Well drained,18.0,76.0,0.25,6.5,0.13,50.0,22.1,27.9,1.5,18.1,osm-588414811
+2422543,"Chewacla sandy loam, 0 to 2 percent slopes, frequently flooded",Wehadkee,5.0,Poorly drained,0.0,20.0,3.5,5.5,0.13,16.0,43.8,40.2,1.48,12.5,osm-588414811
+2422543,"Chewacla sandy loam, 0 to 2 percent slopes, frequently flooded",Wehadkee,5.0,Poorly drained,20.0,109.0,0.5,5.5,0.18,26.5,55.8,17.7,1.4,15.0,osm-588414811
+2422536,"Cullen clay loam, 2 to 8 percent slopes, moderately eroded",Pacolet,3.0,Well drained,0.0,18.0,0.75,6.2,0.12,27.5,55.1,17.4,1.4,4.4,osm-588414811
+2422543,"Chewacla sandy loam, 0 to 2 percent slopes, frequently flooded",Riverview,3.0,Well drained,0.0,46.0,1.25,5.5,0.2,18.5,43.0,38.5,1.45,7.5,osm-588414811
+2422536,"Cullen clay loam, 2 to 8 percent slopes, moderately eroded",Pacolet,3.0,Well drained,18.0,61.0,0.25,5.7,0.14,50.0,22.1,27.9,1.4,5.6,osm-588414811
+2422536,"Cullen clay loam, 2 to 8 percent slopes, moderately eroded",Enon,2.0,Well drained,0.0,18.0,1.25,5.8,0.13,12.5,70.9,16.6,1.55,9.1,osm-588414811
+2422536,"Cullen clay loam, 2 to 8 percent slopes, moderately eroded",Enon,2.0,Well drained,18.0,25.0,0.5,5.8,0.13,28.0,54.7,17.3,1.45,15.1,osm-588414811
+2422536,"Cullen clay loam, 2 to 8 percent slopes, moderately eroded",Enon,2.0,Well drained,25.0,68.0,0.25,6.4,0.14,50.0,22.1,27.9,1.3,25.6,osm-588414811
+1485536,"Creedmoor-Green Level complex, 6 to 10 percent slopes",Creedmoor,65.0,Moderately well drained,0.0,13.0,1.25,4.5,0.12,13.5,66.5,20.0,1.63,6.0,osm-976134461
+1485536,"Creedmoor-Green Level complex, 6 to 10 percent slopes",Creedmoor,65.0,Moderately well drained,13.0,26.0,0.75,4.5,0.12,13.5,66.5,20.0,1.63,6.0,osm-976134461
+1485536,"Creedmoor-Green Level complex, 6 to 10 percent slopes",Creedmoor,65.0,Moderately well drained,26.0,38.0,0.1,4.5,0.14,27.5,55.1,17.4,1.55,7.0,osm-976134461
+1485532,"Creedmoor-Green Level complex, 10 to 15 percent slopes",Creedmoor,60.0,Moderately well drained,0.0,13.0,1.25,4.5,0.12,13.5,66.5,20.0,1.63,6.0,osm-976134461
+1485532,"Creedmoor-Green Level complex, 10 to 15 percent slopes",Creedmoor,60.0,Moderately well drained,13.0,26.0,0.75,4.5,0.12,13.5,66.5,20.0,1.63,6.0,osm-976134461
+1485532,"Creedmoor-Green Level complex, 10 to 15 percent slopes",Creedmoor,60.0,Moderately well drained,26.0,38.0,0.1,4.5,0.14,27.5,55.1,17.4,1.55,7.0,osm-976134461
+1485518,"Chewacla and Wehadkee soils, 0 to 2 percent slopes, frequently flooded",Chewacla,55.0,Somewhat poorly drained,0.0,10.0,2.5,6.0,0.2,22.5,39.8,37.7,1.45,11.2,osm-976134461
+1485749,"White Store-Polkton complex, 2 to 6 percent slopes",White Store,55.0,Moderately well drained,0.0,20.0,1.25,5.0,0.15,16.0,43.8,40.2,1.43,10.0,osm-976134461
+1485518,"Chewacla and Wehadkee soils, 0 to 2 percent slopes, frequently flooded",Chewacla,55.0,Somewhat poorly drained,10.0,66.0,1.25,5.5,0.2,30.0,17.4,52.6,1.4,9.4,osm-976134461
+1485749,"White Store-Polkton complex, 2 to 6 percent slopes",White Store,55.0,Moderately well drained,20.0,84.0,0.25,5.0,0.16,57.5,16.2,26.3,1.25,29.3,osm-976134461
+1485534,"Creedmoor-Green Level complex, 2 to 6 percent slopes",Creedmoor,45.0,Moderately well drained,0.0,13.0,1.25,4.5,0.12,13.5,66.5,20.0,1.63,6.0,osm-976134461
+1485534,"Creedmoor-Green Level complex, 2 to 6 percent slopes",Creedmoor,45.0,Moderately well drained,13.0,26.0,0.75,4.5,0.12,13.5,66.5,20.0,1.63,6.0,osm-976134461
+1485534,"Creedmoor-Green Level complex, 2 to 6 percent slopes",Creedmoor,45.0,Moderately well drained,26.0,38.0,0.1,4.5,0.14,27.5,55.1,17.4,1.55,7.0,osm-976134461
+1485534,"Creedmoor-Green Level complex, 2 to 6 percent slopes",Green Level,40.0,Somewhat poorly drained,0.0,18.0,1.25,5.0,0.15,12.5,67.9,19.6,1.48,10.0,osm-976134461
+1485749,"White Store-Polkton complex, 2 to 6 percent slopes",Polkton,40.0,Moderately well drained,0.0,11.0,1.25,5.0,0.15,20.0,29.7,50.3,1.43,10.0,osm-976134461
+1485749,"White Store-Polkton complex, 2 to 6 percent slopes",Polkton,40.0,Moderately well drained,11.0,20.0,0.75,5.0,0.15,20.0,29.7,50.3,1.43,10.0,osm-976134461
+1485534,"Creedmoor-Green Level complex, 2 to 6 percent slopes",Green Level,40.0,Somewhat poorly drained,18.0,25.0,0.75,5.0,0.15,12.5,67.9,19.6,1.48,10.0,osm-976134461
+1485749,"White Store-Polkton complex, 2 to 6 percent slopes",Polkton,40.0,Moderately well drained,20.0,38.0,0.3,5.0,0.18,33.0,52.8,14.2,1.38,18.0,osm-976134461
+1485534,"Creedmoor-Green Level complex, 2 to 6 percent slopes",Green Level,40.0,Somewhat poorly drained,25.0,33.0,0.25,5.0,0.16,27.0,59.4,13.6,1.25,10.0,osm-976134461
+1485518,"Chewacla and Wehadkee soils, 0 to 2 percent slopes, frequently flooded",Wehadkee,30.0,Poorly drained,0.0,20.0,3.5,6.0,0.13,16.0,43.8,40.2,1.48,12.5,osm-976134461
+1485518,"Chewacla and Wehadkee soils, 0 to 2 percent slopes, frequently flooded",Wehadkee,30.0,Poorly drained,20.0,109.0,0.5,5.5,0.18,26.5,55.8,17.7,1.4,15.0,osm-976134461
+1485536,"Creedmoor-Green Level complex, 6 to 10 percent slopes",Green Level,25.0,Somewhat poorly drained,0.0,18.0,1.25,5.0,0.15,12.5,67.9,19.6,1.48,10.0,osm-976134461
+1485536,"Creedmoor-Green Level complex, 6 to 10 percent slopes",Green Level,25.0,Somewhat poorly drained,18.0,25.0,0.75,5.0,0.15,12.5,67.9,19.6,1.48,10.0,osm-976134461
+1485536,"Creedmoor-Green Level complex, 6 to 10 percent slopes",Green Level,25.0,Somewhat poorly drained,25.0,33.0,0.25,5.0,0.16,27.0,59.4,13.6,1.25,10.0,osm-976134461
+1485532,"Creedmoor-Green Level complex, 10 to 15 percent slopes",Green Level,15.0,Somewhat poorly drained,0.0,18.0,1.25,5.0,0.15,12.5,67.9,19.6,1.48,10.0,osm-976134461
+1485532,"Creedmoor-Green Level complex, 10 to 15 percent slopes",Green Level,15.0,Somewhat poorly drained,18.0,25.0,0.75,5.0,0.15,12.5,67.9,19.6,1.48,10.0,osm-976134461
+1485532,"Creedmoor-Green Level complex, 10 to 15 percent slopes",Green Level,15.0,Somewhat poorly drained,25.0,33.0,0.25,5.0,0.16,27.0,59.4,13.6,1.25,10.0,osm-976134461
+1485518,"Chewacla and Wehadkee soils, 0 to 2 percent slopes, frequently flooded",Wehadkee,10.0,Poorly drained,0.0,20.0,3.5,6.0,0.13,16.0,43.8,40.2,1.48,12.5,osm-976134461
+1485518,"Chewacla and Wehadkee soils, 0 to 2 percent slopes, frequently flooded",Wehadkee,10.0,Poorly drained,20.0,109.0,0.5,5.5,0.18,26.5,55.8,17.7,1.4,15.0,osm-976134461
+1485518,"Chewacla and Wehadkee soils, 0 to 2 percent slopes, frequently flooded",Congaree,5.0,Moderately well drained,0.0,25.0,2.5,6.0,0.16,17.0,43.3,39.7,1.3,9.9,osm-976134461
+1485518,"Chewacla and Wehadkee soils, 0 to 2 percent slopes, frequently flooded",Congaree,5.0,Moderately well drained,25.0,203.0,1.25,6.0,0.16,26.5,37.9,35.6,1.35,9.4,osm-976134461
+811165,"Wagram loamy sand, 0 to 6 percent slopes",Wagram,90.0,Well drained,0.0,20.0,1.25,5.3,0.07,6.0,77.7,16.3,1.68,3.4,osm-548794709
+811165,"Wagram loamy sand, 0 to 6 percent slopes",Wagram,90.0,Well drained,20.0,61.0,0.5,5.3,0.07,6.0,77.7,16.3,1.68,1.7,osm-548794709
+811141,"Rains sandy loam, 0 to 2 percent slopes",Rains,58.0,Poorly drained,0.0,15.0,3.5,5.1,0.13,12.0,71.0,17.0,1.44,,osm-548794709
+811141,"Rains sandy loam, 0 to 2 percent slopes",Rains,58.0,Poorly drained,15.0,30.0,0.75,5.1,0.15,12.0,71.0,17.0,1.61,,osm-548794709
+811141,"Rains sandy loam, 0 to 2 percent slopes",Rains,24.0,Poorly drained,0.0,15.0,3.5,5.1,0.13,12.0,71.0,17.0,1.44,,osm-548794709
+811141,"Rains sandy loam, 0 to 2 percent slopes",Rains,24.0,Poorly drained,15.0,30.0,0.75,5.1,0.15,12.0,71.0,17.0,1.61,,osm-548794709
+811141,"Rains sandy loam, 0 to 2 percent slopes",Lynchburg,10.0,Somewhat poorly drained,0.0,23.0,2.75,4.7,0.14,11.0,61.0,28.0,1.54,,osm-548794709
+811141,"Rains sandy loam, 0 to 2 percent slopes",Lynchburg,10.0,Somewhat poorly drained,23.0,36.0,0.25,4.7,0.14,8.0,75.0,17.0,1.57,,osm-548794709
+811141,"Rains sandy loam, 0 to 2 percent slopes",Pantego,8.0,Very poorly drained,0.0,46.0,7.0,4.5,0.2,10.0,50.0,40.0,1.38,,osm-548794709
+811165,"Wagram loamy sand, 0 to 6 percent slopes",Bibb,3.0,Poorly drained,0.0,15.0,2.0,4.6,0.12,10.0,81.1,8.9,1.53,7.0,osm-548794709
+811165,"Wagram loamy sand, 0 to 6 percent slopes",Bibb,3.0,Poorly drained,15.0,152.0,2.0,4.6,0.12,10.0,66.9,23.1,1.53,7.0,osm-548794709
+811165,"Wagram loamy sand, 0 to 6 percent slopes",Johnston,2.0,Very poorly drained,0.0,76.0,11.5,5.0,0.23,12.5,45.7,41.8,1.35,29.0,osm-548794709
+112137,"Altavista fine sandy loam, 0 to 2 percent slopes, occasionally flooded",Altavista,90.0,Moderately well drained,0.0,20.0,1.75,5.0,0.16,17.0,68.5,14.5,1.4,8.2,osm-1305439648
+112137,"Altavista fine sandy loam, 0 to 2 percent slopes, occasionally flooded",Altavista,90.0,Moderately well drained,20.0,30.0,0.5,5.0,0.16,17.0,68.5,14.5,1.4,5.4,osm-1305439648
+112196,"Wickham fine sandy loam, 2 to 8 percent slopes",Wickham,85.0,Well drained,0.0,20.0,1.25,5.3,0.14,14.0,62.5,23.5,1.55,5.7,osm-1305439648
+2423738,"Congaree loam, 0 to 2 percent slopes, occasionally flooded",Congaree,85.0,Moderately well drained,0.0,25.0,2.5,5.9,0.16,17.0,46.5,36.5,1.3,10.5,osm-1305439648
+2432831,"Pacolet sandy loam, 15 to 25 percent slopes",Pacolet,85.0,Well drained,0.0,13.0,1.25,5.5,0.1,14.0,66.8,19.2,1.25,4.2,osm-1305439648
+2432834,"Pacolet sandy loam, 8 to 15 percent slopes",Pacolet,85.0,Well drained,0.0,13.0,1.25,5.5,0.1,14.0,66.8,19.2,1.25,4.2,osm-1305439648
+2432831,"Pacolet sandy loam, 15 to 25 percent slopes",Pacolet,85.0,Well drained,13.0,20.0,1.25,5.5,0.1,10.0,66.9,23.1,1.25,4.2,osm-1305439648
+2432834,"Pacolet sandy loam, 8 to 15 percent slopes",Pacolet,85.0,Well drained,13.0,20.0,1.25,5.5,0.1,10.0,66.9,23.1,1.25,4.2,osm-1305439648
+112196,"Wickham fine sandy loam, 2 to 8 percent slopes",Wickham,85.0,Well drained,20.0,107.0,0.25,5.3,0.15,26.5,55.8,17.7,1.4,7.2,osm-1305439648
+2432831,"Pacolet sandy loam, 15 to 25 percent slopes",Pacolet,85.0,Well drained,20.0,74.0,0.25,5.3,0.14,50.0,32.0,18.0,1.4,5.6,osm-1305439648
+2432834,"Pacolet sandy loam, 8 to 15 percent slopes",Pacolet,85.0,Well drained,20.0,74.0,0.25,5.3,0.14,50.0,32.0,18.0,1.4,5.6,osm-1305439648
+2423738,"Congaree loam, 0 to 2 percent slopes, occasionally flooded",Congaree,85.0,Moderately well drained,25.0,203.0,1.25,5.9,0.16,26.5,28.2,45.3,1.35,11.5,osm-1305439648
+2423743,"Warne loam, 0 to 2 percent slopes, occasionally flooded",Warne,80.0,Somewhat poorly drained,0.0,10.0,2.75,5.3,0.18,18.5,43.0,38.5,1.35,10.8,osm-1305439648
+2423743,"Warne loam, 0 to 2 percent slopes, occasionally flooded",Warne,80.0,Somewhat poorly drained,10.0,18.0,1.25,5.3,0.18,18.5,43.0,38.5,1.35,7.4,osm-1305439648
+2423743,"Warne loam, 0 to 2 percent slopes, occasionally flooded",Warne,80.0,Somewhat poorly drained,18.0,122.0,0.25,4.6,0.16,52.5,18.2,29.3,1.5,13.7,osm-1305439648
+2423743,"Warne loam, 0 to 2 percent slopes, occasionally flooded",Warne,10.0,Somewhat poorly drained,0.0,10.0,2.75,5.3,0.18,18.5,43.0,38.5,1.35,10.8,osm-1305439648
+2423743,"Warne loam, 0 to 2 percent slopes, occasionally flooded",Warne,10.0,Somewhat poorly drained,10.0,18.0,1.25,5.3,0.18,18.5,43.0,38.5,1.35,7.4,osm-1305439648
+2423743,"Warne loam, 0 to 2 percent slopes, occasionally flooded",Warne,10.0,Somewhat poorly drained,18.0,122.0,0.25,4.6,0.16,52.5,18.2,29.3,1.5,13.7,osm-1305439648
+2432831,"Pacolet sandy loam, 15 to 25 percent slopes",Spartanburg,8.0,Well drained,0.0,6.0,1.0,4.5,0.13,12.5,67.9,19.6,1.4,3.5,osm-1305439648
+2432831,"Pacolet sandy loam, 15 to 25 percent slopes",Spartanburg,8.0,Well drained,6.0,23.0,0.5,4.5,0.13,12.5,67.9,19.6,1.4,2.4,osm-1305439648
+2432831,"Pacolet sandy loam, 15 to 25 percent slopes",Spartanburg,8.0,Well drained,23.0,91.0,0.25,5.1,0.14,47.5,23.3,29.2,1.38,5.3,osm-1305439648
+112137,"Altavista fine sandy loam, 0 to 2 percent slopes, occasionally flooded",Warne,5.0,Somewhat poorly drained,0.0,10.0,2.75,5.3,0.18,18.5,43.0,38.5,1.35,10.8,osm-1305439648
+2423743,"Warne loam, 0 to 2 percent slopes, occasionally flooded",Dorian,5.0,Moderately well drained,0.0,15.0,0.75,5.5,0.12,12.0,71.3,16.7,1.43,4.7,osm-1305439648
+2423743,"Warne loam, 0 to 2 percent slopes, occasionally flooded",Roanoke,5.0,Poorly drained,0.0,10.0,1.25,4.5,0.17,17.0,28.0,55.0,1.35,7.1,osm-1305439648
+2432831,"Pacolet sandy loam, 15 to 25 percent slopes",Bethlehem,5.0,Well drained,0.0,10.0,1.0,5.0,0.13,12.5,67.9,19.6,1.4,3.5,osm-1305439648
+112137,"Altavista fine sandy loam, 0 to 2 percent slopes, occasionally flooded",Warne,5.0,Somewhat poorly drained,10.0,18.0,1.25,5.3,0.18,18.5,43.0,38.5,1.35,7.4,osm-1305439648
+2423743,"Warne loam, 0 to 2 percent slopes, occasionally flooded",Roanoke,5.0,Poorly drained,10.0,33.0,0.25,4.5,0.17,33.5,7.5,59.0,1.5,12.4,osm-1305439648
+2432831,"Pacolet sandy loam, 15 to 25 percent slopes",Bethlehem,5.0,Well drained,10.0,23.0,0.75,4.8,0.13,12.5,67.9,19.6,1.4,2.9,osm-1305439648
+2423743,"Warne loam, 0 to 2 percent slopes, occasionally flooded",Dorian,5.0,Moderately well drained,15.0,25.0,0.5,4.5,0.12,12.0,71.3,16.7,1.43,4.1,osm-1305439648
+112137,"Altavista fine sandy loam, 0 to 2 percent slopes, occasionally flooded",Warne,5.0,Somewhat poorly drained,18.0,122.0,0.25,4.6,0.16,52.5,18.2,29.3,1.5,13.7,osm-1305439648
+2432831,"Pacolet sandy loam, 15 to 25 percent slopes",Bethlehem,5.0,Well drained,23.0,66.0,0.25,4.8,0.14,47.5,23.3,29.2,1.38,5.3,osm-1305439648
+2423743,"Warne loam, 0 to 2 percent slopes, occasionally flooded",Dorian,5.0,Moderately well drained,25.0,46.0,0.25,4.5,0.14,27.0,34.8,38.2,1.43,7.3,osm-1305439648
+112137,"Altavista fine sandy loam, 0 to 2 percent slopes, occasionally flooded",Chewacla,3.0,Somewhat poorly drained,0.0,10.0,2.5,6.0,0.2,22.5,39.8,37.7,1.45,11.2,osm-1305439648
+112137,"Altavista fine sandy loam, 0 to 2 percent slopes, occasionally flooded",Chewacla,3.0,Somewhat poorly drained,10.0,66.0,1.25,5.5,0.2,30.0,17.4,52.6,1.4,9.4,osm-1305439648
+112137,"Altavista fine sandy loam, 0 to 2 percent slopes, occasionally flooded",Roanoke,2.0,Poorly drained,0.0,10.0,1.25,4.5,0.17,17.0,29.3,53.7,1.35,7.1,osm-1305439648
+112137,"Altavista fine sandy loam, 0 to 2 percent slopes, occasionally flooded",Roanoke,2.0,Poorly drained,10.0,33.0,0.25,4.5,0.17,33.5,17.5,49.0,1.5,12.4,osm-1305439648
+2424559,"Clifford sandy clay loam, 2 to 8 percent slopes, moderately eroded",Clifford,90.0,Well drained,0.0,15.0,0.75,6.3,0.14,26.0,59.0,15.0,1.56,5.9,osm-566823123
+2424559,"Clifford sandy clay loam, 2 to 8 percent slopes, moderately eroded",Clifford,90.0,Well drained,15.0,56.0,0.25,5.3,0.12,54.0,24.0,22.0,1.44,,osm-566823123
+2432591,"Fairview sandy clay loam, 8 to 15 percent slopes, moderately eroded",Fairview,88.0,Well drained,0.0,10.0,1.0,5.7,0.12,26.0,58.0,16.0,1.4,6.1,osm-566823123
+2432591,"Fairview sandy clay loam, 8 to 15 percent slopes, moderately eroded",Fairview,88.0,Well drained,10.0,23.0,0.75,5.7,0.12,26.0,58.0,16.0,1.4,5.8,osm-566823123
+2432591,"Fairview sandy clay loam, 8 to 15 percent slopes, moderately eroded",Fairview,88.0,Well drained,23.0,61.0,0.25,5.3,0.14,53.0,25.0,22.0,1.4,,osm-566823123
+2432591,"Fairview sandy clay loam, 8 to 15 percent slopes, moderately eroded",Westfield,6.0,Well drained,0.0,23.0,1.0,6.0,0.15,25.0,59.0,16.0,1.58,6.1,osm-566823123
+2432591,"Fairview sandy clay loam, 8 to 15 percent slopes, moderately eroded",Westfield,6.0,Well drained,23.0,71.0,0.25,5.5,0.11,51.0,26.0,23.0,1.55,7.6,osm-566823123
+2424559,"Clifford sandy clay loam, 2 to 8 percent slopes, moderately eroded",Westfield,5.0,Well drained,0.0,23.0,1.0,6.0,0.15,25.0,59.0,16.0,1.58,6.1,osm-566823123
+2424559,"Clifford sandy clay loam, 2 to 8 percent slopes, moderately eroded",Woolwine,5.0,Well drained,0.0,20.0,1.0,6.0,0.14,25.0,59.0,16.0,1.4,6.1,osm-566823123
+2424559,"Clifford sandy clay loam, 2 to 8 percent slopes, moderately eroded",Woolwine,5.0,Well drained,20.0,76.0,0.25,5.0,0.11,51.0,26.0,23.0,1.35,,osm-566823123
+2424559,"Clifford sandy clay loam, 2 to 8 percent slopes, moderately eroded",Westfield,5.0,Well drained,23.0,71.0,0.25,5.5,0.11,51.0,26.0,23.0,1.55,7.6,osm-566823123
+2432591,"Fairview sandy clay loam, 8 to 15 percent slopes, moderately eroded",Woolwine,4.0,Well drained,0.0,20.0,1.0,6.0,0.14,25.0,59.0,16.0,1.4,6.1,osm-566823123
+2432591,"Fairview sandy clay loam, 8 to 15 percent slopes, moderately eroded",Woolwine,4.0,Well drained,20.0,76.0,0.25,5.0,0.11,51.0,26.0,23.0,1.35,,osm-566823123
+2432591,"Fairview sandy clay loam, 8 to 15 percent slopes, moderately eroded",Poplar Forest,2.0,Well drained,0.0,15.0,1.25,5.5,0.14,28.0,54.7,17.3,1.35,5.6,osm-566823123
+2432591,"Fairview sandy clay loam, 8 to 15 percent slopes, moderately eroded",Poplar Forest,2.0,Well drained,15.0,66.0,0.25,5.0,0.16,40.0,30.0,30.0,1.3,4.6,osm-566823123
+2433515,"Dan River loam, 0 to 2 percent slopes, frequently flooded",Dan River,85.0,Well drained,0.0,46.0,1.25,5.5,0.2,18.5,43.0,38.5,1.45,7.5,osm-1278239614
+2433518,"Codorus loam, 0 to 2 percent slopes, frequently flooded",Codorus,85.0,Somewhat poorly drained,0.0,20.0,2.5,6.4,0.2,22.5,39.8,37.7,1.45,11.2,osm-1278239614
+2433806,"Hatboro loam, 0 to 2 percent slopes, frequently flooded",Hatboro,85.0,Poorly drained,0.0,20.0,3.5,5.5,0.13,16.0,43.8,40.2,1.48,12.5,osm-1278239614
+2434008,"Wickham fine sandy loam, mesic, 6 to 10 percent slopes",Wickham,85.0,Well drained,0.0,20.0,1.25,5.3,0.14,14.0,62.5,23.5,1.55,5.7,osm-1278239614
+2434010,"Wickham fine sandy loam, mesic, 2 to 6 percent slopes",Wickham,85.0,Well drained,0.0,20.0,1.25,5.3,0.14,14.0,62.5,23.5,1.55,5.7,osm-1278239614
+2433518,"Codorus loam, 0 to 2 percent slopes, frequently flooded",Codorus,85.0,Somewhat poorly drained,20.0,46.0,1.25,5.4,0.2,30.0,17.4,52.6,1.4,9.4,osm-1278239614
+2433806,"Hatboro loam, 0 to 2 percent slopes, frequently flooded",Hatboro,85.0,Poorly drained,20.0,109.0,0.5,5.5,0.18,26.5,55.8,17.7,1.4,15.0,osm-1278239614
+2434008,"Wickham fine sandy loam, mesic, 6 to 10 percent slopes",Wickham,85.0,Well drained,20.0,107.0,0.25,5.3,0.15,26.5,55.8,17.7,1.4,7.2,osm-1278239614
+2434010,"Wickham fine sandy loam, mesic, 2 to 6 percent slopes",Wickham,85.0,Well drained,20.0,107.0,0.25,5.3,0.15,26.5,55.8,17.7,1.4,7.2,osm-1278239614
+2433806,"Hatboro loam, 0 to 2 percent slopes, frequently flooded",Hatboro,10.0,Poorly drained,0.0,20.0,3.5,5.5,0.13,16.0,43.8,40.2,1.48,12.5,osm-1278239614
+2433806,"Hatboro loam, 0 to 2 percent slopes, frequently flooded",Hatboro,10.0,Poorly drained,20.0,109.0,0.5,5.5,0.18,26.5,55.8,17.7,1.4,15.0,osm-1278239614
+2433515,"Dan River loam, 0 to 2 percent slopes, frequently flooded",Hatboro,5.0,Poorly drained,0.0,20.0,3.5,5.5,0.13,16.0,43.8,40.2,1.48,12.5,osm-1278239614
+2433518,"Codorus loam, 0 to 2 percent slopes, frequently flooded",Hatboro,5.0,Poorly drained,0.0,20.0,3.5,5.5,0.13,16.0,43.8,40.2,1.48,12.5,osm-1278239614
+2433515,"Dan River loam, 0 to 2 percent slopes, frequently flooded",Hatboro,5.0,Poorly drained,20.0,109.0,0.5,5.5,0.18,26.5,55.8,17.7,1.4,15.0,osm-1278239614
+2433518,"Codorus loam, 0 to 2 percent slopes, frequently flooded",Hatboro,5.0,Poorly drained,20.0,109.0,0.5,5.5,0.18,26.5,55.8,17.7,1.4,15.0,osm-1278239614
+2433518,"Codorus loam, 0 to 2 percent slopes, frequently flooded",Banister,2.0,Moderately well drained,0.0,5.0,0.75,5.5,0.12,12.0,71.3,16.7,1.43,4.7,osm-1278239614
+2433518,"Codorus loam, 0 to 2 percent slopes, frequently flooded",Comus,2.0,Well drained,0.0,20.0,2.0,5.4,0.11,8.5,68.0,23.5,1.48,6.6,osm-1278239614
+2433518,"Codorus loam, 0 to 2 percent slopes, frequently flooded",Dan River,2.0,Well drained,0.0,20.0,2.0,5.4,0.2,18.5,43.0,38.5,1.45,9.1,osm-1278239614
+2433518,"Codorus loam, 0 to 2 percent slopes, frequently flooded",Pfafftown,2.0,Well drained,0.0,25.0,0.75,4.6,0.16,14.0,55.0,31.0,1.55,6.5,osm-1278239614
+2433518,"Codorus loam, 0 to 2 percent slopes, frequently flooded",Ronda,2.0,Excessively drained,0.0,20.0,1.0,6.2,0.08,7.5,83.5,9.0,1.68,4.1,osm-1278239614
+2433518,"Codorus loam, 0 to 2 percent slopes, frequently flooded",Banister,2.0,Moderately well drained,5.0,20.0,0.5,4.5,0.12,12.0,71.3,16.7,1.43,4.1,osm-1278239614
+2433518,"Codorus loam, 0 to 2 percent slopes, frequently flooded",Banister,2.0,Moderately well drained,20.0,56.0,0.25,4.5,0.14,29.0,34.8,36.2,1.43,7.3,osm-1278239614
+2433518,"Codorus loam, 0 to 2 percent slopes, frequently flooded",Comus,2.0,Well drained,20.0,140.0,1.0,5.8,0.11,10.5,66.3,23.2,1.45,4.9,osm-1278239614
+2433518,"Codorus loam, 0 to 2 percent slopes, frequently flooded",Dan River,2.0,Well drained,20.0,117.0,1.0,5.5,0.19,26.5,37.9,35.6,1.3,8.9,osm-1278239614
+2433518,"Codorus loam, 0 to 2 percent slopes, frequently flooded",Ronda,2.0,Excessively drained,20.0,46.0,0.5,5.4,0.05,7.5,90.7,1.8,1.68,3.0,osm-1278239614
+2433518,"Codorus loam, 0 to 2 percent slopes, frequently flooded",Pfafftown,2.0,Well drained,25.0,51.0,0.25,4.6,0.15,15.0,55.0,30.0,1.55,6.5,osm-1278239614
+112619,Water,Water,100.0,,,,,,,,,,,,osm-1103713058
+112597,"Helena sandy loam, 2 to 6 percent slopes",Helena,90.0,Moderately well drained,0.0,20.0,1.25,5.8,0.11,12.5,67.9,19.6,1.6,5.9,osm-1103713058
+112597,"Helena sandy loam, 2 to 6 percent slopes",Helena,90.0,Moderately well drained,20.0,30.0,0.5,5.4,0.11,12.5,67.9,19.6,1.6,4.2,osm-1103713058
+112614,"Vance sandy loam, 2 to 6 percent slopes",Vance,85.0,Well drained,0.0,20.0,1.25,5.5,0.12,14.0,66.8,19.2,1.58,6.3,osm-1103713058
+112627,"Wedowee sandy loam, 6 to 10 percent slopes",Wedowee,85.0,Well drained,0.0,10.0,1.25,5.1,0.13,12.5,67.9,19.6,1.53,4.1,osm-1103713058
+112627,"Wedowee sandy loam, 6 to 10 percent slopes",Wedowee,85.0,Well drained,10.0,18.0,0.5,5.1,0.13,12.5,67.9,19.6,1.53,2.4,osm-1103713058
+112627,"Wedowee sandy loam, 6 to 10 percent slopes",Wedowee,85.0,Well drained,18.0,58.0,0.25,5.1,0.16,47.0,40.0,13.0,1.35,5.3,osm-1103713058
+112614,"Vance sandy loam, 2 to 6 percent slopes",Vance,85.0,Well drained,20.0,76.0,0.25,5.0,0.14,47.5,23.3,29.2,1.33,12.4,osm-1103713058
+112614,"Vance sandy loam, 2 to 6 percent slopes",Helena,8.0,Moderately well drained,0.0,20.0,1.25,5.8,0.11,12.5,67.9,19.6,1.6,5.9,osm-1103713058
+112627,"Wedowee sandy loam, 6 to 10 percent slopes",Rion,8.0,Well drained,0.0,20.0,1.25,5.4,0.1,12.5,67.9,19.6,1.4,5.9,osm-1103713058
+112614,"Vance sandy loam, 2 to 6 percent slopes",Helena,8.0,Moderately well drained,20.0,30.0,0.5,5.4,0.11,12.5,67.9,19.6,1.6,4.2,osm-1103713058
+112627,"Wedowee sandy loam, 6 to 10 percent slopes",Rion,8.0,Well drained,20.0,66.0,0.25,5.7,0.12,26.5,55.8,17.7,1.45,7.2,osm-1103713058
+112597,"Helena sandy loam, 2 to 6 percent slopes",Vance,5.0,Well drained,0.0,20.0,1.25,5.5,0.12,14.0,66.8,19.2,1.58,6.3,osm-1103713058
+112627,"Wedowee sandy loam, 6 to 10 percent slopes",Vance,5.0,Well drained,0.0,15.0,1.25,5.0,0.12,14.0,66.8,19.2,1.58,6.3,osm-1103713058
+112627,"Wedowee sandy loam, 6 to 10 percent slopes",Vance,5.0,Well drained,15.0,91.0,0.25,5.0,0.14,47.5,23.3,29.2,1.33,12.4,osm-1103713058
+112597,"Helena sandy loam, 2 to 6 percent slopes",Vance,5.0,Well drained,20.0,76.0,0.25,5.0,0.14,47.5,23.3,29.2,1.33,12.4,osm-1103713058
+112614,"Vance sandy loam, 2 to 6 percent slopes",Appling,4.0,Well drained,0.0,15.0,1.25,6.0,0.13,12.5,67.9,19.6,1.53,4.1,osm-1103713058
+112614,"Vance sandy loam, 2 to 6 percent slopes",Appling,4.0,Well drained,15.0,46.0,0.25,5.0,0.14,32.5,53.5,14.0,1.35,3.8,osm-1103713058
+112597,"Helena sandy loam, 2 to 6 percent slopes",Wedowee,3.0,Well drained,0.0,10.0,1.25,5.1,0.13,12.5,67.9,19.6,1.53,4.1,osm-1103713058
+112614,"Vance sandy loam, 2 to 6 percent slopes",Wedowee,3.0,Well drained,0.0,10.0,1.25,5.1,0.13,12.5,67.9,19.6,1.53,4.1,osm-1103713058
+112597,"Helena sandy loam, 2 to 6 percent slopes",Wedowee,3.0,Well drained,10.0,18.0,0.5,5.1,0.13,12.5,67.9,19.6,1.53,2.4,osm-1103713058
+112614,"Vance sandy loam, 2 to 6 percent slopes",Wedowee,3.0,Well drained,10.0,18.0,0.5,5.1,0.13,12.5,67.9,19.6,1.53,2.4,osm-1103713058
+112597,"Helena sandy loam, 2 to 6 percent slopes",Wedowee,3.0,Well drained,18.0,58.0,0.25,5.1,0.16,47.0,40.0,13.0,1.35,5.3,osm-1103713058
+112614,"Vance sandy loam, 2 to 6 percent slopes",Wedowee,3.0,Well drained,18.0,58.0,0.25,5.1,0.16,47.0,40.0,13.0,1.35,5.3,osm-1103713058
+112597,"Helena sandy loam, 2 to 6 percent slopes",Worsham,1.0,Poorly drained,0.0,15.0,2.0,5.0,0.17,17.0,43.0,40.0,1.4,,osm-1103713058
+112627,"Wedowee sandy loam, 6 to 10 percent slopes",Wateree,1.0,Well drained,0.0,18.0,0.75,5.3,0.1,11.5,65.7,22.8,1.5,4.6,osm-1103713058
+112597,"Helena sandy loam, 2 to 6 percent slopes",Worsham,1.0,Poorly drained,15.0,41.0,1.25,5.0,0.14,27.5,43.0,29.5,1.4,,osm-1103713058
+112627,"Wedowee sandy loam, 6 to 10 percent slopes",Wateree,1.0,Well drained,18.0,71.0,0.25,5.3,0.1,11.5,65.7,22.8,1.45,3.4,osm-1103713058
+112754,"Cecil sandy loam, 2 to 6 percent slopes",Cecil,95.0,Well drained,0.0,20.0,0.75,6.2,0.11,12.0,68.0,20.0,1.58,2.9,osm-274848457
+3050241,"Cecil sandy loam, 2 to 6 percent slopes",Cecil,95.0,Well drained,0.0,20.0,0.75,6.2,0.11,12.0,68.0,20.0,1.58,2.9,osm-274848457
+112754,"Cecil sandy loam, 2 to 6 percent slopes",Cecil,95.0,Well drained,20.0,107.0,0.25,5.0,0.1,53.0,37.0,10.0,1.5,,osm-274848457
+3050241,"Cecil sandy loam, 2 to 6 percent slopes",Cecil,95.0,Well drained,20.0,107.0,0.25,5.0,0.1,53.0,37.0,10.0,1.5,,osm-274848457
+112756,"Cecil clay loam, 6 to 10 percent slopes, moderately eroded",Cecil,90.0,Well drained,0.0,20.0,0.25,6.0,0.14,27.5,45.0,27.5,1.4,3.3,osm-274848457
+112756,"Cecil clay loam, 6 to 10 percent slopes, moderately eroded",Cecil,90.0,Well drained,20.0,122.0,0.25,5.6,0.14,52.5,37.0,10.5,1.4,5.8,osm-274848457
+112778,"Pacolet sandy loam, 10 to 25 percent slopes",Pacolet,85.0,Well drained,0.0,13.0,1.25,5.5,0.1,14.0,66.8,19.2,1.25,4.2,osm-274848457
+2739852,"Pacolet sandy loam, 10 to 15 percent slopes",Pacolet,85.0,Well drained,0.0,20.0,1.25,5.5,0.12,10.0,67.0,23.0,1.58,,osm-274848457
+112778,"Pacolet sandy loam, 10 to 25 percent slopes",Pacolet,85.0,Well drained,13.0,20.0,1.25,5.5,0.1,10.0,66.9,23.1,1.25,4.2,osm-274848457
+112778,"Pacolet sandy loam, 10 to 25 percent slopes",Pacolet,85.0,Well drained,20.0,74.0,0.25,5.3,0.14,50.0,32.0,18.0,1.4,5.6,osm-274848457
+2739852,"Pacolet sandy loam, 10 to 15 percent slopes",Pacolet,85.0,Well drained,20.0,69.0,0.25,5.3,0.1,50.0,32.0,18.0,1.47,,osm-274848457
+2739852,"Pacolet sandy loam, 10 to 15 percent slopes",Wedowee,8.0,Well drained,0.0,10.0,1.25,5.3,0.15,10.0,64.0,26.0,1.56,,osm-274848457
+2739852,"Pacolet sandy loam, 10 to 15 percent slopes",Wedowee,8.0,Well drained,10.0,18.0,0.5,4.7,0.13,10.0,64.0,26.0,1.6,,osm-274848457
+2739852,"Pacolet sandy loam, 10 to 15 percent slopes",Wedowee,8.0,Well drained,18.0,58.0,0.25,4.7,0.14,49.0,35.0,16.0,1.51,,osm-274848457
+112756,"Cecil clay loam, 6 to 10 percent slopes, moderately eroded",Lloyd,7.0,Well drained,0.0,18.0,1.25,6.4,0.14,30.0,33.5,36.5,1.45,5.8,osm-274848457
+2739852,"Pacolet sandy loam, 10 to 15 percent slopes",Madison,7.0,Well drained,0.0,15.0,1.25,5.8,0.13,12.0,61.0,27.0,1.56,4.0,osm-274848457
+2739852,"Pacolet sandy loam, 10 to 15 percent slopes",Madison,7.0,Well drained,15.0,30.0,0.25,5.3,0.1,26.0,58.0,16.0,1.53,,osm-274848457
+112756,"Cecil clay loam, 6 to 10 percent slopes, moderately eroded",Lloyd,7.0,Well drained,18.0,147.0,0.25,5.4,0.14,55.0,17.1,27.9,1.38,6.1,osm-274848457
+112754,"Cecil sandy loam, 2 to 6 percent slopes",Pacolet,5.0,Well drained,0.0,20.0,1.25,5.5,0.12,10.0,67.0,23.0,1.58,,osm-274848457
+112778,"Pacolet sandy loam, 10 to 25 percent slopes",Bethlehem,5.0,Well drained,0.0,10.0,1.0,5.0,0.13,12.5,67.9,19.6,1.4,3.5,osm-274848457
+112778,"Pacolet sandy loam, 10 to 25 percent slopes",Spartanburg,5.0,Well drained,0.0,6.0,1.0,4.5,0.13,12.5,67.9,19.6,1.4,3.5,osm-274848457
+3050241,"Cecil sandy loam, 2 to 6 percent slopes",Pacolet,5.0,Well drained,0.0,20.0,1.25,5.5,0.12,10.0,67.0,23.0,1.58,,osm-274848457
+112778,"Pacolet sandy loam, 10 to 25 percent slopes",Spartanburg,5.0,Well drained,6.0,23.0,0.5,4.5,0.13,12.5,67.9,19.6,1.4,2.4,osm-274848457
+112778,"Pacolet sandy loam, 10 to 25 percent slopes",Bethlehem,5.0,Well drained,10.0,23.0,0.75,4.8,0.13,12.5,67.9,19.6,1.4,2.9,osm-274848457
+112754,"Cecil sandy loam, 2 to 6 percent slopes",Pacolet,5.0,Well drained,20.0,69.0,0.25,5.3,0.1,50.0,32.0,18.0,1.47,,osm-274848457
+3050241,"Cecil sandy loam, 2 to 6 percent slopes",Pacolet,5.0,Well drained,20.0,69.0,0.25,5.3,0.1,50.0,32.0,18.0,1.47,,osm-274848457
+112778,"Pacolet sandy loam, 10 to 25 percent slopes",Bethlehem,5.0,Well drained,23.0,66.0,0.25,4.8,0.14,47.5,23.3,29.2,1.38,5.3,osm-274848457
+112778,"Pacolet sandy loam, 10 to 25 percent slopes",Spartanburg,5.0,Well drained,23.0,91.0,0.25,5.1,0.14,47.5,23.3,29.2,1.38,5.3,osm-274848457
+112756,"Cecil clay loam, 6 to 10 percent slopes, moderately eroded",Madison,3.0,Well drained,0.0,13.0,1.25,5.5,0.14,33.5,26.5,40.0,1.35,4.5,osm-274848457
+112756,"Cecil clay loam, 6 to 10 percent slopes, moderately eroded",Madison,3.0,Well drained,13.0,74.0,0.25,5.0,0.16,40.0,24.0,36.0,1.3,,osm-274848457
+112864,Water,Water,100.0,,,,,,,,,,,,osm-260949778
+112829,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Chewacla,90.0,Somewhat poorly drained,0.0,15.0,2.5,6.3,0.23,13.0,47.0,40.0,1.5,7.1,osm-260949778
+2433031,"Mecklenburg sandy clay loam, 2 to 6 percent slopes, moderately eroded",Mecklenburg,90.0,Well drained,0.0,15.0,0.75,6.5,0.13,27.5,55.1,17.4,1.5,17.5,osm-260949778
+2433082,"Coronaca clay loam, 2 to 6 percent slopes",Coronaca,90.0,Well drained,0.0,20.0,1.25,6.5,0.15,32.5,35.5,32.0,1.45,5.4,osm-260949778
+2433097,"Enon fine sandy loam, 2 to 6 percent slopes",Enon,90.0,Well drained,0.0,7.0,1.25,6.0,0.13,12.5,70.9,16.6,1.55,9.1,osm-260949778
+3050323,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Chewacla,90.0,Somewhat poorly drained,0.0,15.0,2.5,6.3,0.23,13.0,47.0,40.0,1.5,7.1,osm-260949778
+2433097,"Enon fine sandy loam, 2 to 6 percent slopes",Enon,90.0,Well drained,7.0,20.0,0.75,5.8,0.13,12.5,70.9,16.6,1.55,7.9,osm-260949778
+112829,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Chewacla,90.0,Somewhat poorly drained,15.0,132.0,1.0,5.5,0.11,28.0,53.0,19.0,1.4,,osm-260949778
+2433031,"Mecklenburg sandy clay loam, 2 to 6 percent slopes, moderately eroded",Mecklenburg,90.0,Well drained,15.0,86.0,0.25,6.5,0.13,50.0,22.1,27.9,1.5,25.0,osm-260949778
+3050323,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Chewacla,90.0,Somewhat poorly drained,15.0,132.0,1.0,5.5,0.11,28.0,53.0,19.0,1.4,,osm-260949778
+2433082,"Coronaca clay loam, 2 to 6 percent slopes",Coronaca,90.0,Well drained,20.0,180.0,0.25,6.5,0.11,52.5,18.2,29.3,1.35,5.8,osm-260949778
+2433097,"Enon fine sandy loam, 2 to 6 percent slopes",Enon,90.0,Well drained,20.0,28.0,0.25,5.8,0.14,27.5,55.1,17.4,1.4,14.3,osm-260949778
+2433097,"Enon fine sandy loam, 2 to 6 percent slopes",Enon,90.0,Well drained,28.0,84.0,0.25,6.4,0.14,50.0,22.1,27.9,1.3,25.6,osm-260949778
+3050360,"Iredell loam, 2 to 6 percent slopes",Iredell,87.0,Moderately well drained,0.0,20.0,1.25,6.0,0.15,9.0,63.0,28.0,1.5,4.9,osm-260949778
+3050360,"Iredell loam, 2 to 6 percent slopes",Iredell,87.0,Moderately well drained,20.0,69.0,0.25,6.5,0.11,58.0,18.0,24.0,1.43,30.0,osm-260949778
+2433032,"Mecklenburg sandy clay loam, 6 to 10 percent slopes, moderately eroded",Mecklenburg,85.0,Well drained,0.0,15.0,0.75,6.5,0.13,27.5,55.1,17.4,1.5,17.5,osm-260949778
+2433038,"Wehadkee loam, 0 to 2 percent slopes, frequently flooded",Wehadkee,85.0,Poorly drained,0.0,20.0,3.5,5.5,0.13,16.0,43.8,40.2,1.48,12.5,osm-260949778
+2433087,"Coronaca clay loam, 6 to 10 percent slopes",Coronaca,85.0,Well drained,0.0,20.0,1.25,6.5,0.15,32.5,35.5,32.0,1.45,5.4,osm-260949778
+2433099,"Enon fine sandy loam, 6 to 10 percent slopes",Enon,85.0,Well drained,0.0,7.0,1.25,5.8,0.13,12.5,70.9,16.6,1.55,9.1,osm-260949778
+2433099,"Enon fine sandy loam, 6 to 10 percent slopes",Enon,85.0,Well drained,7.0,20.0,0.75,5.8,0.13,12.5,70.9,16.6,1.55,7.9,osm-260949778
+2433032,"Mecklenburg sandy clay loam, 6 to 10 percent slopes, moderately eroded",Mecklenburg,85.0,Well drained,15.0,86.0,0.25,6.5,0.13,50.0,22.1,27.9,1.5,25.0,osm-260949778
+2433038,"Wehadkee loam, 0 to 2 percent slopes, frequently flooded",Wehadkee,85.0,Poorly drained,20.0,109.0,0.5,5.5,0.18,26.5,55.8,17.7,1.4,15.0,osm-260949778
+2433087,"Coronaca clay loam, 6 to 10 percent slopes",Coronaca,85.0,Well drained,20.0,180.0,0.25,6.5,0.11,52.5,18.2,29.3,1.35,5.8,osm-260949778
+2433099,"Enon fine sandy loam, 6 to 10 percent slopes",Enon,85.0,Well drained,20.0,28.0,0.25,5.8,0.14,27.5,55.1,17.4,1.4,14.3,osm-260949778
+2433099,"Enon fine sandy loam, 6 to 10 percent slopes",Enon,85.0,Well drained,28.0,84.0,0.25,6.4,0.14,50.0,22.1,27.9,1.3,25.6,osm-260949778
+2433065,"Cecil sandy loam, 10 to 15 percent slopes",Cecil,80.0,Well drained,0.0,20.0,0.75,6.2,0.13,12.5,67.9,19.6,1.4,2.9,osm-260949778
+2433171,"Iredell fine sandy loam, 0 to 4 percent slopes",Iredell,80.0,Moderately well drained,0.0,15.0,1.25,6.2,0.14,15.0,65.4,19.6,1.5,10.0,osm-260949778
+2433171,"Iredell fine sandy loam, 0 to 4 percent slopes",Iredell,80.0,Moderately well drained,15.0,58.0,0.1,6.5,0.19,50.0,22.1,27.9,1.33,28.0,osm-260949778
+2433065,"Cecil sandy loam, 10 to 15 percent slopes",Cecil,80.0,Well drained,20.0,107.0,0.25,5.0,0.14,52.5,37.0,10.5,1.4,5.8,osm-260949778
+2433038,"Wehadkee loam, 0 to 2 percent slopes, frequently flooded",Wehadkee,10.0,Poorly drained,0.0,20.0,3.5,5.7,0.13,16.0,43.8,40.2,1.48,12.5,osm-260949778
+2433038,"Wehadkee loam, 0 to 2 percent slopes, frequently flooded",Wehadkee,10.0,Poorly drained,20.0,109.0,0.5,5.7,0.18,26.5,55.8,17.7,1.4,15.0,osm-260949778
+112829,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Riverview,5.0,Well drained,0.0,46.0,1.25,5.5,0.22,19.0,43.0,38.0,1.44,,osm-260949778
+112829,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Wehadkee,5.0,Poorly drained,0.0,20.0,3.5,5.5,0.2,18.0,47.0,35.0,1.34,,osm-260949778
+3050323,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Riverview,5.0,Well drained,0.0,46.0,1.25,5.5,0.22,19.0,43.0,38.0,1.44,,osm-260949778
+3050323,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Wehadkee,5.0,Poorly drained,0.0,20.0,3.5,5.5,0.2,18.0,47.0,35.0,1.34,,osm-260949778
+3050360,"Iredell loam, 2 to 6 percent slopes",Pittsboro,5.0,Moderately well drained,0.0,23.0,1.25,6.3,0.08,10.0,65.0,25.0,1.51,5.4,osm-260949778
+112829,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Wehadkee,5.0,Poorly drained,20.0,109.0,0.5,5.5,0.12,25.0,50.0,25.0,1.44,,osm-260949778
+3050323,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Wehadkee,5.0,Poorly drained,20.0,109.0,0.5,5.5,0.12,25.0,50.0,25.0,1.44,,osm-260949778
+3050360,"Iredell loam, 2 to 6 percent slopes",Pittsboro,5.0,Moderately well drained,23.0,41.0,0.75,6.3,0.17,24.0,42.0,34.0,1.47,12.8,osm-260949778
+2433097,"Enon fine sandy loam, 2 to 6 percent slopes",Iredell,4.0,Moderately well drained,0.0,15.0,1.25,6.2,0.16,25.0,38.5,36.5,1.3,15.3,osm-260949778
+2433099,"Enon fine sandy loam, 6 to 10 percent slopes",Wynott,4.0,Well drained,0.0,5.0,1.25,5.5,0.18,17.0,43.3,39.7,1.5,8.8,osm-260949778
+3050360,"Iredell loam, 2 to 6 percent slopes",Enon,4.0,Well drained,0.0,23.0,1.0,5.0,0.15,9.0,60.0,31.0,1.53,,osm-260949778
+3050360,"Iredell loam, 2 to 6 percent slopes",Sedgefield,4.0,Moderately well drained,0.0,33.0,1.25,5.3,0.16,9.0,60.0,31.0,1.6,,osm-260949778
+2433099,"Enon fine sandy loam, 6 to 10 percent slopes",Wynott,4.0,Well drained,5.0,25.0,0.75,5.5,0.18,17.0,43.3,39.7,1.5,7.6,osm-260949778
+2433097,"Enon fine sandy loam, 2 to 6 percent slopes",Iredell,4.0,Moderately well drained,15.0,64.0,0.25,6.4,0.19,50.0,22.1,27.9,1.33,25.6,osm-260949778
+3050360,"Iredell loam, 2 to 6 percent slopes",Enon,4.0,Well drained,23.0,86.0,0.2,5.8,0.14,54.0,30.0,16.0,1.4,27.9,osm-260949778
+2433099,"Enon fine sandy loam, 6 to 10 percent slopes",Wynott,4.0,Well drained,25.0,51.0,0.25,6.3,0.09,50.0,22.1,27.9,1.35,18.1,osm-260949778
+2433038,"Wehadkee loam, 0 to 2 percent slopes, frequently flooded",Chewacla,3.0,Somewhat poorly drained,0.0,10.0,2.5,6.0,0.2,22.5,39.8,37.7,1.45,11.2,osm-260949778
+2433097,"Enon fine sandy loam, 2 to 6 percent slopes",Wynott,3.0,Well drained,0.0,5.0,1.25,5.5,0.18,17.0,43.3,39.7,1.5,8.8,osm-260949778
+2433099,"Enon fine sandy loam, 6 to 10 percent slopes",Wedowee,3.0,Well drained,0.0,10.0,1.25,5.1,0.13,12.5,67.9,19.6,1.53,4.1,osm-260949778
+2433097,"Enon fine sandy loam, 2 to 6 percent slopes",Wynott,3.0,Well drained,5.0,25.0,0.75,5.5,0.18,17.0,43.3,39.7,1.5,7.6,osm-260949778
+2433038,"Wehadkee loam, 0 to 2 percent slopes, frequently flooded",Chewacla,3.0,Somewhat poorly drained,10.0,66.0,1.25,5.5,0.2,30.0,17.4,52.6,1.4,9.4,osm-260949778
+2433099,"Enon fine sandy loam, 6 to 10 percent slopes",Wedowee,3.0,Well drained,10.0,18.0,0.5,5.1,0.13,12.5,67.9,19.6,1.53,2.4,osm-260949778
+2433099,"Enon fine sandy loam, 6 to 10 percent slopes",Wedowee,3.0,Well drained,18.0,58.0,0.25,5.1,0.16,47.0,40.0,13.0,1.35,5.3,osm-260949778
+2433097,"Enon fine sandy loam, 2 to 6 percent slopes",Wynott,3.0,Well drained,25.0,51.0,0.25,6.3,0.09,50.0,22.1,27.9,1.35,18.1,osm-260949778
+2433038,"Wehadkee loam, 0 to 2 percent slopes, frequently flooded",Riverview,2.0,Well drained,0.0,46.0,1.25,5.5,0.2,18.5,43.0,38.5,1.45,7.5,osm-260949778
+2433097,"Enon fine sandy loam, 2 to 6 percent slopes",Picture,1.0,Poorly drained,0.0,18.0,3.5,6.2,0.2,17.0,43.3,39.7,1.35,16.4,osm-260949778
+2433099,"Enon fine sandy loam, 6 to 10 percent slopes",Cecil,1.0,Well drained,0.0,20.0,0.75,6.2,0.13,12.5,67.9,19.6,1.4,2.9,osm-260949778
+2433097,"Enon fine sandy loam, 2 to 6 percent slopes",Picture,1.0,Poorly drained,18.0,79.0,0.25,6.7,0.16,45.0,26.1,28.9,1.35,23.1,osm-260949778
+2433099,"Enon fine sandy loam, 6 to 10 percent slopes",Cecil,1.0,Well drained,20.0,107.0,0.25,5.0,0.14,52.5,37.0,10.5,1.4,5.8,osm-260949778
+811328,"Wagram loamy sand, 0 to 6 percent slopes",Wagram,90.0,Well drained,0.0,20.0,1.25,5.3,0.07,6.0,77.7,16.3,1.68,3.4,osm-1133139440
+811328,"Wagram loamy sand, 0 to 6 percent slopes",Wagram,90.0,Well drained,20.0,61.0,0.5,5.3,0.07,6.0,77.7,16.3,1.68,1.7,osm-1133139440
+811280,"Goldsboro loamy sand, 0 to 2 percent slopes, Southern Coastal Plain",Goldsboro,85.0,Moderately well drained,0.0,23.0,1.5,4.7,0.12,6.0,83.0,11.0,1.55,,osm-1133139440
+811283,Johnston loam,Johnston,85.0,Very poorly drained,0.0,76.0,11.5,5.0,0.23,12.5,45.7,41.8,1.35,29.0,osm-1133139440
+811280,"Goldsboro loamy sand, 0 to 2 percent slopes, Southern Coastal Plain",Goldsboro,85.0,Moderately well drained,23.0,30.0,0.25,4.7,0.09,4.0,85.0,11.0,1.6,,osm-1133139440
+811296,"Norfolk loamy sand, 0 to 2 percent slopes",Norfolk,83.0,Well drained,0.0,20.0,1.5,4.5,0.12,8.0,83.0,9.0,1.55,,osm-1133139440
+811297,"Norfolk loamy sand, 2 to 6 percent slopes",Norfolk,83.0,Well drained,0.0,20.0,1.5,4.5,0.12,7.0,82.0,11.0,1.54,,osm-1133139440
+811296,"Norfolk loamy sand, 0 to 2 percent slopes",Norfolk,83.0,Well drained,20.0,36.0,0.5,4.5,0.08,8.0,83.0,9.0,1.61,,osm-1133139440
+811297,"Norfolk loamy sand, 2 to 6 percent slopes",Norfolk,83.0,Well drained,20.0,36.0,0.5,4.5,0.08,7.0,82.0,11.0,1.62,,osm-1133139440
+811301,"Rains sandy loam, 0 to 2 percent slopes",Rains,58.0,Poorly drained,0.0,15.0,3.5,5.1,0.13,12.0,71.0,17.0,1.44,,osm-1133139440
+811301,"Rains sandy loam, 0 to 2 percent slopes",Rains,58.0,Poorly drained,15.0,30.0,0.75,5.1,0.15,12.0,71.0,17.0,1.61,,osm-1133139440
+811301,"Rains sandy loam, 0 to 2 percent slopes",Rains,24.0,Poorly drained,0.0,15.0,3.5,5.1,0.13,12.0,71.0,17.0,1.44,,osm-1133139440
+811301,"Rains sandy loam, 0 to 2 percent slopes",Rains,24.0,Poorly drained,15.0,30.0,0.75,5.1,0.15,12.0,71.0,17.0,1.61,,osm-1133139440
+811283,Johnston loam,Johnston,15.0,Very poorly drained,0.0,76.0,11.5,5.0,0.23,12.5,45.7,41.8,1.35,29.0,osm-1133139440
+811297,"Norfolk loamy sand, 2 to 6 percent slopes",Wagram,10.0,Well drained,0.0,20.0,1.25,5.3,0.07,8.0,83.0,9.0,1.58,,osm-1133139440
+811301,"Rains sandy loam, 0 to 2 percent slopes",Lynchburg,10.0,Somewhat poorly drained,0.0,23.0,2.75,4.7,0.14,11.0,61.0,28.0,1.54,,osm-1133139440
+811297,"Norfolk loamy sand, 2 to 6 percent slopes",Wagram,10.0,Well drained,20.0,61.0,0.5,5.3,0.07,8.0,83.0,9.0,1.66,,osm-1133139440
+811301,"Rains sandy loam, 0 to 2 percent slopes",Lynchburg,10.0,Somewhat poorly drained,23.0,36.0,0.25,4.7,0.14,8.0,75.0,17.0,1.57,,osm-1133139440
+811296,"Norfolk loamy sand, 0 to 2 percent slopes",Goldsboro,9.0,Moderately well drained,0.0,25.0,1.5,4.7,0.12,8.0,83.0,9.0,1.55,,osm-1133139440
+811296,"Norfolk loamy sand, 0 to 2 percent slopes",Goldsboro,9.0,Moderately well drained,25.0,157.0,0.25,4.7,0.14,23.0,60.0,17.0,1.65,,osm-1133139440
+811280,"Goldsboro loamy sand, 0 to 2 percent slopes, Southern Coastal Plain",Norfolk,8.0,Well drained,0.0,23.0,1.5,4.5,0.12,6.0,83.0,11.0,1.55,,osm-1133139440
+811296,"Norfolk loamy sand, 0 to 2 percent slopes",Wagram,8.0,Well drained,0.0,20.0,1.25,5.3,0.07,7.0,83.0,10.0,1.6,,osm-1133139440
+811301,"Rains sandy loam, 0 to 2 percent slopes",Pantego,8.0,Very poorly drained,0.0,46.0,7.0,4.5,0.2,10.0,50.0,40.0,1.38,,osm-1133139440
+811296,"Norfolk loamy sand, 0 to 2 percent slopes",Wagram,8.0,Well drained,20.0,61.0,0.5,5.3,0.07,7.0,80.0,13.0,1.66,,osm-1133139440
+811280,"Goldsboro loamy sand, 0 to 2 percent slopes, Southern Coastal Plain",Norfolk,8.0,Well drained,23.0,38.0,0.5,4.5,0.08,6.0,83.0,11.0,1.6,,osm-1133139440
+811280,"Goldsboro loamy sand, 0 to 2 percent slopes, Southern Coastal Plain",Lynchburg,7.0,Somewhat poorly drained,0.0,23.0,2.75,4.7,0.14,6.0,83.0,11.0,1.56,,osm-1133139440
+811297,"Norfolk loamy sand, 2 to 6 percent slopes",Goldsboro,7.0,Moderately well drained,0.0,25.0,1.5,4.7,0.12,7.0,82.0,11.0,1.56,,osm-1133139440
+811280,"Goldsboro loamy sand, 0 to 2 percent slopes, Southern Coastal Plain",Lynchburg,7.0,Somewhat poorly drained,23.0,36.0,0.25,4.7,0.12,6.0,83.0,11.0,1.62,,osm-1133139440
+811297,"Norfolk loamy sand, 2 to 6 percent slopes",Goldsboro,7.0,Moderately well drained,25.0,157.0,0.25,4.7,0.14,23.0,60.0,17.0,1.65,,osm-1133139440
+811328,"Wagram loamy sand, 0 to 6 percent slopes",Bibb,3.0,Poorly drained,0.0,15.0,2.0,4.6,0.12,10.0,81.1,8.9,1.53,7.0,osm-1133139440
+811328,"Wagram loamy sand, 0 to 6 percent slopes",Bibb,3.0,Poorly drained,15.0,152.0,2.0,4.6,0.12,10.0,66.9,23.1,1.53,7.0,osm-1133139440
+811328,"Wagram loamy sand, 0 to 6 percent slopes",Johnston,2.0,Very poorly drained,0.0,76.0,11.5,5.0,0.23,12.5,45.7,41.8,1.35,29.0,osm-1133139440
+2424295,"Lloyd clay loam, 2 to 6 percent slopes, moderately eroded",Lloyd,90.0,Well drained,0.0,18.0,1.25,6.4,0.14,30.0,33.5,36.5,1.45,5.8,osm-1435108796
+2424296,"Lloyd clay loam, 6 to 10 percent slopes, moderately eroded",Lloyd,90.0,Well drained,0.0,18.0,1.25,6.4,0.14,30.0,33.5,36.5,1.45,5.8,osm-1435108796
+2424295,"Lloyd clay loam, 2 to 6 percent slopes, moderately eroded",Lloyd,90.0,Well drained,18.0,147.0,0.25,5.4,0.14,55.0,17.1,27.9,1.38,6.1,osm-1435108796
+2424296,"Lloyd clay loam, 6 to 10 percent slopes, moderately eroded",Lloyd,90.0,Well drained,18.0,147.0,0.25,5.4,0.14,55.0,17.1,27.9,1.38,6.1,osm-1435108796
+2424291,"Hiwassee fine sandy loam, 2 to 6 percent slopes",Hiwassee,85.0,Well drained,0.0,15.0,1.25,6.1,0.14,16.6,67.5,15.9,1.45,4.2,osm-1435108796
+2424376,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Mecklenburg,85.0,Well drained,0.0,18.0,0.75,6.5,0.13,30.0,33.5,36.5,1.5,12.2,osm-1435108796
+2424382,"Iredell loam, 2 to 6 percent slopes",Iredell,85.0,Moderately well drained,0.0,15.0,1.25,6.2,0.16,25.0,38.5,36.5,1.3,15.3,osm-1435108796
+2424291,"Hiwassee fine sandy loam, 2 to 6 percent slopes",Hiwassee,85.0,Well drained,15.0,188.0,0.25,5.7,0.14,46.0,32.0,22.0,1.38,5.5,osm-1435108796
+2424382,"Iredell loam, 2 to 6 percent slopes",Iredell,85.0,Moderately well drained,15.0,64.0,0.25,6.4,0.19,50.0,22.1,27.9,1.33,25.6,osm-1435108796
+2424376,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Mecklenburg,85.0,Well drained,18.0,76.0,0.25,6.5,0.13,50.0,22.1,27.9,1.5,18.1,osm-1435108796
+2424384,"Iredell loam, 6 to 10 percent slopes",Iredell,80.0,Moderately well drained,0.0,15.0,1.25,6.2,0.16,25.0,38.5,36.5,1.3,15.3,osm-1435108796
+2424384,"Iredell loam, 6 to 10 percent slopes",Iredell,80.0,Moderately well drained,15.0,64.0,0.25,6.5,0.19,50.0,22.1,27.9,1.33,25.6,osm-1435108796
+2424909,"Udorthents-Urban land complex, 0 to 45 percent slopes",Udorthents,55.0,Well drained,0.0,203.0,0.5,6.2,0.14,30.0,55.5,14.5,1.48,8.6,osm-1435108796
+2424909,"Udorthents-Urban land complex, 0 to 45 percent slopes",Urban land,45.0,,,,,,,,,,,,osm-1435108796
+2424386,"Poindexter-Rowan complex, 8 to 15 percent slopes",Poindexter,45.0,Well drained,0.0,8.0,2.0,6.8,0.16,14.0,44.8,41.2,1.35,9.4,osm-1435108796
+2424386,"Poindexter-Rowan complex, 8 to 15 percent slopes",Poindexter,45.0,Well drained,8.0,18.0,1.0,6.2,0.16,14.0,44.8,41.2,1.35,7.2,osm-1435108796
+2424386,"Poindexter-Rowan complex, 8 to 15 percent slopes",Poindexter,45.0,Well drained,18.0,66.0,0.25,5.8,0.16,26.5,55.8,17.7,1.4,9.4,osm-1435108796
+2424386,"Poindexter-Rowan complex, 8 to 15 percent slopes",Rowan,40.0,Well drained,0.0,5.0,2.0,5.4,0.15,14.0,44.8,41.2,1.43,9.4,osm-1435108796
+2424386,"Poindexter-Rowan complex, 8 to 15 percent slopes",Rowan,40.0,Well drained,5.0,23.0,1.0,5.4,0.15,14.0,44.8,41.2,1.43,7.2,osm-1435108796
+2424386,"Poindexter-Rowan complex, 8 to 15 percent slopes",Rowan,40.0,Well drained,23.0,74.0,0.25,5.8,0.18,26.5,55.8,17.7,1.43,9.8,osm-1435108796
+2424382,"Iredell loam, 2 to 6 percent slopes",Sedgefield,10.0,Moderately well drained,0.0,20.0,1.25,5.8,0.13,14.0,66.1,19.9,1.5,9.5,osm-1435108796
+2424384,"Iredell loam, 6 to 10 percent slopes",Sedgefield,10.0,Moderately well drained,0.0,20.0,1.25,5.8,0.13,14.0,66.1,19.9,1.5,9.5,osm-1435108796
+2424386,"Poindexter-Rowan complex, 8 to 15 percent slopes",Wynott,10.0,Well drained,0.0,10.0,1.25,4.9,0.15,12.5,67.9,19.6,1.48,9.1,osm-1435108796
+2424386,"Poindexter-Rowan complex, 8 to 15 percent slopes",Wynott,10.0,Well drained,10.0,36.0,0.25,4.9,0.15,12.5,67.9,19.6,1.48,6.8,osm-1435108796
+2424382,"Iredell loam, 2 to 6 percent slopes",Sedgefield,10.0,Moderately well drained,20.0,102.0,0.25,5.8,0.16,47.5,23.3,29.2,1.33,25.0,osm-1435108796
+2424384,"Iredell loam, 6 to 10 percent slopes",Sedgefield,10.0,Moderately well drained,20.0,102.0,0.25,5.8,0.16,47.5,23.3,29.2,1.33,25.0,osm-1435108796
+2424291,"Hiwassee fine sandy loam, 2 to 6 percent slopes",Masada,8.0,Well drained,0.0,23.0,2.0,5.0,0.14,15.0,62.3,22.7,1.35,,osm-1435108796
+2424296,"Lloyd clay loam, 6 to 10 percent slopes, moderately eroded",Madison,8.0,Well drained,0.0,13.0,1.25,5.5,0.14,33.5,26.5,40.0,1.35,4.5,osm-1435108796
+2424296,"Lloyd clay loam, 6 to 10 percent slopes, moderately eroded",Madison,8.0,Well drained,13.0,74.0,0.25,5.0,0.16,40.0,24.0,36.0,1.3,,osm-1435108796
+2424291,"Hiwassee fine sandy loam, 2 to 6 percent slopes",Masada,8.0,Well drained,23.0,114.0,0.25,5.0,0.14,47.5,28.5,24.0,1.45,,osm-1435108796
+2424295,"Lloyd clay loam, 2 to 6 percent slopes, moderately eroded",Madison,6.0,Well drained,0.0,13.0,1.25,5.5,0.14,33.5,26.5,40.0,1.35,4.5,osm-1435108796
+2424295,"Lloyd clay loam, 2 to 6 percent slopes, moderately eroded",Madison,6.0,Well drained,13.0,74.0,0.25,5.0,0.16,40.0,24.0,36.0,1.3,,osm-1435108796
+2424291,"Hiwassee fine sandy loam, 2 to 6 percent slopes",Cecil,5.0,Well drained,0.0,18.0,0.75,5.5,0.13,12.5,70.9,16.6,1.4,3.0,osm-1435108796
+2424376,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Lloyd,5.0,Well drained,0.0,18.0,1.25,6.4,0.14,30.0,33.5,36.5,1.45,5.8,osm-1435108796
+2424384,"Iredell loam, 6 to 10 percent slopes",Brewback,5.0,Somewhat poorly drained,0.0,10.0,0.75,6.0,0.16,12.0,69.9,18.1,1.4,6.5,osm-1435108796
+2424384,"Iredell loam, 6 to 10 percent slopes",Brewback,5.0,Somewhat poorly drained,10.0,25.0,0.25,6.3,0.16,27.5,54.5,18.0,1.4,17.5,osm-1435108796
+2424291,"Hiwassee fine sandy loam, 2 to 6 percent slopes",Cecil,5.0,Well drained,18.0,102.0,0.25,5.0,0.14,52.5,37.0,10.5,1.4,5.8,osm-1435108796
+2424376,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Lloyd,5.0,Well drained,18.0,147.0,0.25,5.4,0.14,55.0,17.1,27.9,1.38,6.1,osm-1435108796
+2424384,"Iredell loam, 6 to 10 percent slopes",Brewback,5.0,Somewhat poorly drained,25.0,76.0,0.25,7.0,0.1,50.0,30.0,20.0,1.35,26.0,osm-1435108796
+2424376,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Pacolet,3.0,Well drained,0.0,18.0,0.75,6.2,0.12,27.5,55.1,17.4,1.4,4.4,osm-1435108796
+2424382,"Iredell loam, 2 to 6 percent slopes",Armenia,3.0,Poorly drained,0.0,8.0,2.5,6.5,0.2,18.5,43.0,38.5,1.35,12.0,osm-1435108796
+2424382,"Iredell loam, 2 to 6 percent slopes",Armenia,3.0,Poorly drained,8.0,163.0,0.5,7.0,0.16,47.5,23.3,29.2,1.35,25.0,osm-1435108796
+2424376,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Pacolet,3.0,Well drained,18.0,61.0,0.25,5.7,0.14,50.0,22.1,27.9,1.4,5.6,osm-1435108796
+2424376,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Enon,2.0,Well drained,0.0,18.0,1.25,5.8,0.13,12.5,70.9,16.6,1.55,9.1,osm-1435108796
+2424386,"Poindexter-Rowan complex, 8 to 15 percent slopes",Wilkes,2.0,Well drained,0.0,8.0,1.25,5.5,0.13,12.5,67.9,19.6,1.4,9.1,osm-1435108796
+2424386,"Poindexter-Rowan complex, 8 to 15 percent slopes",Wilkes,2.0,Well drained,8.0,15.0,0.5,5.5,0.13,12.5,67.9,19.6,1.4,7.4,osm-1435108796
+2424386,"Poindexter-Rowan complex, 8 to 15 percent slopes",Wilkes,2.0,Well drained,15.0,25.0,0.25,6.5,0.18,45.0,26.1,28.9,1.5,23.1,osm-1435108796
+2424376,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Enon,2.0,Well drained,18.0,25.0,0.5,5.8,0.13,28.0,54.7,17.3,1.45,15.1,osm-1435108796
+2424376,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Enon,2.0,Well drained,25.0,68.0,0.25,6.4,0.14,50.0,22.1,27.9,1.3,25.6,osm-1435108796
+2424386,"Poindexter-Rowan complex, 8 to 15 percent slopes",Wilkes,2.0,Well drained,25.0,33.0,0.25,6.5,0.18,29.0,34.0,37.0,1.45,15.1,osm-1435108796
+2442016,"Chewacla silt loam, 0 to 2 percent slopes, frequently flooded",Chewacla,87.0,Somewhat poorly drained,0.0,10.0,2.5,5.5,0.2,22.5,22.4,55.1,1.45,11.2,osm-1424677694
+2442016,"Chewacla silt loam, 0 to 2 percent slopes, frequently flooded",Chewacla,87.0,Somewhat poorly drained,10.0,66.0,1.25,5.5,0.2,30.0,17.4,52.6,1.4,9.4,osm-1424677694
+113582,"Dothan loamy sand, 0 to 2 percent slopes",Dothan,85.0,Well drained,0.0,18.0,0.5,5.3,0.08,5.0,86.0,9.0,1.63,,osm-1424677694
+113583,"Dothan loamy sand, 2 to 8 percent slopes",Dothan,85.0,Well drained,0.0,25.0,1.25,5.3,0.08,7.5,85.7,6.8,1.45,3.6,osm-1424677694
+113585,"Fuquay loamy sand, 0 to 6 percent slopes",Fuquay,85.0,Well drained,0.0,25.0,1.0,5.5,0.07,5.0,86.0,9.0,1.58,,osm-1424677694
+2442019,"Nanford silt loam, 8 to 15 percent slopes",Nanford,85.0,Well drained,0.0,15.0,2.0,5.5,0.17,18.5,27.1,54.4,1.4,9.1,osm-1424677694
+2442019,"Nanford silt loam, 8 to 15 percent slopes",Nanford,85.0,Well drained,15.0,79.0,0.1,5.0,0.16,42.5,7.7,49.8,1.45,13.0,osm-1424677694
+113582,"Dothan loamy sand, 0 to 2 percent slopes",Dothan,85.0,Well drained,18.0,33.0,0.25,5.3,0.08,6.0,86.0,8.0,1.68,,osm-1424677694
+113583,"Dothan loamy sand, 2 to 8 percent slopes",Dothan,85.0,Well drained,25.0,30.0,0.5,5.3,0.08,7.5,85.7,6.8,1.45,1.9,osm-1424677694
+113585,"Fuquay loamy sand, 0 to 6 percent slopes",Fuquay,85.0,Well drained,25.0,71.0,0.15,5.0,0.07,6.0,87.0,7.0,1.64,,osm-1424677694
+2442016,"Chewacla silt loam, 0 to 2 percent slopes, frequently flooded",Congaree,8.0,Moderately well drained,0.0,25.0,2.5,6.0,0.16,17.0,43.3,39.7,1.3,9.9,osm-1424677694
+2442016,"Chewacla silt loam, 0 to 2 percent slopes, frequently flooded",Congaree,8.0,Moderately well drained,25.0,203.0,1.25,6.0,0.16,26.5,37.9,35.6,1.35,9.4,osm-1424677694
+113582,"Dothan loamy sand, 0 to 2 percent slopes",Norfolk,7.0,Well drained,0.0,18.0,0.5,6.1,0.09,10.0,86.0,4.0,1.64,2.0,osm-1424677694
+113585,"Fuquay loamy sand, 0 to 6 percent slopes",Dothan,7.0,Well drained,0.0,18.0,0.5,5.3,0.08,5.0,86.0,9.0,1.63,,osm-1424677694
+113582,"Dothan loamy sand, 0 to 2 percent slopes",Norfolk,7.0,Well drained,18.0,38.0,0.5,5.4,0.09,10.0,86.0,4.0,1.58,,osm-1424677694
+113585,"Fuquay loamy sand, 0 to 6 percent slopes",Dothan,7.0,Well drained,18.0,33.0,0.25,5.3,0.08,6.0,86.0,8.0,1.68,,osm-1424677694
+113585,"Fuquay loamy sand, 0 to 6 percent slopes",Candor,5.0,Somewhat excessively drained,0.0,8.0,0.5,4.9,0.04,5.0,93.0,2.0,1.63,,osm-1424677694
+2442016,"Chewacla silt loam, 0 to 2 percent slopes, frequently flooded",Wehadkee,5.0,Poorly drained,0.0,20.0,3.5,5.5,0.13,16.0,43.8,40.2,1.48,12.5,osm-1424677694
+113585,"Fuquay loamy sand, 0 to 6 percent slopes",Candor,5.0,Somewhat excessively drained,8.0,64.0,0.2,4.7,0.04,5.0,93.0,2.0,1.64,,osm-1424677694
+2442016,"Chewacla silt loam, 0 to 2 percent slopes, frequently flooded",Wehadkee,5.0,Poorly drained,20.0,109.0,0.5,5.5,0.18,26.5,55.8,17.7,1.4,15.0,osm-1424677694
+113582,"Dothan loamy sand, 0 to 2 percent slopes",Fuquay,4.0,Well drained,0.0,20.0,0.5,4.2,0.05,2.8,90.6,6.6,1.65,1.4,osm-1424677694
+113582,"Dothan loamy sand, 0 to 2 percent slopes",Goldsboro,4.0,Moderately well drained,0.0,20.0,1.25,4.8,0.14,10.0,66.6,23.4,1.5,3.8,osm-1424677694
+113582,"Dothan loamy sand, 0 to 2 percent slopes",Fuquay,4.0,Well drained,20.0,68.0,0.2,4.3,0.05,3.1,87.1,9.8,1.65,0.5,osm-1424677694
+113582,"Dothan loamy sand, 0 to 2 percent slopes",Goldsboro,4.0,Moderately well drained,20.0,89.0,0.1,4.6,0.14,24.0,58.2,17.8,1.4,2.6,osm-1424677694
+113583,"Dothan loamy sand, 2 to 8 percent slopes",Bibb,3.0,Poorly drained,0.0,15.0,2.0,4.6,0.12,10.0,66.9,23.1,1.53,7.0,osm-1424677694
+113585,"Fuquay loamy sand, 0 to 6 percent slopes",Blaney,3.0,Well drained,0.0,23.0,0.75,5.0,0.04,7.5,83.5,9.0,1.62,,osm-1424677694
+113583,"Dothan loamy sand, 2 to 8 percent slopes",Bibb,3.0,Poorly drained,15.0,152.0,2.0,4.6,0.12,10.0,66.9,23.1,1.53,7.0,osm-1424677694
+113585,"Fuquay loamy sand, 0 to 6 percent slopes",Blaney,3.0,Well drained,23.0,56.0,0.25,5.0,0.04,7.5,83.5,9.0,1.67,,osm-1424677694
+1402231,"Ailey loamy sand, 8 to 15 percent slopes",Ailey,85.0,Well drained,0.0,8.0,1.25,5.5,0.04,7.0,84.0,9.0,1.6,,osm-692623518
+2233545,"Ailey loamy sand, 8 to 15 percent slopes",Ailey,85.0,Well drained,0.0,8.0,1.25,5.5,0.04,7.0,84.0,9.0,1.6,,osm-692623518
+2233561,"Candor sand, 0 to 8 percent slopes",Candor,85.0,Somewhat excessively drained,0.0,20.0,0.75,4.8,0.04,2.5,96.0,1.5,1.65,2.0,osm-692623518
+1402231,"Ailey loamy sand, 8 to 15 percent slopes",Ailey,85.0,Well drained,8.0,76.0,0.25,5.5,0.04,5.0,90.0,5.0,1.7,,osm-692623518
+2233545,"Ailey loamy sand, 8 to 15 percent slopes",Ailey,85.0,Well drained,8.0,76.0,0.25,5.5,0.04,5.0,90.0,5.0,1.7,,osm-692623518
+2233561,"Candor sand, 0 to 8 percent slopes",Candor,85.0,Somewhat excessively drained,20.0,69.0,0.25,4.8,0.04,2.5,96.0,1.5,1.65,0.8,osm-692623518
+1402231,"Ailey loamy sand, 8 to 15 percent slopes",Candor,7.0,Somewhat excessively drained,0.0,20.0,0.75,4.8,0.04,2.5,96.0,1.5,1.65,2.0,osm-692623518
+2233545,"Ailey loamy sand, 8 to 15 percent slopes",Candor,7.0,Somewhat excessively drained,0.0,20.0,0.75,4.8,0.04,2.5,96.0,1.5,1.65,2.0,osm-692623518
+1402231,"Ailey loamy sand, 8 to 15 percent slopes",Candor,7.0,Somewhat excessively drained,20.0,64.0,0.25,4.8,0.04,2.5,96.0,1.5,1.65,0.8,osm-692623518
+2233545,"Ailey loamy sand, 8 to 15 percent slopes",Candor,7.0,Somewhat excessively drained,20.0,64.0,0.25,4.8,0.04,2.5,96.0,1.5,1.65,0.8,osm-692623518
+1402231,"Ailey loamy sand, 8 to 15 percent slopes",Bibb,5.0,Poorly drained,0.0,15.0,2.0,4.6,0.12,10.0,46.0,44.0,1.53,7.0,osm-692623518
+2233545,"Ailey loamy sand, 8 to 15 percent slopes",Bibb,5.0,Poorly drained,0.0,15.0,2.0,4.6,0.12,10.0,46.0,44.0,1.53,7.0,osm-692623518
+2233561,"Candor sand, 0 to 8 percent slopes",Ailey,5.0,Well drained,0.0,10.0,1.25,5.5,0.04,7.5,83.5,9.0,1.4,3.6,osm-692623518
+2233561,"Candor sand, 0 to 8 percent slopes",Ailey,5.0,Well drained,10.0,94.0,0.25,5.5,0.04,7.5,83.5,9.0,1.4,1.3,osm-692623518
+1402231,"Ailey loamy sand, 8 to 15 percent slopes",Bibb,5.0,Poorly drained,15.0,152.0,2.0,4.6,0.12,10.0,66.9,23.1,1.53,7.0,osm-692623518
+2233545,"Ailey loamy sand, 8 to 15 percent slopes",Bibb,5.0,Poorly drained,15.0,152.0,2.0,4.6,0.12,10.0,66.9,23.1,1.53,7.0,osm-692623518
+1402231,"Ailey loamy sand, 8 to 15 percent slopes",Johnston,3.0,Very poorly drained,0.0,76.0,14.0,4.7,0.15,15.0,44.3,40.7,1.4,33.0,osm-692623518
+2233545,"Ailey loamy sand, 8 to 15 percent slopes",Johnston,3.0,Very poorly drained,0.0,76.0,14.0,4.7,0.15,15.0,44.3,40.7,1.4,33.0,osm-692623518
+2233561,"Candor sand, 0 to 8 percent slopes",Bibb,2.0,Poorly drained,0.0,15.0,2.0,4.6,0.12,10.0,66.9,23.1,1.53,7.0,osm-692623518
+2233561,"Candor sand, 0 to 8 percent slopes",Bibb,2.0,Poorly drained,15.0,152.0,2.0,4.6,0.12,10.0,66.9,23.1,1.53,7.0,osm-692623518
+2233561,"Candor sand, 0 to 8 percent slopes",Johnston,1.0,Very poorly drained,0.0,76.0,14.0,4.7,0.15,15.0,44.3,40.7,1.4,33.0,osm-692623518
+113917,"Mayodan fine sandy loam, 2 to 8 percent slopes",Mayodan,85.0,Well drained,0.0,15.0,1.25,5.3,0.14,12.5,67.3,20.2,1.53,6.0,osm-199889806
+113918,"Mayodan fine sandy loam, 8 to 15 percent slopes",Mayodan,85.0,Well drained,0.0,15.0,1.25,5.3,0.14,12.5,67.3,20.2,1.53,6.0,osm-199889806
+113917,"Mayodan fine sandy loam, 2 to 8 percent slopes",Mayodan,85.0,Well drained,15.0,23.0,0.1,5.3,0.17,30.0,55.5,14.5,1.35,7.5,osm-199889806
+113918,"Mayodan fine sandy loam, 8 to 15 percent slopes",Mayodan,85.0,Well drained,15.0,23.0,0.1,5.3,0.17,30.0,55.5,14.5,1.35,7.0,osm-199889806
+113917,"Mayodan fine sandy loam, 2 to 8 percent slopes",Mayodan,85.0,Well drained,23.0,84.0,0.1,5.0,0.15,47.5,23.3,29.2,1.4,12.0,osm-199889806
+113918,"Mayodan fine sandy loam, 8 to 15 percent slopes",Mayodan,85.0,Well drained,23.0,84.0,0.1,5.0,0.15,47.5,23.3,29.2,1.4,12.0,osm-199889806
+113927,"Pinkston silt loam, 15 to 40 percent slopes",Pinkston,80.0,Well drained,0.0,15.0,1.25,5.0,0.15,11.5,32.3,56.2,1.3,6.8,osm-199889806
+113927,"Pinkston silt loam, 15 to 40 percent slopes",Pinkston,80.0,Well drained,15.0,41.0,0.75,5.0,0.12,14.0,30.4,55.6,1.35,6.6,osm-199889806
+113920,"Mooshaunee-Hallison complex, 2 to 8 percent slopes",Mooshaunee,50.0,Moderately well drained,0.0,8.0,2.5,4.8,0.19,16.5,13.8,69.7,1.45,11.4,osm-199889806
+113921,"Mooshaunee-Hallison complex, 8 to 15 percent slopes",Mooshaunee,50.0,Moderately well drained,0.0,8.0,2.5,4.8,0.19,16.5,13.8,69.7,1.45,11.4,osm-199889806
+113920,"Mooshaunee-Hallison complex, 2 to 8 percent slopes",Mooshaunee,50.0,Moderately well drained,8.0,25.0,0.5,4.8,0.19,16.5,13.8,69.7,1.45,6.9,osm-199889806
+113921,"Mooshaunee-Hallison complex, 8 to 15 percent slopes",Mooshaunee,50.0,Moderately well drained,8.0,25.0,0.5,4.8,0.19,16.5,13.8,69.7,1.45,6.9,osm-199889806
+113920,"Mooshaunee-Hallison complex, 2 to 8 percent slopes",Mooshaunee,50.0,Moderately well drained,25.0,94.0,0.25,4.5,0.15,31.0,6.7,62.3,1.35,11.4,osm-199889806
+113921,"Mooshaunee-Hallison complex, 8 to 15 percent slopes",Mooshaunee,50.0,Moderately well drained,25.0,94.0,0.25,4.5,0.15,31.0,6.7,62.3,1.35,11.4,osm-199889806
+113920,"Mooshaunee-Hallison complex, 2 to 8 percent slopes",Hallison,35.0,Well drained,0.0,18.0,2.5,4.8,0.18,19.5,11.6,68.9,1.45,12.4,osm-199889806
+113920,"Mooshaunee-Hallison complex, 2 to 8 percent slopes",Hallison,35.0,Well drained,18.0,28.0,0.5,4.8,0.18,19.5,11.6,68.9,1.45,8.0,osm-199889806
+113920,"Mooshaunee-Hallison complex, 2 to 8 percent slopes",Hallison,35.0,Well drained,28.0,104.0,0.25,4.5,0.18,31.0,6.7,62.3,1.35,11.4,osm-199889806
+113921,"Mooshaunee-Hallison complex, 8 to 15 percent slopes",Hallison,30.0,Well drained,0.0,18.0,2.5,4.8,0.18,19.5,11.6,68.9,1.45,12.4,osm-199889806
+113921,"Mooshaunee-Hallison complex, 8 to 15 percent slopes",Hallison,30.0,Well drained,18.0,28.0,0.5,4.8,0.18,19.5,11.6,68.9,1.45,8.0,osm-199889806
+113921,"Mooshaunee-Hallison complex, 8 to 15 percent slopes",Hallison,30.0,Well drained,28.0,104.0,0.25,4.5,0.18,31.0,6.7,62.3,1.35,11.4,osm-199889806
+114246,"Georgeville loam, 2 to 6 percent slopes",Georgeville,90.0,Well drained,0.0,20.0,1.0,5.3,0.18,18.0,40.0,42.0,1.5,,osm-813157720
+114247,"Georgeville loam, 6 to 10 percent slopes",Georgeville,90.0,Well drained,0.0,20.0,1.25,6.0,0.18,16.0,43.8,40.2,1.3,4.4,osm-813157720
+114246,"Georgeville loam, 2 to 6 percent slopes",Georgeville,90.0,Well drained,20.0,114.0,0.25,5.0,0.16,50.0,14.0,36.0,1.44,,osm-813157720
+114247,"Georgeville loam, 6 to 10 percent slopes",Georgeville,90.0,Well drained,20.0,38.0,0.25,5.0,0.16,31.0,35.4,33.6,1.3,3.7,osm-813157720
+114259,"Herndon loam, 2 to 6 percent slopes",Herndon,85.0,Well drained,0.0,8.0,1.0,6.0,0.17,13.5,30.5,56.0,1.3,3.3,osm-813157720
+114262,"Lignum loam, 2 to 6 percent slopes",Lignum,85.0,Moderately well drained,0.0,5.0,1.5,5.0,0.17,17.5,29.1,53.4,1.35,7.8,osm-813157720
+2441281,"Iredell gravelly loam, 2 to 6 percent slopes",Iredell,85.0,Moderately well drained,0.0,13.0,1.25,6.2,0.16,17.5,38.5,44.0,1.3,12.0,osm-813157720
+114262,"Lignum loam, 2 to 6 percent slopes",Lignum,85.0,Moderately well drained,5.0,30.0,1.0,5.0,0.17,17.5,29.1,53.4,1.35,7.2,osm-813157720
+114259,"Herndon loam, 2 to 6 percent slopes",Herndon,85.0,Well drained,8.0,23.0,0.75,5.5,0.17,13.5,30.5,56.0,1.3,3.3,osm-813157720
+2441281,"Iredell gravelly loam, 2 to 6 percent slopes",Iredell,85.0,Moderately well drained,13.0,64.0,0.25,6.5,0.19,50.0,22.1,27.9,1.33,28.0,osm-813157720
+114259,"Herndon loam, 2 to 6 percent slopes",Herndon,85.0,Well drained,23.0,36.0,0.25,4.6,0.17,36.5,18.9,44.6,1.4,5.3,osm-813157720
+114260,"Herndon loam, 6 to 10 percent slopes",Herndon,80.0,Well drained,0.0,8.0,1.0,6.0,0.17,13.5,30.5,56.0,1.3,3.3,osm-813157720
+114260,"Herndon loam, 6 to 10 percent slopes",Herndon,80.0,Well drained,8.0,23.0,0.75,5.5,0.17,13.5,30.5,56.0,1.3,3.3,osm-813157720
+114260,"Herndon loam, 6 to 10 percent slopes",Herndon,80.0,Well drained,23.0,36.0,0.25,4.6,0.17,36.5,18.9,44.6,1.4,5.3,osm-813157720
+2439286,"Chewacla and Wehadkee soils, 0 to 2 percent slopes, frequently flooded",Chewacla,55.0,Somewhat poorly drained,0.0,10.0,2.5,6.0,0.2,22.5,39.8,37.7,1.45,11.2,osm-813157720
+2439286,"Chewacla and Wehadkee soils, 0 to 2 percent slopes, frequently flooded",Chewacla,55.0,Somewhat poorly drained,10.0,66.0,1.25,5.5,0.2,30.0,17.4,52.6,1.4,9.4,osm-813157720
+2439286,"Chewacla and Wehadkee soils, 0 to 2 percent slopes, frequently flooded",Wehadkee,30.0,Poorly drained,0.0,20.0,3.5,6.0,0.13,16.0,43.8,40.2,1.48,12.5,osm-813157720
+2439286,"Chewacla and Wehadkee soils, 0 to 2 percent slopes, frequently flooded",Wehadkee,30.0,Poorly drained,20.0,109.0,0.5,5.5,0.18,26.5,55.8,17.7,1.4,15.0,osm-813157720
+2439286,"Chewacla and Wehadkee soils, 0 to 2 percent slopes, frequently flooded",Wehadkee,10.0,Poorly drained,0.0,20.0,3.5,6.0,0.13,16.0,43.8,40.2,1.48,12.5,osm-813157720
+2439286,"Chewacla and Wehadkee soils, 0 to 2 percent slopes, frequently flooded",Wehadkee,10.0,Poorly drained,20.0,109.0,0.5,5.5,0.18,26.5,55.8,17.7,1.4,15.0,osm-813157720
+114262,"Lignum loam, 2 to 6 percent slopes",Cid,8.0,Moderately well drained,0.0,5.0,1.25,4.5,0.14,17.5,29.1,53.4,1.48,7.2,osm-813157720
+2441281,"Iredell gravelly loam, 2 to 6 percent slopes",Sedgefield,8.0,Moderately well drained,0.0,20.0,1.25,5.8,0.13,14.0,66.1,19.9,1.5,9.5,osm-813157720
+114262,"Lignum loam, 2 to 6 percent slopes",Cid,8.0,Moderately well drained,5.0,13.0,1.25,4.5,0.14,17.5,29.1,53.4,1.48,7.2,osm-813157720
+114262,"Lignum loam, 2 to 6 percent slopes",Cid,8.0,Moderately well drained,13.0,36.0,0.25,4.5,0.15,35.0,6.2,58.8,1.4,12.4,osm-813157720
+2441281,"Iredell gravelly loam, 2 to 6 percent slopes",Sedgefield,8.0,Moderately well drained,20.0,102.0,0.25,5.8,0.16,47.5,23.3,29.2,1.33,25.0,osm-813157720
+114247,"Georgeville loam, 6 to 10 percent slopes",Tatum,7.0,Well drained,0.0,15.0,1.0,5.0,0.16,33.5,18.7,47.8,1.4,10.6,osm-813157720
+114247,"Georgeville loam, 6 to 10 percent slopes",Tatum,7.0,Well drained,15.0,127.0,0.25,5.0,0.15,52.5,5.7,41.8,1.5,13.7,osm-813157720
+114246,"Georgeville loam, 2 to 6 percent slopes",Tatum,6.0,Well drained,0.0,20.0,1.25,5.0,0.18,19.5,25.5,55.0,1.25,4.8,osm-813157720
+114246,"Georgeville loam, 2 to 6 percent slopes",Tatum,6.0,Well drained,20.0,127.0,0.25,5.0,0.15,39.0,23.0,38.0,1.5,5.8,osm-813157720
+114259,"Herndon loam, 2 to 6 percent slopes",Nanford,5.0,Well drained,0.0,15.0,2.0,5.5,0.17,18.5,27.1,54.4,1.4,9.1,osm-813157720
+114260,"Herndon loam, 6 to 10 percent slopes",Nanford,5.0,Well drained,0.0,8.0,2.0,5.5,0.17,18.5,27.1,54.4,1.4,6.5,osm-813157720
+114262,"Lignum loam, 2 to 6 percent slopes",Herndon,5.0,Well drained,0.0,8.0,1.0,6.0,0.17,13.5,30.5,56.0,1.3,3.3,osm-813157720
+2439286,"Chewacla and Wehadkee soils, 0 to 2 percent slopes, frequently flooded",Congaree,5.0,Moderately well drained,0.0,25.0,2.5,6.0,0.16,17.0,43.3,39.7,1.3,9.9,osm-813157720
+114260,"Herndon loam, 6 to 10 percent slopes",Nanford,5.0,Well drained,8.0,18.0,0.75,5.5,0.17,18.5,27.1,54.4,1.4,6.5,osm-813157720
+114262,"Lignum loam, 2 to 6 percent slopes",Herndon,5.0,Well drained,8.0,23.0,0.75,5.5,0.17,13.5,30.5,56.0,1.3,3.3,osm-813157720
+114259,"Herndon loam, 2 to 6 percent slopes",Nanford,5.0,Well drained,15.0,79.0,0.1,5.0,0.16,42.5,7.7,49.8,1.45,13.0,osm-813157720
+114260,"Herndon loam, 6 to 10 percent slopes",Nanford,5.0,Well drained,18.0,31.0,0.1,5.0,0.16,37.0,7.7,55.3,1.45,4.5,osm-813157720
+114262,"Lignum loam, 2 to 6 percent slopes",Herndon,5.0,Well drained,23.0,36.0,0.25,4.6,0.17,36.5,18.9,44.6,1.4,5.3,osm-813157720
+2439286,"Chewacla and Wehadkee soils, 0 to 2 percent slopes, frequently flooded",Congaree,5.0,Moderately well drained,25.0,203.0,1.25,6.0,0.16,26.5,37.9,35.6,1.35,9.4,osm-813157720
+114246,"Georgeville loam, 2 to 6 percent slopes",Lignum,4.0,Moderately well drained,0.0,5.0,1.5,5.0,0.17,17.0,21.0,62.0,1.4,,osm-813157720
+2441281,"Iredell gravelly loam, 2 to 6 percent slopes",Wynott,4.0,Well drained,0.0,5.0,1.25,5.5,0.18,17.0,43.3,39.7,1.5,8.8,osm-813157720
+114246,"Georgeville loam, 2 to 6 percent slopes",Lignum,4.0,Moderately well drained,5.0,30.0,1.0,5.0,0.17,17.0,21.0,62.0,1.48,,osm-813157720
+2441281,"Iredell gravelly loam, 2 to 6 percent slopes",Wynott,4.0,Well drained,5.0,25.0,0.75,5.5,0.18,17.0,43.3,39.7,1.5,7.6,osm-813157720
+2441281,"Iredell gravelly loam, 2 to 6 percent slopes",Wynott,4.0,Well drained,25.0,51.0,0.25,6.3,0.09,50.0,22.1,27.9,1.35,18.1,osm-813157720
+114247,"Georgeville loam, 6 to 10 percent slopes",Lignum,3.0,Moderately well drained,0.0,5.0,1.5,5.0,0.17,17.5,29.1,53.4,1.35,7.8,osm-813157720
+114259,"Herndon loam, 2 to 6 percent slopes",Lignum,3.0,Moderately well drained,0.0,5.0,1.5,5.0,0.17,17.5,29.1,53.4,1.35,7.8,osm-813157720
+2441281,"Iredell gravelly loam, 2 to 6 percent slopes",Armenia,3.0,Poorly drained,0.0,8.0,2.5,6.5,0.2,18.5,43.0,38.5,1.35,12.0,osm-813157720
+114247,"Georgeville loam, 6 to 10 percent slopes",Lignum,3.0,Moderately well drained,5.0,30.0,1.0,5.0,0.17,17.5,29.1,53.4,1.35,7.2,osm-813157720
+114259,"Herndon loam, 2 to 6 percent slopes",Lignum,3.0,Moderately well drained,5.0,30.0,1.0,5.0,0.17,17.5,29.1,53.4,1.35,7.2,osm-813157720
+2441281,"Iredell gravelly loam, 2 to 6 percent slopes",Armenia,3.0,Poorly drained,8.0,163.0,0.5,7.0,0.16,47.5,23.3,29.2,1.35,25.0,osm-813157720
+114262,"Lignum loam, 2 to 6 percent slopes",Roanoke,1.0,Poorly drained,0.0,10.0,1.25,4.5,0.17,17.0,29.3,53.7,1.35,7.1,osm-813157720
+114262,"Lignum loam, 2 to 6 percent slopes",Roanoke,1.0,Poorly drained,10.0,33.0,0.25,4.5,0.17,33.5,17.5,49.0,1.5,12.4,osm-813157720
+117434,"Cecil sandy clay loam, 2 to 8 percent slopes, moderately eroded",Cecil,88.0,Well drained,0.0,15.0,0.75,5.5,0.17,27.0,55.4,17.6,1.5,7.5,osm-834363677
+117434,"Cecil sandy clay loam, 2 to 8 percent slopes, moderately eroded",Cecil,88.0,Well drained,15.0,102.0,0.25,5.6,0.09,52.5,37.0,10.5,1.4,5.8,osm-834363677
+117433,"Cecil sandy loam, 8 to 15 percent slopes",Cecil,85.0,Well drained,0.0,20.0,0.75,6.2,0.13,12.5,67.9,19.6,1.4,2.9,osm-834363677
+117452,"Mecklenburg loam, 8 to 15 percent slopes",Mecklenburg,85.0,Well drained,0.0,20.0,1.25,6.5,0.17,16.5,43.5,40.0,1.4,8.6,osm-834363677
+117454,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Mecklenburg,85.0,Well drained,0.0,18.0,0.75,6.5,0.13,30.0,33.5,36.5,1.5,12.2,osm-834363677
+117454,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Mecklenburg,85.0,Well drained,18.0,76.0,0.25,6.5,0.13,50.0,22.1,27.9,1.5,18.1,osm-834363677
+117433,"Cecil sandy loam, 8 to 15 percent slopes",Cecil,85.0,Well drained,20.0,107.0,0.25,5.0,0.14,52.5,37.0,10.5,1.4,5.8,osm-834363677
+117452,"Mecklenburg loam, 8 to 15 percent slopes",Mecklenburg,85.0,Well drained,20.0,64.0,0.25,6.5,0.13,50.0,22.1,27.9,1.5,18.1,osm-834363677
+117475,"Wynott-Enon complex, 2 to 8 percent slopes",Wynott,60.0,Well drained,0.0,10.0,1.25,4.9,0.15,12.5,67.9,19.6,1.48,9.1,osm-834363677
+117475,"Wynott-Enon complex, 2 to 8 percent slopes",Wynott,60.0,Well drained,10.0,36.0,0.25,4.9,0.15,12.5,67.9,19.6,1.48,6.8,osm-834363677
+117476,"Wynott-Enon complex, 8 to 15 percent slopes",Wynott,55.0,Well drained,0.0,10.0,1.25,4.9,0.15,12.5,67.9,19.6,1.48,9.1,osm-834363677
+117476,"Wynott-Enon complex, 8 to 15 percent slopes",Wynott,55.0,Well drained,10.0,36.0,0.25,4.9,0.15,12.5,67.9,19.6,1.48,6.8,osm-834363677
+117476,"Wynott-Enon complex, 8 to 15 percent slopes",Enon,35.0,Well drained,0.0,18.0,1.25,5.8,0.13,12.5,70.9,16.6,1.55,9.1,osm-834363677
+117476,"Wynott-Enon complex, 8 to 15 percent slopes",Enon,35.0,Well drained,18.0,25.0,0.5,5.8,0.13,28.0,54.7,17.3,1.45,15.1,osm-834363677
+117476,"Wynott-Enon complex, 8 to 15 percent slopes",Enon,35.0,Well drained,25.0,68.0,0.25,6.4,0.14,50.0,22.1,27.9,1.3,25.6,osm-834363677
+117473,"Wilkes-Poindexter-Wynott complex, 8 to 15 percent slopes",Wilkes,34.0,Well drained,0.0,8.0,1.25,5.5,0.13,12.5,45.7,41.8,1.4,9.1,osm-834363677
+117473,"Wilkes-Poindexter-Wynott complex, 8 to 15 percent slopes",Wilkes,34.0,Well drained,8.0,15.0,0.5,5.5,0.13,12.5,45.7,41.8,1.4,7.4,osm-834363677
+117473,"Wilkes-Poindexter-Wynott complex, 8 to 15 percent slopes",Wilkes,34.0,Well drained,15.0,25.0,0.25,6.5,0.18,45.0,26.1,28.9,1.5,23.1,osm-834363677
+117473,"Wilkes-Poindexter-Wynott complex, 8 to 15 percent slopes",Wilkes,34.0,Well drained,25.0,33.0,0.25,6.5,0.18,29.0,34.0,37.0,1.45,15.1,osm-834363677
+117473,"Wilkes-Poindexter-Wynott complex, 8 to 15 percent slopes",Poindexter,32.0,Well drained,0.0,10.0,2.0,6.8,0.16,14.0,44.8,41.2,1.35,9.4,osm-834363677
+117473,"Wilkes-Poindexter-Wynott complex, 8 to 15 percent slopes",Poindexter,32.0,Well drained,10.0,30.0,1.0,6.2,0.16,14.0,44.8,41.2,1.35,7.2,osm-834363677
+117475,"Wynott-Enon complex, 2 to 8 percent slopes",Enon,30.0,Well drained,0.0,18.0,1.25,5.8,0.13,12.5,70.9,16.6,1.55,9.1,osm-834363677
+117475,"Wynott-Enon complex, 2 to 8 percent slopes",Enon,30.0,Well drained,18.0,25.0,0.5,5.8,0.13,28.0,54.7,17.3,1.45,15.1,osm-834363677
+117475,"Wynott-Enon complex, 2 to 8 percent slopes",Enon,30.0,Well drained,25.0,68.0,0.25,6.4,0.14,50.0,22.1,27.9,1.3,25.6,osm-834363677
+117473,"Wilkes-Poindexter-Wynott complex, 8 to 15 percent slopes",Wynott,21.0,Well drained,0.0,10.0,1.25,5.5,0.17,18.5,43.0,38.5,1.35,12.1,osm-834363677
+117473,"Wilkes-Poindexter-Wynott complex, 8 to 15 percent slopes",Wynott,21.0,Well drained,10.0,18.0,0.75,5.5,0.17,18.5,43.0,38.5,1.35,10.9,osm-834363677
+117473,"Wilkes-Poindexter-Wynott complex, 8 to 15 percent slopes",Wynott,21.0,Well drained,18.0,36.0,0.25,5.5,0.17,18.5,43.0,38.5,1.35,9.8,osm-834363677
+117434,"Cecil sandy clay loam, 2 to 8 percent slopes, moderately eroded",Madison,8.0,Well drained,0.0,15.0,1.25,5.5,0.14,28.0,54.7,17.3,1.35,5.6,osm-834363677
+117434,"Cecil sandy clay loam, 2 to 8 percent slopes, moderately eroded",Madison,8.0,Well drained,15.0,66.0,0.25,5.0,0.16,40.0,30.0,30.0,1.3,4.6,osm-834363677
+117454,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Lloyd,5.0,Well drained,0.0,18.0,1.25,6.4,0.14,30.0,33.5,36.5,1.45,5.8,osm-834363677
+117475,"Wynott-Enon complex, 2 to 8 percent slopes",Sedgefield,5.0,Moderately well drained,0.0,20.0,1.25,5.8,0.13,14.0,66.1,19.9,1.5,9.5,osm-834363677
+117476,"Wynott-Enon complex, 8 to 15 percent slopes",Wilkes,5.0,Well drained,0.0,8.0,1.25,5.5,0.13,12.5,67.9,19.6,1.4,9.1,osm-834363677
+117476,"Wynott-Enon complex, 8 to 15 percent slopes",Wilkes,5.0,Well drained,8.0,15.0,0.5,5.5,0.13,12.5,67.9,19.6,1.4,7.4,osm-834363677
+117476,"Wynott-Enon complex, 8 to 15 percent slopes",Wilkes,5.0,Well drained,15.0,25.0,0.25,6.5,0.18,45.0,26.1,28.9,1.5,23.1,osm-834363677
+117454,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Lloyd,5.0,Well drained,18.0,147.0,0.25,5.4,0.14,55.0,17.1,27.9,1.38,6.1,osm-834363677
+117475,"Wynott-Enon complex, 2 to 8 percent slopes",Sedgefield,5.0,Moderately well drained,20.0,102.0,0.25,5.8,0.16,47.5,23.3,29.2,1.33,25.0,osm-834363677
+117476,"Wynott-Enon complex, 8 to 15 percent slopes",Wilkes,5.0,Well drained,25.0,33.0,0.25,6.5,0.18,29.0,34.0,37.0,1.45,15.1,osm-834363677
+117434,"Cecil sandy clay loam, 2 to 8 percent slopes, moderately eroded",Vance,4.0,Well drained,0.0,15.0,0.75,5.3,0.14,27.5,55.1,17.4,1.38,8.6,osm-834363677
+117434,"Cecil sandy clay loam, 2 to 8 percent slopes, moderately eroded",Vance,4.0,Well drained,15.0,25.0,0.75,5.3,0.14,27.5,55.1,17.4,1.38,8.6,osm-834363677
+117434,"Cecil sandy clay loam, 2 to 8 percent slopes, moderately eroded",Vance,4.0,Well drained,25.0,97.0,0.25,5.0,0.14,47.5,23.3,29.2,1.33,12.4,osm-834363677
+117454,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Pacolet,3.0,Well drained,0.0,18.0,0.75,6.2,0.12,27.5,55.1,17.4,1.4,4.4,osm-834363677
+117454,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Pacolet,3.0,Well drained,18.0,61.0,0.25,5.7,0.14,50.0,22.1,27.9,1.4,5.6,osm-834363677
+117454,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Enon,2.0,Well drained,0.0,18.0,1.25,5.8,0.13,12.5,70.9,16.6,1.55,9.1,osm-834363677
+117475,"Wynott-Enon complex, 2 to 8 percent slopes",Iredell,2.0,Moderately well drained,0.0,15.0,1.25,6.2,0.16,25.0,38.5,36.5,1.3,15.3,osm-834363677
+117476,"Wynott-Enon complex, 8 to 15 percent slopes",Sedgefield,2.0,Moderately well drained,0.0,20.0,1.25,5.8,0.13,14.0,66.1,19.9,1.5,9.5,osm-834363677
+117475,"Wynott-Enon complex, 2 to 8 percent slopes",Iredell,2.0,Moderately well drained,15.0,64.0,0.25,6.5,0.19,50.0,22.1,27.9,1.33,25.6,osm-834363677
+117454,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Enon,2.0,Well drained,18.0,25.0,0.5,5.8,0.13,28.0,54.7,17.3,1.45,15.1,osm-834363677
+117476,"Wynott-Enon complex, 8 to 15 percent slopes",Sedgefield,2.0,Moderately well drained,20.0,102.0,0.25,5.8,0.16,47.5,23.3,29.2,1.33,25.0,osm-834363677
+117454,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Enon,2.0,Well drained,25.0,68.0,0.25,6.4,0.14,50.0,22.1,27.9,1.3,25.6,osm-834363677
+2973889,"Cullen clay loam, 10 to 15 percent slopes, moderately eroded",Cullen,95.0,Well drained,0.0,25.0,1.25,6.7,0.16,33.0,32.0,35.0,1.43,10.2,osm-1361967329
+2973891,"Cullen clay loam, 2 to 6 percent slopes, moderately eroded",Cullen,95.0,Well drained,0.0,25.0,1.25,6.7,0.16,33.0,32.0,35.0,1.43,10.2,osm-1361967329
+2973892,"Cullen clay loam, 6 to 10 percent slopes, moderately eroded",Cullen,95.0,Well drained,0.0,25.0,1.25,6.7,0.16,33.0,32.0,35.0,1.43,10.2,osm-1361967329
+2973889,"Cullen clay loam, 10 to 15 percent slopes, moderately eroded",Cullen,95.0,Well drained,25.0,127.0,0.25,4.8,0.11,64.0,10.0,26.0,1.28,,osm-1361967329
+2973891,"Cullen clay loam, 2 to 6 percent slopes, moderately eroded",Cullen,95.0,Well drained,25.0,127.0,0.25,4.8,0.11,64.0,10.0,26.0,1.28,,osm-1361967329
+2973892,"Cullen clay loam, 6 to 10 percent slopes, moderately eroded",Cullen,95.0,Well drained,25.0,127.0,0.25,4.8,0.11,64.0,10.0,26.0,1.28,,osm-1361967329
+2430525,"Helena sandy loam, 2 to 8 percent slopes",Helena,90.0,Moderately well drained,0.0,20.0,1.25,5.8,0.11,12.5,67.9,19.6,1.6,5.9,osm-1361967329
+2430525,"Helena sandy loam, 2 to 8 percent slopes",Helena,90.0,Moderately well drained,20.0,30.0,0.5,5.4,0.11,12.5,67.9,19.6,1.6,4.2,osm-1361967329
+2430524,"Cecil sandy clay loam, 2 to 8 percent slopes, moderately eroded",Cecil,88.0,Well drained,0.0,15.0,0.75,5.5,0.17,27.0,55.4,17.6,1.5,7.5,osm-1361967329
+2430524,"Cecil sandy clay loam, 2 to 8 percent slopes, moderately eroded",Cecil,88.0,Well drained,15.0,102.0,0.25,5.6,0.09,52.5,37.0,10.5,1.4,5.8,osm-1361967329
+2430532,"Iredell fine sandy loam, 2 to 8 percent slopes",Iredell,85.0,Moderately well drained,0.0,15.0,1.25,6.2,0.14,15.0,68.8,16.2,1.5,10.0,osm-1361967329
+2430537,"Pacolet sandy loam, 8 to 15 percent slopes",Pacolet,85.0,Well drained,0.0,13.0,1.25,5.5,0.1,14.0,66.8,19.2,1.25,4.2,osm-1361967329
+2430537,"Pacolet sandy loam, 8 to 15 percent slopes",Pacolet,85.0,Well drained,13.0,20.0,1.25,5.5,0.1,10.0,66.9,23.1,1.25,4.2,osm-1361967329
+2430532,"Iredell fine sandy loam, 2 to 8 percent slopes",Iredell,85.0,Moderately well drained,15.0,61.0,0.25,6.5,0.19,50.0,22.1,27.9,1.33,28.0,osm-1361967329
+2430537,"Pacolet sandy loam, 8 to 15 percent slopes",Pacolet,85.0,Well drained,20.0,74.0,0.25,5.3,0.14,50.0,32.0,18.0,1.4,5.6,osm-1361967329
+2430524,"Cecil sandy clay loam, 2 to 8 percent slopes, moderately eroded",Madison,8.0,Well drained,0.0,15.0,1.25,5.5,0.14,28.0,54.7,17.3,1.35,5.6,osm-1361967329
+2430532,"Iredell fine sandy loam, 2 to 8 percent slopes",Sedgefield,8.0,Moderately well drained,0.0,20.0,1.25,5.8,0.13,14.0,66.1,19.9,1.5,9.5,osm-1361967329
+2430524,"Cecil sandy clay loam, 2 to 8 percent slopes, moderately eroded",Madison,8.0,Well drained,15.0,66.0,0.25,5.0,0.16,40.0,30.0,30.0,1.3,4.6,osm-1361967329
+2430532,"Iredell fine sandy loam, 2 to 8 percent slopes",Sedgefield,8.0,Moderately well drained,20.0,102.0,0.25,5.8,0.16,47.5,23.3,29.2,1.33,25.0,osm-1361967329
+2430525,"Helena sandy loam, 2 to 8 percent slopes",Vance,5.0,Well drained,0.0,20.0,1.25,5.5,0.12,14.0,66.8,19.2,1.58,6.3,osm-1361967329
+2973889,"Cullen clay loam, 10 to 15 percent slopes, moderately eroded",Enon,5.0,Well drained,0.0,18.0,0.75,5.0,0.14,29.0,41.0,30.0,1.48,,osm-1361967329
+2973891,"Cullen clay loam, 2 to 6 percent slopes, moderately eroded",Enon,5.0,Well drained,0.0,18.0,0.75,5.0,0.14,29.0,41.0,30.0,1.48,,osm-1361967329
+2973892,"Cullen clay loam, 6 to 10 percent slopes, moderately eroded",Enon,5.0,Well drained,0.0,18.0,0.75,5.0,0.14,29.0,41.0,30.0,1.48,,osm-1361967329
+2973889,"Cullen clay loam, 10 to 15 percent slopes, moderately eroded",Enon,5.0,Well drained,18.0,76.0,0.5,5.8,0.15,54.0,30.0,16.0,1.36,28.3,osm-1361967329
+2973891,"Cullen clay loam, 2 to 6 percent slopes, moderately eroded",Enon,5.0,Well drained,18.0,76.0,0.5,5.8,0.15,54.0,30.0,16.0,1.36,28.3,osm-1361967329
+2973892,"Cullen clay loam, 6 to 10 percent slopes, moderately eroded",Enon,5.0,Well drained,18.0,76.0,0.5,5.8,0.15,54.0,30.0,16.0,1.36,28.3,osm-1361967329
+2430525,"Helena sandy loam, 2 to 8 percent slopes",Vance,5.0,Well drained,20.0,76.0,0.25,5.0,0.14,47.5,23.3,29.2,1.33,12.4,osm-1361967329
+2430524,"Cecil sandy clay loam, 2 to 8 percent slopes, moderately eroded",Vance,4.0,Well drained,0.0,15.0,0.75,5.3,0.14,27.5,55.1,17.4,1.38,8.6,osm-1361967329
+2430532,"Iredell fine sandy loam, 2 to 8 percent slopes",Wynott,4.0,Well drained,0.0,5.0,1.25,5.5,0.18,17.0,43.3,39.7,1.5,8.8,osm-1361967329
+2430532,"Iredell fine sandy loam, 2 to 8 percent slopes",Wynott,4.0,Well drained,5.0,25.0,0.75,5.5,0.18,17.0,43.3,39.7,1.5,7.6,osm-1361967329
+2430524,"Cecil sandy clay loam, 2 to 8 percent slopes, moderately eroded",Vance,4.0,Well drained,15.0,25.0,0.75,5.3,0.14,27.5,55.1,17.4,1.38,8.6,osm-1361967329
+2430524,"Cecil sandy clay loam, 2 to 8 percent slopes, moderately eroded",Vance,4.0,Well drained,25.0,97.0,0.25,5.0,0.14,47.5,23.3,29.2,1.33,12.4,osm-1361967329
+2430532,"Iredell fine sandy loam, 2 to 8 percent slopes",Wynott,4.0,Well drained,25.0,51.0,0.25,6.3,0.09,50.0,22.1,27.9,1.35,18.1,osm-1361967329
+2430525,"Helena sandy loam, 2 to 8 percent slopes",Wedowee,3.0,Well drained,0.0,10.0,1.25,5.1,0.13,12.5,67.9,19.6,1.53,4.1,osm-1361967329
+2430532,"Iredell fine sandy loam, 2 to 8 percent slopes",Armenia,3.0,Poorly drained,0.0,8.0,2.5,6.5,0.2,18.5,43.0,38.5,1.35,12.0,osm-1361967329
+2430532,"Iredell fine sandy loam, 2 to 8 percent slopes",Armenia,3.0,Poorly drained,8.0,163.0,0.5,7.0,0.16,47.5,23.3,29.2,1.35,25.0,osm-1361967329
+2430525,"Helena sandy loam, 2 to 8 percent slopes",Wedowee,3.0,Well drained,10.0,18.0,0.5,5.1,0.13,12.5,67.9,19.6,1.53,2.4,osm-1361967329
+2430525,"Helena sandy loam, 2 to 8 percent slopes",Wedowee,3.0,Well drained,18.0,58.0,0.25,5.1,0.16,47.0,40.0,13.0,1.35,5.3,osm-1361967329
+2430525,"Helena sandy loam, 2 to 8 percent slopes",Worsham,1.0,Poorly drained,0.0,15.0,2.0,5.0,0.17,17.0,43.0,40.0,1.4,,osm-1361967329
+2430525,"Helena sandy loam, 2 to 8 percent slopes",Worsham,1.0,Poorly drained,15.0,41.0,1.25,5.0,0.14,27.5,43.0,29.5,1.4,,osm-1361967329
+115034,Water,Water,100.0,,,,,,,,,,,,osm-1386621285
+114976,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Chewacla,90.0,Somewhat poorly drained,0.0,15.0,2.5,6.3,0.23,13.0,47.0,40.0,1.5,7.1,osm-1386621285
+2422582,"Lloyd clay loam, 2 to 8 percent slopes, moderately eroded",Lloyd,90.0,Well drained,0.0,18.0,1.25,6.4,0.14,30.0,33.5,36.5,1.45,5.8,osm-1386621285
+114976,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Chewacla,90.0,Somewhat poorly drained,15.0,132.0,1.0,5.5,0.11,28.0,53.0,19.0,1.4,,osm-1386621285
+2422582,"Lloyd clay loam, 2 to 8 percent slopes, moderately eroded",Lloyd,90.0,Well drained,18.0,147.0,0.25,5.4,0.14,55.0,17.1,27.9,1.38,6.1,osm-1386621285
+2422574,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Mecklenburg,85.0,Well drained,0.0,18.0,0.75,6.5,0.13,30.0,33.5,36.5,1.5,12.2,osm-1386621285
+2422575,"Mecklenburg clay loam, 8 to 15 percent slopes, moderately eroded",Mecklenburg,85.0,Well drained,0.0,18.0,0.75,6.5,0.13,30.0,33.5,36.5,1.5,11.3,osm-1386621285
+2422574,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Mecklenburg,85.0,Well drained,18.0,76.0,0.25,6.5,0.13,50.0,22.1,27.9,1.5,18.1,osm-1386621285
+2422575,"Mecklenburg clay loam, 8 to 15 percent slopes, moderately eroded",Mecklenburg,85.0,Well drained,18.0,76.0,0.25,6.5,0.13,50.0,22.1,27.9,1.5,25.0,osm-1386621285
+2424750,"Poindexter-Rowan complex, 15 to 25 percent slopes",Poindexter,45.0,Well drained,0.0,8.0,2.0,6.8,0.16,14.0,44.8,41.2,1.35,9.4,osm-1386621285
+2424750,"Poindexter-Rowan complex, 15 to 25 percent slopes",Poindexter,45.0,Well drained,8.0,18.0,1.0,6.2,0.16,14.0,44.8,41.2,1.35,7.2,osm-1386621285
+2424750,"Poindexter-Rowan complex, 15 to 25 percent slopes",Poindexter,45.0,Well drained,18.0,66.0,0.25,5.8,0.16,26.5,55.8,17.7,1.4,9.4,osm-1386621285
+2424750,"Poindexter-Rowan complex, 15 to 25 percent slopes",Rowan,40.0,Well drained,0.0,5.0,2.0,5.4,0.15,14.0,44.8,41.2,1.43,9.4,osm-1386621285
+2424750,"Poindexter-Rowan complex, 15 to 25 percent slopes",Rowan,40.0,Well drained,5.0,23.0,1.0,5.4,0.15,14.0,44.8,41.2,1.43,7.2,osm-1386621285
+2424750,"Poindexter-Rowan complex, 15 to 25 percent slopes",Rowan,40.0,Well drained,23.0,74.0,0.25,5.8,0.18,26.5,55.8,17.7,1.43,9.8,osm-1386621285
+2424750,"Poindexter-Rowan complex, 15 to 25 percent slopes",Wynott,10.0,Well drained,0.0,10.0,1.25,5.5,0.17,18.5,43.0,38.5,1.35,12.1,osm-1386621285
+2424750,"Poindexter-Rowan complex, 15 to 25 percent slopes",Wynott,10.0,Well drained,10.0,18.0,0.75,5.5,0.17,18.5,43.0,38.5,1.35,10.9,osm-1386621285
+2424750,"Poindexter-Rowan complex, 15 to 25 percent slopes",Wynott,10.0,Well drained,18.0,36.0,0.25,5.5,0.17,18.5,43.0,38.5,1.35,9.8,osm-1386621285
+2422575,"Mecklenburg clay loam, 8 to 15 percent slopes, moderately eroded",Lloyd,8.0,Well drained,0.0,18.0,1.25,6.4,0.14,30.0,33.5,36.5,1.45,5.8,osm-1386621285
+2422575,"Mecklenburg clay loam, 8 to 15 percent slopes, moderately eroded",Lloyd,8.0,Well drained,18.0,147.0,0.25,5.4,0.14,55.0,17.1,27.9,1.38,6.1,osm-1386621285
+114976,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Riverview,5.0,Well drained,0.0,46.0,1.25,5.5,0.22,19.0,43.0,38.0,1.44,,osm-1386621285
+114976,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Wehadkee,5.0,Poorly drained,0.0,20.0,3.5,5.5,0.2,18.0,47.0,35.0,1.34,,osm-1386621285
+2422574,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Lloyd,5.0,Well drained,0.0,18.0,1.25,6.4,0.14,30.0,33.5,36.5,1.45,5.8,osm-1386621285
+2422575,"Mecklenburg clay loam, 8 to 15 percent slopes, moderately eroded",Pacolet,5.0,Well drained,0.0,18.0,0.75,6.2,0.12,27.5,55.1,17.4,1.4,4.4,osm-1386621285
+2424750,"Poindexter-Rowan complex, 15 to 25 percent slopes",Wilkes,5.0,Well drained,0.0,8.0,1.25,5.5,0.13,12.5,67.9,19.6,1.4,9.1,osm-1386621285
+2424750,"Poindexter-Rowan complex, 15 to 25 percent slopes",Wilkes,5.0,Well drained,8.0,15.0,0.5,5.5,0.13,12.5,67.9,19.6,1.4,7.4,osm-1386621285
+2424750,"Poindexter-Rowan complex, 15 to 25 percent slopes",Wilkes,5.0,Well drained,15.0,25.0,0.25,6.5,0.18,45.0,26.1,28.9,1.5,23.1,osm-1386621285
+2422574,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Lloyd,5.0,Well drained,18.0,147.0,0.25,5.4,0.14,55.0,17.1,27.9,1.38,6.1,osm-1386621285
+2422575,"Mecklenburg clay loam, 8 to 15 percent slopes, moderately eroded",Pacolet,5.0,Well drained,18.0,61.0,0.25,5.7,0.14,50.0,22.1,27.9,1.4,5.6,osm-1386621285
+114976,"Chewacla loam, 0 to 2 percent slopes, frequently flooded",Wehadkee,5.0,Poorly drained,20.0,109.0,0.5,5.5,0.12,25.0,50.0,25.0,1.44,,osm-1386621285
+2424750,"Poindexter-Rowan complex, 15 to 25 percent slopes",Wilkes,5.0,Well drained,25.0,33.0,0.25,6.5,0.18,29.0,34.0,37.0,1.45,15.1,osm-1386621285
+2422574,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Pacolet,3.0,Well drained,0.0,18.0,0.75,6.2,0.12,27.5,55.1,17.4,1.4,4.4,osm-1386621285
+2422574,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Pacolet,3.0,Well drained,18.0,61.0,0.25,5.7,0.14,50.0,22.1,27.9,1.4,5.6,osm-1386621285
+2422574,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Enon,2.0,Well drained,0.0,18.0,1.25,5.8,0.13,12.5,70.9,16.6,1.55,9.1,osm-1386621285
+2422574,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Enon,2.0,Well drained,18.0,25.0,0.5,5.8,0.13,28.0,54.7,17.3,1.45,15.1,osm-1386621285
+2422574,"Mecklenburg clay loam, 2 to 8 percent slopes, moderately eroded",Enon,2.0,Well drained,25.0,68.0,0.25,6.4,0.14,50.0,22.1,27.9,1.3,25.6,osm-1386621285
+2422575,"Mecklenburg clay loam, 8 to 15 percent slopes, moderately eroded",Enon,1.0,Well drained,0.0,18.0,1.25,5.8,0.13,12.5,70.9,16.6,1.55,9.1,osm-1386621285
+2422575,"Mecklenburg clay loam, 8 to 15 percent slopes, moderately eroded",Enon,1.0,Well drained,18.0,25.0,0.5,5.8,0.13,28.0,54.7,17.3,1.45,15.1,osm-1386621285
+2422575,"Mecklenburg clay loam, 8 to 15 percent slopes, moderately eroded",Enon,1.0,Well drained,25.0,68.0,0.25,6.4,0.14,50.0,22.1,27.9,1.3,25.6,osm-1386621285
+2440263,"Tarrus channery silt loam, 2 to 8 percent slopes",Tarrus,85.0,Well drained,0.0,13.0,1.25,5.5,0.14,19.5,26.7,53.8,1.25,7.7,osm-1383475117
+2440263,"Tarrus channery silt loam, 2 to 8 percent slopes",Tarrus,85.0,Well drained,13.0,81.0,0.1,5.0,0.16,42.5,28.1,29.4,1.45,10.9,osm-1383475117
+115169,"Kirksey silt loam, 0 to 6 percent slopes",Kirksey,80.0,Moderately well drained,0.0,18.0,1.25,5.8,0.19,12.0,20.7,67.3,1.3,7.0,osm-1383475117
+115169,"Kirksey silt loam, 0 to 6 percent slopes",Kirksey,80.0,Moderately well drained,18.0,94.0,0.25,5.0,0.15,29.0,7.3,63.7,1.3,10.7,osm-1383475117
+2440267,"Tarrus-Urban land complex, 2 to 8 percent slopes",Tarrus,60.0,Well drained,0.0,18.0,1.25,5.0,0.14,19.5,26.7,53.8,1.25,7.7,osm-1383475117
+2440267,"Tarrus-Urban land complex, 2 to 8 percent slopes",Tarrus,60.0,Well drained,18.0,107.0,0.25,5.0,0.1,39.5,10.7,49.8,1.43,13.7,osm-1383475117
+2440267,"Tarrus-Urban land complex, 2 to 8 percent slopes",Urban land,25.0,,,,,,,,,,,,osm-1383475117
+115333,"Badin channery silt loam, 2 to 8 percent slopes",Badin,90.0,Well drained,0.0,15.0,2.0,5.0,0.17,18.0,27.0,55.0,1.5,,osm-1153259427
+115333,"Badin channery silt loam, 2 to 8 percent slopes",Badin,90.0,Well drained,15.0,89.0,0.25,4.5,0.17,45.0,7.0,48.0,1.4,,osm-1153259427
+115342,"Cid channery silt loam, 1 to 5 percent slopes",Cid,85.0,Moderately well drained,0.0,23.0,1.25,4.5,0.14,17.5,29.1,53.4,1.48,7.2,osm-1153259427
+115350,"Goldston very channery silt loam, 4 to 15 percent slopes",Goldston,85.0,Well drained,0.0,3.0,1.25,4.5,0.12,12.5,30.9,56.6,1.5,5.9,osm-1153259427
+2440243,"Tarrus gravelly silt loam, 2 to 8 percent slopes",Tarrus,85.0,Well drained,0.0,13.0,1.25,5.5,0.14,19.5,26.7,53.8,1.25,7.7,osm-1153259427
+2440249,"Tarrus gravelly silty clay loam, 2 to 8 percent slopes, moderately eroded",Tarrus,85.0,Well drained,0.0,15.0,1.25,5.5,0.1,33.5,6.6,59.9,1.35,11.2,osm-1153259427
+115350,"Goldston very channery silt loam, 4 to 15 percent slopes",Goldston,85.0,Well drained,3.0,18.0,0.75,4.5,0.12,12.5,30.9,56.6,1.5,5.9,osm-1153259427
+2440243,"Tarrus gravelly silt loam, 2 to 8 percent slopes",Tarrus,85.0,Well drained,13.0,81.0,0.1,5.0,0.16,42.5,28.1,29.4,1.45,10.9,osm-1153259427
+2440249,"Tarrus gravelly silty clay loam, 2 to 8 percent slopes, moderately eroded",Tarrus,85.0,Well drained,15.0,114.0,0.25,5.0,0.1,45.0,5.0,50.0,1.43,13.7,osm-1153259427
+115350,"Goldston very channery silt loam, 4 to 15 percent slopes",Goldston,85.0,Well drained,18.0,41.0,0.25,4.5,0.1,18.5,27.1,54.4,1.5,5.2,osm-1153259427
+115342,"Cid channery silt loam, 1 to 5 percent slopes",Cid,85.0,Moderately well drained,23.0,56.0,0.25,4.5,0.15,38.0,18.4,43.6,1.4,12.4,osm-1153259427
+115361,"Secrest-Cid complex, 0 to 3 percent slopes",Secrest,65.0,Moderately well drained,0.0,20.0,1.25,5.5,0.2,17.0,13.7,69.3,1.3,7.1,osm-1153259427
+115361,"Secrest-Cid complex, 0 to 3 percent slopes",Secrest,65.0,Moderately well drained,20.0,28.0,0.75,5.5,0.2,17.0,13.7,69.3,1.3,5.9,osm-1153259427
+115361,"Secrest-Cid complex, 0 to 3 percent slopes",Secrest,65.0,Moderately well drained,28.0,109.0,0.25,5.5,0.15,31.0,9.4,59.6,1.33,8.3,osm-1153259427
+115358,"Misenheimer-Cid complex, 0 to 3 percent slopes",Misenheimer,60.0,Moderately well drained,0.0,5.0,1.0,4.5,0.15,17.0,29.3,53.7,1.5,6.5,osm-1153259427
+115358,"Misenheimer-Cid complex, 0 to 3 percent slopes",Misenheimer,60.0,Moderately well drained,5.0,18.0,0.5,4.5,0.15,17.0,29.3,53.7,1.5,5.5,osm-1153259427
+115358,"Misenheimer-Cid complex, 0 to 3 percent slopes",Misenheimer,60.0,Moderately well drained,18.0,36.0,0.25,4.5,0.15,21.0,26.3,52.7,1.5,6.0,osm-1153259427
+115352,"Goldston-Badin complex, 2 to 8 percent slopes",Goldston,45.0,Well drained,0.0,13.0,1.25,4.5,0.12,12.5,32.9,54.6,1.5,5.9,osm-1153259427
+115352,"Goldston-Badin complex, 2 to 8 percent slopes",Goldston,45.0,Well drained,13.0,41.0,0.25,4.5,0.1,18.5,29.7,51.8,1.5,5.2,osm-1153259427
+115352,"Goldston-Badin complex, 2 to 8 percent slopes",Badin,40.0,Well drained,0.0,18.0,2.0,4.5,0.17,18.5,27.1,54.4,1.5,9.1,osm-1153259427
+115352,"Goldston-Badin complex, 2 to 8 percent slopes",Badin,40.0,Well drained,18.0,71.0,0.25,4.5,0.17,40.0,8.0,52.0,1.4,10.6,osm-1153259427
+115358,"Misenheimer-Cid complex, 0 to 3 percent slopes",Cid,25.0,Moderately well drained,0.0,23.0,1.25,4.5,0.14,17.5,29.1,53.4,1.48,7.2,osm-1153259427
+115358,"Misenheimer-Cid complex, 0 to 3 percent slopes",Cid,25.0,Moderately well drained,23.0,56.0,0.25,4.5,0.15,38.0,18.4,43.6,1.4,12.4,osm-1153259427
+115361,"Secrest-Cid complex, 0 to 3 percent slopes",Cid,20.0,Moderately well drained,0.0,23.0,1.25,4.5,0.14,17.5,29.1,53.4,1.48,7.2,osm-1153259427
+115361,"Secrest-Cid complex, 0 to 3 percent slopes",Cid,20.0,Moderately well drained,23.0,56.0,0.25,4.5,0.15,38.0,18.4,43.6,1.4,12.4,osm-1153259427
+115333,"Badin channery silt loam, 2 to 8 percent slopes",Goldston,5.0,Well drained,0.0,13.0,1.25,4.5,0.13,16.0,29.7,54.3,1.5,4.5,osm-1153259427
+115333,"Badin channery silt loam, 2 to 8 percent slopes",Tatum,5.0,Well drained,0.0,18.0,1.25,5.0,0.14,19.5,26.7,53.8,1.25,,osm-1153259427
+115333,"Badin channery silt loam, 2 to 8 percent slopes",Goldston,5.0,Well drained,13.0,23.0,0.1,4.5,0.13,16.0,29.7,54.3,1.5,2.0,osm-1153259427
+115333,"Badin channery silt loam, 2 to 8 percent slopes",Tatum,5.0,Well drained,18.0,112.0,0.25,5.0,0.1,52.5,5.7,41.8,1.43,,osm-1153259427
+115333,"Badin channery silt loam, 2 to 8 percent slopes",Goldston,5.0,Well drained,23.0,38.0,0.1,4.5,0.09,16.0,29.7,54.3,1.5,2.0,osm-1153259427
+115361,"Secrest-Cid complex, 0 to 3 percent slopes",Wehadkee,2.0,Poorly drained,0.0,20.0,3.5,5.5,0.13,16.0,45.7,38.3,1.48,12.5,osm-1153259427
+115361,"Secrest-Cid complex, 0 to 3 percent slopes",Wehadkee,2.0,Poorly drained,20.0,109.0,0.5,5.5,0.18,26.5,49.5,24.0,1.4,15.0,osm-1153259427
+2396719,"Clifford fine sandy loam, 2 to 6 percent slopes",Clifford,90.0,Well drained,0.0,15.0,1.0,4.5,0.13,12.5,67.9,19.6,1.4,3.5,osm-1197040178
+2396720,"Clifford sandy clay loam, 2 to 6 percent slopes, moderately eroded",Clifford,90.0,Well drained,0.0,15.0,0.75,6.3,0.14,26.0,59.0,15.0,1.56,5.9,osm-1197040178
+2396719,"Clifford fine sandy loam, 2 to 6 percent slopes",Clifford,90.0,Well drained,15.0,25.0,0.5,4.9,0.14,18.0,55.1,26.9,1.4,3.9,osm-1197040178
+2396720,"Clifford sandy clay loam, 2 to 6 percent slopes, moderately eroded",Clifford,90.0,Well drained,15.0,94.0,0.25,5.3,0.12,54.0,24.0,22.0,1.44,,osm-1197040178
+2396719,"Clifford fine sandy loam, 2 to 6 percent slopes",Clifford,90.0,Well drained,25.0,119.0,0.25,5.0,0.14,52.5,37.0,10.5,1.4,5.8,osm-1197040178
+2396692,"Nathalie fine sandy loam, 2 to 6 percent slopes",Nathalie,85.0,Well drained,0.0,15.0,1.25,5.0,0.13,12.5,67.9,19.6,1.53,4.1,osm-1197040178
+2396723,"Clifford sandy clay loam, 6 to 10 percent slopes, moderately eroded",Clifford,85.0,Well drained,0.0,15.0,0.75,6.3,0.14,26.0,59.0,15.0,1.56,5.9,osm-1197040178
+2396692,"Nathalie fine sandy loam, 2 to 6 percent slopes",Nathalie,85.0,Well drained,15.0,23.0,0.5,5.0,0.13,12.5,67.9,19.6,1.53,2.4,osm-1197040178
+2396723,"Clifford sandy clay loam, 6 to 10 percent slopes, moderately eroded",Clifford,85.0,Well drained,15.0,94.0,0.25,5.3,0.12,54.0,24.0,22.0,1.44,,osm-1197040178
+2396692,"Nathalie fine sandy loam, 2 to 6 percent slopes",Nathalie,85.0,Well drained,23.0,30.0,0.25,5.0,0.14,21.0,60.6,18.4,1.35,2.7,osm-1197040178
+2398257,"Delila fine sandy loam, 0 to 6 percent slopes",Delila,80.0,Poorly drained,0.0,15.0,2.0,5.0,0.17,17.0,43.3,39.7,1.4,8.8,osm-1197040178
+2398257,"Delila fine sandy loam, 0 to 6 percent slopes",Delila,80.0,Poorly drained,15.0,41.0,1.25,5.0,0.14,27.5,34.7,37.8,1.4,9.7,osm-1197040178
+2398257,"Delila fine sandy loam, 0 to 6 percent slopes",Delila,10.0,Poorly drained,0.0,15.0,2.0,5.0,0.17,17.0,43.3,39.7,1.4,8.8,osm-1197040178
+2398257,"Delila fine sandy loam, 0 to 6 percent slopes",Delila,10.0,Poorly drained,15.0,41.0,1.25,5.0,0.14,27.5,34.7,37.8,1.4,9.7,osm-1197040178
+2396723,"Clifford sandy clay loam, 6 to 10 percent slopes, moderately eroded",Westfield,8.0,Well drained,0.0,23.0,1.0,6.0,0.15,25.0,59.0,16.0,1.58,6.1,osm-1197040178
+2396723,"Clifford sandy clay loam, 6 to 10 percent slopes, moderately eroded",Westfield,8.0,Well drained,23.0,71.0,0.25,5.5,0.11,51.0,26.0,23.0,1.55,7.6,osm-1197040178
+2396723,"Clifford sandy clay loam, 6 to 10 percent slopes, moderately eroded",Woolwine,7.0,Well drained,0.0,20.0,1.0,6.0,0.14,25.0,59.0,16.0,1.4,6.1,osm-1197040178
+2396723,"Clifford sandy clay loam, 6 to 10 percent slopes, moderately eroded",Woolwine,7.0,Well drained,20.0,76.0,0.25,5.0,0.11,51.0,26.0,23.0,1.35,,osm-1197040178
+2396720,"Clifford sandy clay loam, 2 to 6 percent slopes, moderately eroded",Westfield,5.0,Well drained,0.0,23.0,1.0,6.0,0.15,25.0,59.0,16.0,1.58,6.1,osm-1197040178
+2396720,"Clifford sandy clay loam, 2 to 6 percent slopes, moderately eroded",Woolwine,5.0,Well drained,0.0,20.0,1.0,6.0,0.14,25.0,59.0,16.0,1.4,6.1,osm-1197040178
+2396720,"Clifford sandy clay loam, 2 to 6 percent slopes, moderately eroded",Woolwine,5.0,Well drained,20.0,76.0,0.25,5.0,0.11,51.0,26.0,23.0,1.35,,osm-1197040178
+2396720,"Clifford sandy clay loam, 2 to 6 percent slopes, moderately eroded",Westfield,5.0,Well drained,23.0,71.0,0.25,5.5,0.11,51.0,26.0,23.0,1.55,7.6,osm-1197040178
+2396719,"Clifford fine sandy loam, 2 to 6 percent slopes",Westfield,3.0,Well drained,0.0,15.0,1.0,4.8,0.13,12.5,67.9,19.6,1.4,3.5,osm-1197040178
+2396719,"Clifford fine sandy loam, 2 to 6 percent slopes",Westfield,3.0,Well drained,15.0,71.0,0.25,5.5,0.09,47.0,23.5,29.5,1.35,5.3,osm-1197040178

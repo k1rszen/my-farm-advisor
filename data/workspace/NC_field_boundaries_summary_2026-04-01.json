@@ -1,0 +1,130 @@
+{
+  "date": "2026-04-01",
+  "min_acres": 3.0,
+  "region": "piedmont",
+  "state_fips": "37",
+  "counties_targeted": 25,
+  "fields_collected": 23,
+  "total_area_acres": 3153.1,
+  "fields_by_county": {
+    "Cumberland": {
+      "field_id": "osm-548794709",
+      "area_acres": 99.31,
+      "crop_name": "farmland"
+    },
+    "Hoke": {
+      "field_id": "osm-1133139440",
+      "area_acres": 144.39,
+      "crop_name": "farmland"
+    },
+    "Anson": {
+      "field_id": "osm-1009084804",
+      "area_acres": 44.58,
+      "crop_name": "farmland"
+    },
+    "Union": {
+      "field_id": "osm-1153259427",
+      "area_acres": 617.77,
+      "crop_name": "farmland"
+    },
+    "Stanly": {
+      "field_id": "osm-1383475117",
+      "area_acres": 13.19,
+      "crop_name": "farmland"
+    },
+    "Cabarrus": {
+      "field_id": "osm-588414811",
+      "area_acres": 67.71,
+      "crop_name": "farmland"
+    },
+    "Rowan": {
+      "field_id": "osm-1386621285",
+      "area_acres": 187.21,
+      "crop_name": "farmland"
+    },
+    "Iredell": {
+      "field_id": "osm-1435108796",
+      "area_acres": 90.73,
+      "crop_name": "farmland"
+    },
+    "Davidson": {
+      "field_id": "osm-1305439648",
+      "area_acres": 192.38,
+      "crop_name": "farmland"
+    },
+    "Davie": {
+      "field_id": "osm-566823123",
+      "area_acres": 22.6,
+      "crop_name": "farmland"
+    },
+    "Yadkin": {
+      "field_id": "osm-1197040178",
+      "area_acres": 22.0,
+      "crop_name": "grass"
+    },
+    "Forsyth": {
+      "field_id": "osm-1278239614",
+      "area_acres": 35.99,
+      "crop_name": "farmland"
+    },
+    "Guilford": {
+      "field_id": "osm-260949778",
+      "area_acres": 768.05,
+      "crop_name": "farmland"
+    },
+    "Alamance": {
+      "field_id": "osm-1476971106",
+      "area_acres": 137.74,
+      "crop_name": "farmland"
+    },
+    "Randolph": {
+      "field_id": "osm-834363677",
+      "area_acres": 132.83,
+      "crop_name": "farmland"
+    },
+    "Chatham": {
+      "field_id": "osm-976134461",
+      "area_acres": 59.08,
+      "crop_name": "meadow"
+    },
+    "Lee": {
+      "field_id": "osm-1424677694",
+      "area_acres": 26.48,
+      "crop_name": "farmland"
+    },
+    "Moore": {
+      "field_id": "osm-199889806",
+      "area_acres": 98.41,
+      "crop_name": "farmland"
+    },
+    "Montgomery": {
+      "field_id": "osm-692623518",
+      "area_acres": 4.44,
+      "crop_name": "farmland"
+    },
+    "Franklin": {
+      "field_id": "osm-1103713058",
+      "area_acres": 54.45,
+      "crop_name": "farmland"
+    },
+    "Granville": {
+      "field_id": "osm-274848457",
+      "area_acres": 63.97,
+      "crop_name": "farmland"
+    },
+    "Person": {
+      "field_id": "osm-813157720",
+      "area_acres": 194.99,
+      "crop_name": "farmland"
+    },
+    "Rockingham": {
+      "field_id": "osm-1361967329",
+      "area_acres": 74.81,
+      "crop_name": "farmland"
+    }
+  },
+  "skipped_counties": [
+    "Richmond",
+    "Scotland"
+  ]
+}

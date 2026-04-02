@@ -1,0 +1,18 @@
+{
+  "date": "2026-04-01",
+  "region": "piedmont",
+  "state_fips": "37",
+  "fields_in_boundary": 23,
+  "fields_with_soil": 23,
+  "soil_records": 708,
+  "cdl_years_extracted": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "cdl_records": 1020,
+  "soil_avg_om_pct": 1.06,
+  "soil_avg_ph": 5.41
+}
