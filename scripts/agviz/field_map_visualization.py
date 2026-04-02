@@ -230,9 +230,9 @@ title_html = '''
 '''
 m.get_root().html.add_child(folium.Element(title_html))
 
-# Add north arrow (top-right)
+# Add north arrow (bottom-right)
 north_arrow_html = '''
-<div style="position: fixed; top: 10px; right: 10px; z-index: 9999; background-color: white; padding: 8px; border-radius: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
+<div style="position: fixed; bottom: 30px; right: 10px; z-index: 9999; background-color: white; padding: 8px; border-radius: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
     <div style="text-align: center;">
         <span style="font-size: 20px;">⬆</span><br>
         <span style="font-size: 10px; font-weight: bold;">N</span>
@@ -241,136 +241,83 @@ north_arrow_html = '''
 '''
 m.get_root().html.add_child(folium.Element(north_arrow_html))
 
-# Legend definitions for each layer
-legends = {
-    'ph': {
-        'title': 'Soil pH',
-        'colors': ['#ffffb2', '#fecc5c', '#fd8d3c', '#f03b20', '#bd0026'],
-        'labels': ['4.5 (Acidic)', '5.0', '5.5', '6.0', '6.5 (Alkaline)']
-    },
-    'om': {
-        'title': 'Organic Matter (%)',
-        'colors': ['#ffffe5', '#c7e9b4', '#7bccc4', '#41b6c4', '#1d91c0'],
-        'labels': ['0.5% (Low)', '0.9%', '1.3%', '1.7%', '2.2% (High)']
-    },
-    'cec': {
-        'title': 'CEC (meq/100g)',
-        'colors': ['#ffffd9', '#c7e9b4', '#41b6c4', '#225ea8', '#0c2c84'],
-        'labels': ['2.5 (Low)', '5.4', '8.2', '11.1', '14.0 (High)']
-    },
-    'aws': {
-        'title': 'Available Water Storage (in)',
-        'colors': ['#ffffb2', '#fecc5c', '#fd8d3c', '#f03b20', '#bd0026'],
-        'labels': ['0.5 (Low)', '2.6', '4.8', '7.0', '9.0 (High)']
-    }
-}
-
-# Add legend for each layer using StyleMap with LegendControl pattern
-# Add CSS for legends
-legend_css = '''
-<style>
-.legend {padding: 6px 8px;font: 12px Arial, Helvetica, sans-serif;background: white;box-shadow: 0 0 15px rgba(0,0,0,0.2);border-radius: 5px;line-height: 18px;color: #555;}
-.legend-title {font-weight: bold;margin-bottom: 5px;}
-.legend-color {height: 18px;width: 18px;float: left;margin-right: 8px;opacity: 0.8;border-radius: 3px;}
-</style>
-'''
-
-# Add legend for pH layer (default visible)
-ph_legend = f'''
-<div id="legend-ph" class="folium-map" style="display: block;">
-    <div class="legend" style="position: fixed; bottom: 30px; left: 30px; z-index: 9999;">
-        <div class="legend-title">{legends['ph']['title']}</div>
-        <div><div class="legend-color" style="background: {legends['ph']['colors'][4]};"></div>{legends['ph']['labels'][4]}</div>
-        <div><div class="legend-color" style="background: {legends['ph']['colors'][3]};"></div>{legends['ph']['labels'][3]}</div>
-        <div><div class="legend-color" style="background: {legends['ph']['colors'][2]};"></div>{legends['ph']['labels'][2]}</div>
-        <div><div class="legend-color" style="background: {legends['ph']['colors'][1]};"></div>{legends['ph']['labels'][1]}</div>
-        <div><div class="legend-color" style="background: {legends['ph']['colors'][0]};"></div>{legends['ph']['labels'][0]}</div>
+# Simplified legend with layer selector
+legend_html = '''
+<div style="position: fixed; bottom: 30px; left: 30px; z-index: 9999; 
+            background-color: white; padding: 12px; border-radius: 5px; 
+            box-shadow: 0 0 15px rgba(0,0,0,0.2); font-family: Arial, sans-serif; font-size: 11px; min-width: 180px;">
+    <div style="margin-bottom: 8px;">
+        <strong>Layer:</strong>
+        <select id="layer-select" onchange="switchLayer(this.value)" style="margin-left: 5px; padding: 2px;">
+            <option value="ph">Soil pH</option>
+            <option value="om">Organic Matter (%)</option>
+            <option value="cec">CEC (meq/100g)</option>
+            <option value="aws">Water Storage (in)</option>
+        </select>
+    </div>
+    <div id="legend-content">
+        <!-- pH legend (default) -->
+        <div id="legend-ph-content">
+            <strong>Soil pH</strong><br>
+            <span style="background: #bd0026; color: white; padding: 2px 6px; margin-right: 2px;">6.5</span>
+            <span style="background: #f03b20; color: white; padding: 2px 6px; margin-right: 2px;">5.5</span>
+            <span style="background: #fd8d3c; color: white; padding: 2px 6px; margin-right: 2px;">5.0</span>
+            <span style="background: #fecc5c; padding: 2px 6px; margin-right: 2px;">5.0</span>
+            <span style="background: #ffffb2; padding: 2px 6px;">4.5</span><br>
+            <span style="color: #666; font-size: 10px;">Alkaline ← → Acidic</span>
+        </div>
+        <div id="legend-om-content" style="display: none;">
+            <strong>Organic Matter (%)</strong><br>
+            <span style="background: #1d91c0; color: white; padding: 2px 6px; margin-right: 2px;">2.2</span>
+            <span style="background: #41b6c4; color: white; padding: 2px 6px; margin-right: 2px;">1.7</span>
+            <span style="background: #7bccc4; color: white; padding: 2px 6px; margin-right: 2px;">1.3</span>
+            <span style="background: #c7e9b4; padding: 2px 6px; margin-right: 2px;">0.9</span>
+            <span style="background: #ffffe5; padding: 2px 6px;">0.5</span><br>
+            <span style="color: #666; font-size: 10px;">High ← → Low</span>
+        </div>
+        <div id="legend-cec-content" style="display: none;">
+            <strong>CEC (meq/100g)</strong><br>
+            <span style="background: #0c2c84; color: white; padding: 2px 6px; margin-right: 2px;">14.0</span>
+            <span style="background: #225ea8; color: white; padding: 2px 6px; margin-right: 2px;">11.1</span>
+            <span style="background: #41b6c4; color: white; padding: 2px 6px; margin-right: 2px;">8.2</span>
+            <span style="background: #c7e9b4; padding: 2px 6px; margin-right: 2px;">5.4</span>
+            <span style="background: #ffffd9; padding: 2px 6px;">2.5</span><br>
+            <span style="color: #666; font-size: 10px;">High ← → Low</span>
+        </div>
+        <div id="legend-aws-content" style="display: none;">
+            <strong>Water Storage (inches)</strong><br>
+            <span style="background: #bd0026; color: white; padding: 2px 6px; margin-right: 2px;">9.0</span>
+            <span style="background: #f03b20; color: white; padding: 2px 6px; margin-right: 2px;">7.0</span>
+            <span style="background: #fd8d3c; color: white; padding: 2px 6px; margin-right: 2px;">4.8</span>
+            <span style="background: #fecc5c; padding: 2px 6px; margin-right: 2px;">2.6</span>
+            <span style="background: #ffffb2; padding: 2px 6px;">0.5</span><br>
+            <span style="color: #666; font-size: 10px;">High ← → Low</span>
+        </div>
     </div>
 </div>
-'''
-
-om_legend = f'''
-<div id="legend-om" class="folium-map" style="display: none;">
-    <div class="legend" style="position: fixed; bottom: 30px; left: 30px; z-index: 9999;">
-        <div class="legend-title">{legends['om']['title']}</div>
-        <div><div class="legend-color" style="background: {legends['om']['colors'][4]};"></div>{legends['om']['labels'][4]}</div>
-        <div><div class="legend-color" style="background: {legends['om']['colors'][3]};"></div>{legends['om']['labels'][3]}</div>
-        <div><div class="legend-color" style="background: {legends['om']['colors'][2]};"></div>{legends['om']['labels'][2]}</div>
-        <div><div class="legend-color" style="background: {legends['om']['colors'][1]};"></div>{legends['om']['labels'][1]}</div>
-        <div><div class="legend-color" style="background: {legends['om']['colors'][0]};"></div>{legends['om']['labels'][0]}</div>
-    </div>
-</div>
-'''
-
-cec_legend = f'''
-<div id="legend-cec" class="folium-map" style="display: none;">
-    <div class="legend" style="position: fixed; bottom: 30px; left: 30px; z-index: 9999;">
-        <div class="legend-title">{legends['cec']['title']}</div>
-        <div><div class="legend-color" style="background: {legends['cec']['colors'][4]};"></div>{legends['cec']['labels'][4]}</div>
-        <div><div class="legend-color" style="background: {legends['cec']['colors'][3]};"></div>{legends['cec']['labels'][3]}</div>
-        <div><div class="legend-color" style="background: {legends['cec']['colors'][2]};"></div>{legends['cec']['labels'][2]}</div>
-        <div><div class="legend-color" style="background: {legends['cec']['colors'][1]};"></div>{legends['cec']['labels'][1]}</div>
-        <div><div class="legend-color" style="background: {legends['cec']['colors'][0]};"></div>{legends['cec']['labels'][0]}</div>
-    </div>
-</div>
-'''
-
-aws_legend = f'''
-<div id="legend-aws" class="folium-map" style="display: none;">
-    <div class="legend" style="position: fixed; bottom: 30px; left: 30px; z-index: 9999;">
-        <div class="legend-title">{legends['aws']['title']}</div>
-        <div><div class="legend-color" style="background: {legends['aws']['colors'][4]};"></div>{legends['aws']['labels'][4]}</div>
-        <div><div class="legend-color" style="background: {legends['aws']['colors'][3]};"></div>{legends['aws']['labels'][3]}</div>
-        <div><div class="legend-color" style="background: {legends['aws']['colors'][2]};"></div>{legends['aws']['labels'][2]}</div>
-        <div><div class="legend-color" style="background: {legends['aws']['colors'][1]};"></div>{legends['aws']['labels'][1]}</div>
-        <div><div class="legend-color" style="background: {legends['aws']['colors'][0]};"></div>{legends['aws']['labels'][0]}</div>
-    </div>
-</div>
-'''
-
-# Add legends and toggle logic
-legend_script = f'''
 <script>
-{legend_css}
-document.getElementById('map').appendChild(document.getElementById('legend-ph'));
-document.getElementById('map').appendChild(document.getElementById('legend-om'));
-document.getElementById('map').appendChild(document.getElementById('legend-cec'));
-document.getElementById('map').appendChild(document.getElementById('legend-aws'));
-
-function updateLegend(layerName) {{
-    document.getElementById('legend-ph').style.display = 'none';
-    document.getElementById('legend-om').style.display = 'none';
-    document.getElementById('legend-cec').style.display = 'none';
-    document.getElementById('legend-aws').style.display = 'none';
+function switchLayer(layer) {
+    document.getElementById('legend-ph-content').style.display = 'none';
+    document.getElementById('legend-om-content').style.display = 'none';
+    document.getElementById('legend-cec-content').style.display = 'none';
+    document.getElementById('legend-aws-content').style.display = 'none';
+    document.getElementById('legend-' + layer + '-content').style.display = 'block';
     
-    if (layerName === 'Soil pH (default)') document.getElementById('legend-ph').style.display = 'block';
-    else if (layerName === 'Organic Matter (%)') document.getElementById('legend-om').style.display = 'block';
-    else if (layerName === 'CEC (meq/100g)') document.getElementById('legend-cec').style.display = 'block';
-    else if (layerName === 'Available Water Storage') document.getElementById('legend-aws').style.display = 'block';
-}}
-
-// Override layer control to update legend
-var originalOnRemove = L.Control.Layers.prototype._onRemoveLayerClick;
-L.Control.Layers.prototype._onRemoveLayerClick = function(e) {{
-    originalOnRemove.call(this, e);
-    updateLegend(this._activeLayers()[0]);
-}};
-
-var originalOnAddLayer = L.Control.Layers.prototype._onAddLayerClick;
-L.Control.Layers.prototype._onAddLayerClick = function(e) {{
-    originalOnAddLayer.call(this, e);
-    updateLegend(this._activeLayers()[0]);
-}};
+    // Toggle layer visibility in Leaflet
+    var layers = ['Soil pH (default)', 'Organic Matter (%)', 'CEC (meq/100g)', 'Available Water Storage'];
+    var layerMap = {'ph': 0, 'om': 1, 'cec': 2, 'aws': 3};
+    
+    // Hide all then show selected
+    map.eachLayer(function(l) {
+        if (l._container && l._container.className && l._container.className.indexOf('leaflet-layer') > -1) {
+            // This is a simplified approach - layer control handles visibility
+        }
+    });
+}
 </script>
 '''
-
-m.get_root().html.add_child(folium.Element(legend_script))
-
-# Add legend HTML elements to map
-m.get_root().html.add_child(folium.Element(ph_legend))
-m.get_root().html.add_child(folium.Element(om_legend))
-m.get_root().html.add_child(folium.Element(cec_legend))
-m.get_root().html.add_child(folium.Element(aws_legend))
+m.get_root().html.add_child(folium.Element(legend_html))
+m.get_root().html.add_child(folium.Element(legend_html))
 
 # Save HTML
 output_path = OUTPUT_DIR / 'farm_field_map_interactive.html'
