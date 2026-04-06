@@ -131,7 +131,7 @@
     
 <div style="position: fixed; bottom: 30px; left: 30px; z-index: 9999; 
             background-color: white; padding: 12px; border-radius: 5px; 
-            box-shadow: 0 0 15px rgba(0,0,0,0.2); font-family: Arial, sans-serif; font-size: 11px; min-width: 180px;">
+            box-shadow: 0 0 15px rgba(0,0,0,0.2); font-family: Arial, sans-serif; font-size: 11px; min-width: 200px;">
     <div style="margin-bottom: 8px;">
         <strong>Layer:</strong>
         <select id="layer-select" onchange="switchLayer(this.value)" style="margin-left: 5px; padding: 2px;">
@@ -142,7 +142,6 @@
         </select>
     </div>
     <div id="legend-content">
-        <!-- pH legend (default) -->
         <div id="legend-ph-content">
             <strong>Soil pH</strong><br>
             <span style="background: #bd0026; color: white; padding: 2px 6px; margin-right: 2px;">6.5</span>
@@ -181,98 +180,6 @@
         </div>
     </div>
 </div>
-<script>
-function switchLayer(layer) {
-    document.getElementById('legend-ph-content').style.display = 'none';
-    document.getElementById('legend-om-content').style.display = 'none';
-    document.getElementById('legend-cec-content').style.display = 'none';
-    document.getElementById('legend-aws-content').style.display = 'none';
-    document.getElementById('legend-' + layer + '-content').style.display = 'block';
-    
-    // Toggle layer visibility in Leaflet
-    var layers = ['Soil pH (default)', 'Organic Matter (%)', 'CEC (meq/100g)', 'Available Water Storage'];
-    var layerMap = {'ph': 0, 'om': 1, 'cec': 2, 'aws': 3};
-    
-    // Hide all then show selected
-    map.eachLayer(function(l) {
-        if (l._container && l._container.className && l._container.className.indexOf('leaflet-layer') > -1) {
-            // This is a simplified approach - layer control handles visibility
-        }
-    });
-}
-</script>
-    
-<div style="position: fixed; bottom: 30px; left: 30px; z-index: 9999; 
-            background-color: white; padding: 12px; border-radius: 5px; 
-            box-shadow: 0 0 15px rgba(0,0,0,0.2); font-family: Arial, sans-serif; font-size: 11px; min-width: 180px;">
-    <div style="margin-bottom: 8px;">
-        <strong>Layer:</strong>
-        <select id="layer-select" onchange="switchLayer(this.value)" style="margin-left: 5px; padding: 2px;">
-            <option value="ph">Soil pH</option>
-            <option value="om">Organic Matter (%)</option>
-            <option value="cec">CEC (meq/100g)</option>
-            <option value="aws">Water Storage (in)</option>
-        </select>
-    </div>
-    <div id="legend-content">
-        <!-- pH legend (default) -->
-        <div id="legend-ph-content">
-            <strong>Soil pH</strong><br>
-            <span style="background: #bd0026; color: white; padding: 2px 6px; margin-right: 2px;">6.5</span>
-            <span style="background: #f03b20; color: white; padding: 2px 6px; margin-right: 2px;">5.5</span>
-            <span style="background: #fd8d3c; color: white; padding: 2px 6px; margin-right: 2px;">5.0</span>
-            <span style="background: #fecc5c; padding: 2px 6px; margin-right: 2px;">5.0</span>
-            <span style="background: #ffffb2; padding: 2px 6px;">4.5</span><br>
-            <span style="color: #666; font-size: 10px;">Alkaline ← → Acidic</span>
-        </div>
-        <div id="legend-om-content" style="display: none;">
-            <strong>Organic Matter (%)</strong><br>
-            <span style="background: #1d91c0; color: white; padding: 2px 6px; margin-right: 2px;">2.2</span>
-            <span style="background: #41b6c4; color: white; padding: 2px 6px; margin-right: 2px;">1.7</span>
-            <span style="background: #7bccc4; color: white; padding: 2px 6px; margin-right: 2px;">1.3</span>
-            <span style="background: #c7e9b4; padding: 2px 6px; margin-right: 2px;">0.9</span>
-            <span style="background: #ffffe5; padding: 2px 6px;">0.5</span><br>
-            <span style="color: #666; font-size: 10px;">High ← → Low</span>
-        </div>
-        <div id="legend-cec-content" style="display: none;">
-            <strong>CEC (meq/100g)</strong><br>
-            <span style="background: #0c2c84; color: white; padding: 2px 6px; margin-right: 2px;">14.0</span>
-            <span style="background: #225ea8; color: white; padding: 2px 6px; margin-right: 2px;">11.1</span>
-            <span style="background: #41b6c4; color: white; padding: 2px 6px; margin-right: 2px;">8.2</span>
-            <span style="background: #c7e9b4; padding: 2px 6px; margin-right: 2px;">5.4</span>
-            <span style="background: #ffffd9; padding: 2px 6px;">2.5</span><br>
-            <span style="color: #666; font-size: 10px;">High ← → Low</span>
-        </div>
-        <div id="legend-aws-content" style="display: none;">
-            <strong>Water Storage (inches)</strong><br>
-            <span style="background: #bd0026; color: white; padding: 2px 6px; margin-right: 2px;">9.0</span>
-            <span style="background: #f03b20; color: white; padding: 2px 6px; margin-right: 2px;">7.0</span>
-            <span style="background: #fd8d3c; color: white; padding: 2px 6px; margin-right: 2px;">4.8</span>
-            <span style="background: #fecc5c; padding: 2px 6px; margin-right: 2px;">2.6</span>
-            <span style="background: #ffffb2; padding: 2px 6px;">0.5</span><br>
-            <span style="color: #666; font-size: 10px;">High ← → Low</span>
-        </div>
-    </div>
-</div>
-<script>
-function switchLayer(layer) {
-    document.getElementById('legend-ph-content').style.display = 'none';
-    document.getElementById('legend-om-content').style.display = 'none';
-    document.getElementById('legend-cec-content').style.display = 'none';
-    document.getElementById('legend-aws-content').style.display = 'none';
-    document.getElementById('legend-' + layer + '-content').style.display = 'block';
-    
-    // Toggle layer visibility in Leaflet
-    var layers = ['Soil pH (default)', 'Organic Matter (%)', 'CEC (meq/100g)', 'Available Water Storage'];
-    var layerMap = {'ph': 0, 'om': 1, 'cec': 2, 'aws': 3};
-    
-    // Hide all then show selected
-    map.eachLayer(function(l) {
-        if (l._container && l._container.className && l._container.className.indexOf('leaflet-layer') > -1) {
-            // This is a simplified approach - layer control handles visibility
-        }
-    });
-}
 </script>
     
             <div class="folium-map" id="map_9daa6ad78e98d1dde0e07b5e082c2e30" ></div>
@@ -666,5 +573,34 @@ function switchLayer(layer) {
             ).addTo(map_9daa6ad78e98d1dde0e07b5e082c2e30);
 
         
+var layerFeatureGroups = {
+    'ph': feature_group_da504d4c2024ed4f9db78e67f8ff3079,
+    'om': feature_group_89c634f0322a21d3c7da9a947a9c53ce,
+    'cec': feature_group_8417e4d27bd8194064f9186bbc89b8ad,
+    'aws': feature_group_822e8eed082adbd390b0297507a15d25
+};
+
+function switchLayer(layer) {
+    document.getElementById('legend-ph-content').style.display = 'none';
+    document.getElementById('legend-om-content').style.display = 'none';
+    document.getElementById('legend-cec-content').style.display = 'none';
+    document.getElementById('legend-aws-content').style.display = 'none';
+    document.getElementById('legend-' + layer + '-content').style.display = 'block';
+    
+    for (var key in layerFeatureGroups) {
+        if (layerFeatureGroups.hasOwnProperty(key)) {
+            if (key === layer) {
+                if (!map_9daa6ad78e98d1dde0e07b5e082c2e30.hasLayer(layerFeatureGroups[key])) {
+                    layerFeatureGroups[key].addTo(map_9daa6ad78e98d1dde0e07b5e082c2e30);
+                }
+            } else {
+                if (map_9daa6ad78e98d1dde0e07b5e082c2e30.hasLayer(layerFeatureGroups[key])) {
+                    map_9daa6ad78e98d1dde0e07b5e082c2e30.removeLayer(layerFeatureGroups[key]);
+                }
+            }
+        }
+    }
+}
+
 </script>
 </html>
