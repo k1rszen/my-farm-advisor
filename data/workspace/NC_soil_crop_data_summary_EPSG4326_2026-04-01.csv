@@ -1,24 +1,24 @@
-field_id,n_mukeys,n_components,n_horizons,dominant_soil,dominant_mukey,dominant_muname,drainage_class,drainage_category,avg_om_pct,avg_ph,avg_cec,avg_clay_pct,avg_sand_pct,avg_bulk_density,total_aws_inches
-osm-1009084804,7,4,16,Claycreek,132003,"Claycreek silt loam, 0 to 2 percent slopes",Moderately well drained,good,0.7151,5.2533,8.8572,22.9996,36.6773,1.3662,2.53
-osm-1103713058,4,8,28,Water,112619,Water,,unknown,0.7544,5.2959,5.8168,22.4221,57.5812,1.5014,3.48
-osm-1133139440,6,8,32,Wagram,811328,"Wagram loamy sand, 0 to 6 percent slopes",Well drained,good,2.1799,4.8426,12.0104,8.2722,75.8337,1.5658,3.98
-osm-1153259427,8,8,32,Badin,115333,"Badin channery silt loam, 2 to 8 percent slopes",Well drained,good,0.7846,4.8132,8.1325,25.1523,21.7156,1.4306,4.51
-osm-1197040178,5,5,24,Clifford,2396719,"Clifford fine sandy loam, 2 to 6 percent slopes",Well drained,good,0.7471,5.2326,5.3519,28.32,49.5393,1.4508,3.19
-osm-1278239614,5,8,26,Dan River,2433515,"Dan River loam, 0 to 2 percent slopes, frequently flooded",Well drained,good,1.3543,5.4925,9.1903,21.4081,48.8992,1.4538,3.85
-osm-1305439648,6,10,36,Altavista,112137,"Altavista fine sandy loam, 0 to 2 percent slopes, occasionally flooded",Moderately well drained,good,1.1326,5.3094,7.2195,23.7516,50.5407,1.3638,5.43
-osm-1361967329,7,13,40,Cullen,2973889,"Cullen clay loam, 10 to 15 percent slopes, moderately eroded",Well drained,good,0.7642,5.7012,9.1952,35.86,40.1801,1.3979,5.64
-osm-1383475117,3,3,7,Tarrus,2440263,"Tarrus channery silt loam, 2 to 8 percent slopes",Well drained,good,0.7217,5.2367,9.5133,26.8667,20.3156,1.3296,0.88
-osm-1386621285,6,12,39,Water,115034,Water,,unknown,0.9241,6.0823,10.9551,30.746,37.3978,1.4419,5.65
-osm-1424677694,5,11,28,Chewacla,2442016,"Chewacla silt loam, 0 to 2 percent slopes, frequently flooded",Somewhat poorly drained,poor,0.9555,5.3138,7.9425,14.7882,60.1613,1.5151,2.94
-osm-1435108796,8,18,50,Lloyd,2424295,"Lloyd clay loam, 2 to 6 percent slopes, moderately eroded",Well drained,good,0.7688,6.0433,11.2576,33.9498,36.5207,1.4004,7.27
-osm-1476971106,8,10,41,Cullen,3050324,"Cullen clay loam, 2 to 6 percent slopes, moderately eroded",Well drained,good,0.8204,5.4019,10.1808,36.8715,28.5987,1.3813,6.55
-osm-199889806,5,4,20,Mayodan,113917,"Mayodan fine sandy loam, 2 to 8 percent slopes",Well drained,good,0.8092,4.9601,8.9283,24.2833,30.2373,1.4085,3.33
-osm-260949778,13,14,60,Water,112864,Water,,unknown,0.912,6.0821,13.2242,30.057,45.4168,1.4443,8.96
-osm-274848457,5,7,30,Cecil,112754,"Cecil sandy loam, 2 to 6 percent slopes",Well drained,good,0.6144,5.5228,4.1227,31.0142,50.3689,1.452,3.73
-osm-548794709,2,6,12,Wagram,811165,"Wagram loamy sand, 0 to 6 percent slopes",Well drained,good,1.65,5.1526,2.9734,8.9553,73.4879,1.5961,1.65
-osm-566823123,2,5,15,Clifford,2424559,"Clifford sandy clay loam, 2 to 8 percent slopes, moderately eroded",Well drained,good,0.6025,5.6559,5.994,37.082,44.5643,1.4428,1.96
-osm-588414811,4,8,19,Enon,111642,"Enon sandy loam, 8 to 15 percent slopes",Well drained,good,1.1244,5.961,12.5992,29.0419,36.9991,1.4098,2.82
-osm-692623518,3,4,21,Ailey,1402231,"Ailey loamy sand, 8 to 15 percent slopes",Well drained,good,0.8765,5.2136,2.9318,5.1036,88.3069,1.6377,1.65
-osm-813157720,7,14,52,Georgeville,114246,"Georgeville loam, 2 to 6 percent slopes",Well drained,good,0.9302,5.4627,8.1575,24.8365,30.2261,1.3645,8.6
-osm-834363677,7,12,49,Cecil,117434,"Cecil sandy clay loam, 2 to 8 percent slopes, moderately eroded",Well drained,good,0.6607,5.8263,10.866,28.7459,45.8362,1.4392,7.15
-osm-976134461,5,7,31,Creedmoor,1485536,"Creedmoor-Green Level complex, 6 to 10 percent slopes",Moderately well drained,good,0.9292,4.9131,9.8653,21.3496,53.3195,1.4887,4.65
+field_id,n_mukeys,n_components,n_horizons,dominant_soil,dominant_mukey,dominant_muname,drainage_class,drainage_category,avg_om_pct,avg_ph,avg_cec,avg_clay_pct,avg_sand_pct,avg_bulk_density,total_aws_inches,avg_silt_pct
+osm-1009084804,7,4,16,Claycreek,132003,"Claycreek silt loam, 0 to 2 percent slopes",Moderately well drained,good,0.7151,5.2533,8.8572,22.9996,36.6773,1.3662,2.53,40.3231
+osm-1103713058,4,8,28,Water,112619,Water,,unknown,0.7544,5.2959,5.8168,22.4221,57.5812,1.5014,3.48,19.996699999999997
+osm-1133139440,6,8,32,Wagram,811328,"Wagram loamy sand, 0 to 6 percent slopes",Well drained,good,2.1799,4.8426,12.0104,8.2722,75.8337,1.5658,3.98,15.894100000000009
+osm-1153259427,8,8,32,Badin,115333,"Badin channery silt loam, 2 to 8 percent slopes",Well drained,good,0.7846,4.8132,8.1325,25.1523,21.7156,1.4306,4.51,53.13210000000001
+osm-1197040178,5,5,24,Clifford,2396719,"Clifford fine sandy loam, 2 to 6 percent slopes",Well drained,good,0.7471,5.2326,5.3519,28.32,49.5393,1.4508,3.19,22.14070000000001
+osm-1278239614,5,8,26,Dan River,2433515,"Dan River loam, 0 to 2 percent slopes, frequently flooded",Well drained,good,1.3543,5.4925,9.1903,21.4081,48.8992,1.4538,3.85,29.692699999999995
+osm-1305439648,6,10,36,Altavista,112137,"Altavista fine sandy loam, 0 to 2 percent slopes, occasionally flooded",Moderately well drained,good,1.1326,5.3094,7.2195,23.7516,50.5407,1.3638,5.43,25.707700000000003
+osm-1361967329,7,13,40,Cullen,2973889,"Cullen clay loam, 10 to 15 percent slopes, moderately eroded",Well drained,good,0.7642,5.7012,9.1952,35.86,40.1801,1.3979,5.64,23.959899999999998
+osm-1383475117,3,3,7,Tarrus,2440263,"Tarrus channery silt loam, 2 to 8 percent slopes",Well drained,good,0.7217,5.2367,9.5133,26.8667,20.3156,1.3296,0.88,52.81769999999999
+osm-1386621285,6,12,39,Water,115034,Water,,unknown,0.9241,6.0823,10.9551,30.746,37.3978,1.4419,5.65,31.85620000000001
+osm-1424677694,5,11,28,Chewacla,2442016,"Chewacla silt loam, 0 to 2 percent slopes, frequently flooded",Somewhat poorly drained,poor,0.9555,5.3138,7.9425,14.7882,60.1613,1.5151,2.94,25.0505
+osm-1435108796,8,18,50,Lloyd,2424295,"Lloyd clay loam, 2 to 6 percent slopes, moderately eroded",Well drained,good,0.7688,6.0433,11.2576,33.9498,36.5207,1.4004,7.27,29.52949999999999
+osm-1476971106,8,10,41,Cullen,3050324,"Cullen clay loam, 2 to 6 percent slopes, moderately eroded",Well drained,good,0.8204,5.4019,10.1808,36.8715,28.5987,1.3813,6.55,34.5298
+osm-199889806,5,4,20,Mayodan,113917,"Mayodan fine sandy loam, 2 to 8 percent slopes",Well drained,good,0.8092,4.9601,8.9283,24.2833,30.2373,1.4085,3.33,45.4794
+osm-260949778,13,14,60,Water,112864,Water,,unknown,0.912,6.0821,13.2242,30.057,45.4168,1.4443,8.96,24.526199999999996
+osm-274848457,5,7,30,Cecil,112754,"Cecil sandy loam, 2 to 6 percent slopes",Well drained,good,0.6144,5.5228,4.1227,31.0142,50.3689,1.452,3.73,18.6169
+osm-548794709,2,6,12,Wagram,811165,"Wagram loamy sand, 0 to 6 percent slopes",Well drained,good,1.65,5.1526,2.9734,8.9553,73.4879,1.5961,1.65,17.55680000000001
+osm-566823123,2,5,15,Clifford,2424559,"Clifford sandy clay loam, 2 to 8 percent slopes, moderately eroded",Well drained,good,0.6025,5.6559,5.994,37.082,44.5643,1.4428,1.96,18.353699999999996
+osm-588414811,4,8,19,Enon,111642,"Enon sandy loam, 8 to 15 percent slopes",Well drained,good,1.1244,5.961,12.5992,29.0419,36.9991,1.4098,2.82,33.959
+osm-692623518,3,4,21,Ailey,1402231,"Ailey loamy sand, 8 to 15 percent slopes",Well drained,good,0.8765,5.2136,2.9318,5.1036,88.3069,1.6377,1.65,6.589500000000001
+osm-813157720,7,14,52,Georgeville,114246,"Georgeville loam, 2 to 6 percent slopes",Well drained,good,0.9302,5.4627,8.1575,24.8365,30.2261,1.3645,8.6,44.9374
+osm-834363677,7,12,49,Cecil,117434,"Cecil sandy clay loam, 2 to 8 percent slopes, moderately eroded",Well drained,good,0.6607,5.8263,10.866,28.7459,45.8362,1.4392,7.15,25.417899999999996
+osm-976134461,5,7,31,Creedmoor,1485536,"Creedmoor-Green Level complex, 6 to 10 percent slopes",Moderately well drained,good,0.9292,4.9131,9.8653,21.3496,53.3195,1.4887,4.65,25.330900000000007
