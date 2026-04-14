@@ -191,3 +191,127 @@ This project creates interactive and static dashboard maps for agricultural fiel
 ## 7. Notebook
 
 - `04_field_mapping.ipynb` - Contains both interactive maps embedded, summary statistics, geographic trend analysis, and narrative descriptions.
+
+---
+
+# Project Tracker - NC Field Soil Mapping
+
+**Date:** 2026-04-14  
+**Project:** Assignment 06 - Weather Analysis
+
+---
+
+## 1. Project Overview
+
+This project retrieves historical weather data from NASA POWER API for 5 NC agricultural fields, calculates Growing Degree Days (GDD), detects anomalies using a 5-year baseline (2020-2024), and creates interactive HTML visualizations with field selectors.
+
+---
+
+## 2. Data Sources
+
+| Source | Description |
+|--------|-------------|
+| `NC_field_boundaries_EPSG4326_2026-04-01.geojson` | Field boundary polygons - 5 fields selected |
+| NASA POWER API | Parameters: T2M (mean temp), T2M_MAX, T2M_MIN, PRECTOTCORR (precipitation), ALLSKY_SFC_SW_DWN (solar radiation), RH2M, WS10M |
+
+**Fields Analyzed:**
+- osm-260949778 (Guilford County, 768 acres)
+- osm-1153259427 (Forsyth County, 56 acres)
+- osm-813157720 (Forsyth County, 52 acres)
+- osm-1305439648 (Iredell County, 45 acres)
+- osm-1386621285 (Iredell County, 41 acres)
+
+---
+
+## 3. Weather Outputs
+
+### CSV Files
+
+| File | Description |
+|------|-------------|
+| `weather_top5_2020_2024.csv` | Daily weather data for all 5 fields (9,136 rows) |
+| `weather_top5_with_rolling_avg.csv` | Daily data with 30-day rolling averages |
+| `anomaly_summary.csv` | Monthly mean, std, and deviation calculations (301 rows) |
+| `anomaly_summary_flagged.csv` | Only months exceeding ±2σ threshold (empty - no anomalies) |
+| `weather_seasonal_summary.csv` | Growing season (May-Sep) summaries |
+
+### Interactive HTML Visualizations
+
+| File | Description |
+|------|-------------|
+| `weather_trends.html` | Main dashboard with 5 stacked charts: Temperature (°F), Daily Precip, Cumulative Precip, GDD, Solar Radiation |
+| `temperature_rolling_avg.html` | 30-day rolling average temperature per field |
+| `precipitation_rolling_avg.html` | 30-day rolling average precipitation per field |
+| `temperature_anomalies.html` | Monthly temperature deviations from 5-year baseline |
+| `precipitation_anomalies.html` | Monthly precipitation deviations from 5-year baseline |
+| `cumulative_precipitation.html` | Monthly running precipitation totals |
+
+### PNG Charts
+
+| File | Description |
+|------|-------------|
+| `weather_osm-{field_id}_{year}.png` | Per-field, per-year temperature range + GDD cumulative (20 files, 5 fields × 4 years) |
+
+---
+
+## 4. Scripts
+
+| Script | Description |
+|--------|-------------|
+| `download_weather.py` | Queries NASA POWER API for all 5 fields (2020-2024) |
+| `generate_weather_trends.py` | Creates the weather_trends.html dashboard using Plotly |
+| `generate_dashboard_maps.py` | Generates field map visualizations |
+| `generate_dashboard_png.py` | Creates PNG screenshots of dashboards |
+| `generate_summary_tables.py` | Aggregates data into summary CSVs |
+| `field_eda_analysis.py` | Exploratory data analysis for fields |
+| `field_map_visualization.py` | Creates interactive field maps |
+| `collect_nc_piedmont_fields.py` | Collects NC Piedmont field boundaries |
+| `collect_nc_soil_crop_data_incremental.py` | Collects soil and crop data incrementally |
+| `download_nc_counties.py` | Downloads NC county boundaries |
+
+---
+
+## 5. Key Findings
+
+### Anomaly Detection Results
+- **No significant anomalies detected** for either temperature or precipitation using the ±2σ threshold
+- Maximum deviation observed: 1.71σ (precipitation, December 2023)
+- With only 5 years of baseline data, statistical power is limited for outlier detection
+
+### Year-over-Year Trends (2020-2024)
+
+| Indicator | 2020 | 2021 | 2022 | 2023 | 2024 | Change |
+|-----------|------|------|------|------|------|--------|
+| Mean Temp (°C) | 15.41 | 15.54 | 15.36 | 15.86 | 15.94 | +0.53 |
+| Total Precip (mm) | 1607.8 | 981.2 | 1184.4 | 1182.2 | 1335.6 | -16.9% |
+| Total GDD | 2533.8 | 2710.6 | 2711.3 | 2628.9 | 2762.0 | +9.0% |
+| Total Solar (MJ/m²) | 5737.4 | 5934.7 | 5961.9 | 5838.0 | 5892.1 | +2.7% |
+
+**Key Observations:**
+- Temperature: Slight increasing trend (+0.53°C from 2020 to 2024)
+- Precipitation: Large drop in 2021 (-39% YoY), then gradual recovery with 13% increase in 2024
+- GDD: 2021 and 2022 were high GDD years; 2023 showed a 3% decrease before recovering in 2024 (+5%)
+- Solar radiation: Relatively stable with minor fluctuations
+
+---
+
+## 6. Data Quality Issues
+
+### Duplicate Field Data
+**Issue:** osm-1305439648 and osm-1386621285 have identical weather data (temperature, precipitation, GDD, solar radiation).
+
+**Reason:** These two fields are located very close to each other (~8km apart) in Iredell County. NASA POWER returns the same weather grid values for both locations, resulting in duplicate data.
+
+**Impact:**
+- Rolling averages and anomaly calculations are affected (effectively weighted 2x for these two fields)
+- This is expected behavior for nearby agricultural fields sharing the same weather grid
+
+**Fields:**
+- osm-1305439648: lat=35.8364, lon=-80.4793
+- osm-1386621285: lat=35.7514, lon=-80.6983
+
+---
+
+## 7. Notebook
+
+- `06_weather_analysis.ipynb` - Contains all code for data retrieval, GDD calculation, rolling averages, anomaly detection, trends analysis, and visualizations
