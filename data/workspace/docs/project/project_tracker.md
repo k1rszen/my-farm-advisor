@@ -397,6 +397,7 @@ This project integrates soil (SSURGO), weather (NASA POWER), and satellite NDVI 
 | `zonal_integration_summary.csv` | Integrated soil + weather + NDVI for all 24 fields |
 | `om_vs_gdd.png` | Scatter plot: Organic Matter vs GDD |
 | `zonal_stats_summary.png` | Multi-panel visualization |
+| `spatial_join_5largest.png` | Spatial join visualization for top 5 largest fields |
 
 ### Fields Analyzed (24 total)
 
