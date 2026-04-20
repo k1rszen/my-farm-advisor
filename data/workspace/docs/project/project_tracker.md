@@ -475,3 +475,142 @@ This project integrates soil (SSURGO), weather (NASA POWER), and satellite NDVI 
 ## 7. Notebook
 
 - `07_zonal_integration.ipynb` - Contains all zonal statistics calculations, integration logic, and visualizations
+
+---
+
+# Project Tracker - NC Farm Analysis and Mapping
+
+**Date:** 2026-04-20  
+**Project:** Assignment 08 - Sustainability & Soil Health Assessment
+
+---
+
+## 1. Project Overview
+
+This project calculates sustainability and soil health metrics for 23 agricultural fields across North Carolina using NRCS SSURGO soil data. The analysis produces composite scores for soil health, erosion risk, carbon storage, and an overall sustainability index.
+
+---
+
+## 2. Data Sources
+
+| Source | Description |
+|--------|-------------|
+| `NC_field_boundaries_EPSG4326_2026-04-01.geojson` | Field boundary polygons (23 fields) |
+| SSURGO via SoilWeb API | Soil properties: OM, pH, CEC, clay, sand, bulk density, drainage, topsoil depth |
+| NRCS soil mapunit names | Slope gradient extraction |
+
+---
+
+## 3. Indicator Formulas
+
+### 3.1 Component Scores (Normalized 0-1)
+
+| Indicator | Formula |
+|-----------|---------|
+| **OM Score** | `(om_pct - om_min) / (om_max - om_min)` |
+| **pH Score** | `1 - |pH - 6.5| / |pH - 6.5|_max` |
+| **CEC Score** | `(cec - cec_min) / (cec_max - cec_min)` |
+| **Sand Risk** | `(sand_pct - sand_min) / (sand_max - sand_min)` |
+| **Slope Risk** | `(slope_pct - slope_min) / (slope_max - slope_min)` |
+
+### 3.2 Composite Scores
+
+| Indicator | Formula | Weights |
+|-----------|---------|---------|
+| **Soil Health Score** | `om_score * 0.4 + ph_score * 0.3 + cec_score * 0.3` | OM 40%, pH 30%, CEC 30% |
+| **Erosion Risk Score** | `sand_risk * 0.4 + slope_risk * 0.6` | Sand 40%, Slope 60% |
+| **Carbon Storage** | `om_pct * bulk_density * topsoil_depth_cm` | — |
+| **Sustainability Index** | `health_norm * 0.4 + (1 - erosion_norm) * 0.3 + carbon_norm * 0.3` | Health 40%, Erosion resistance 30%, Carbon 30% |
+
+Where `_norm` indicates min-max normalization to 0-1 range.
+
+---
+
+## 4. Outputs
+
+### Interactive Dashboard
+
+| File | Description |
+|------|-------------|
+| `soil_health_metrics.html` | Interactive scorecard with field selector, metric cards, drainage distribution chart, erosion risk chart, and sortable summary table |
+
+### Data Files
+
+| File | Description |
+|------|-------------|
+| `field_scorecard_data.json` | JSON with all 23 fields and computed indicators |
+
+### Visualizations (PNG)
+
+| File | Description |
+|------|-------------|
+| `soil_health_scores.png` | Horizontal bar chart of soil health scores |
+| `erosion_risk_scores.png` | Horizontal bar chart of erosion risk scores |
+| `sustainability_index.png` | Horizontal bar chart of overall sustainability index |
+| `carbon_storage_potential.png` | Horizontal bar chart of carbon storage potential |
+
+---
+
+## 5. Fields Analyzed (23 total)
+
+| Field ID | County | Area (acres) | Soil Type | Drainage | Soil Health | Erosion Risk | Sustainability |
+|----------|--------|--------------|-----------|----------|-------------|--------------|----------------|
+| osm-1133139440 | Hoke | 144.39 | Wagram | Well drained | 0.67 | 0.47 | 0.73 |
+| osm-1278239614 | Forsyth | 35.99 | Dan River | Well drained | 0.49 | 0.22 | 0.58 |
+| osm-1435108796 | Iredell | 90.73 | Lloyd | Well drained | 0.56 | 0.40 | 0.54 |
+| osm-1476971106 | Alamance | 137.74 | Cullen | Well drained | 0.43 | 0.37 | 0.51 |
+| osm-813157720 | Person | 194.99 | Georgeville | Well drained | 0.43 | 0.38 | 0.50 |
+| osm-834363677 | Randolph | 132.83 | Cecil | Well drained | 0.51 | 0.41 | 0.50 |
+| osm-1305439648 | Davidson | 192.38 | Altavista | Moderately well drained | 0.60 | 0.15 | 0.56 |
+| osm-1386621285 | Rowan | 187.21 | Musella | Well drained | 0.54 | 0.10 | 0.55 |
+| osm-260949778 | Guilford | 768.05 | Mecklenburg | Well drained | 0.33 | 0.46 | 0.49 |
+| osm-1153259427 | Union | 617.77 | Ashlar | Well drained | 0.35 | 0.23 | 0.47 |
+| osm-548794709 | Cumberland | 99.31 | Johns | Somewhat poorly drained | 0.37 | 0.25 | 0.42 |
+| osm-692623518 | Montgomery | 4.44 | Bibb | Poorly drained | 0.33 | 0.28 | 0.41 |
+| osm-199889806 | Moore | 98.41 | Wedowee | Well drained | 0.33 | 0.29 | 0.41 |
+| osm-1361967329 | Rockingham | 74.81 | Pacolet | Well drained | 0.33 | 0.30 | 0.41 |
+| osm-1103713058 | Franklin | 54.45 | Norfolk | Well drained | 0.30 | 0.25 | 0.40 |
+| osm-976134461 | Chatham | 59.08 | Cecil | Well drained | 0.30 | 0.24 | 0.40 |
+| osm-274848457 | Granville | 63.97 | Appling | Well drained | 0.27 | 0.30 | 0.38 |
+| osm-588414811 | Cabarrus | 67.71 | Mecklenburg | Well drained | 0.28 | 0.34 | 0.37 |
+| osm-1009084804 | Anson | 44.58 | Uwharrie | Well drained | 0.30 | 0.36 | 0.36 |
+| osm-1424677694 | Lee | 26.48 | Lignum | Well drained | 0.26 | 0.30 | 0.35 |
+| osm-566823123 | Davie | 22.60 | Goldston | Well drained | 0.21 | 0.22 | 0.34 |
+| osm-1197040178 | Yadkin | 22.00 | Catawba | Well drained | 0.20 | 0.25 | 0.34 |
+| osm-1383475117 | Stanly | 13.19 | Tillery | Poorly drained | 0.18 | 0.36 | 0.31 |
+
+---
+
+## 6. Key Findings
+
+### Top Performers
+- **Highest Sustainability:** osm-1133139440 (Wagram soil, Hoke County) - Score: 0.73
+- **Highest Soil Health:** osm-1133139440 - Score: 0.67
+- **Lowest Erosion Risk:** osm-1386621285 (Musella, Rowan County) - Score: 0.10
+- **Highest Carbon Storage:** osm-1278239614 (Dan River, Forsyth) - Score: 90.57
+
+### Score Distribution
+- **Sustainability Index:** Range 0.31 - 0.73, Mean: 0.44
+- **Soil Health Score:** Range 0.14 - 0.67, Mean: 0.37
+- **Erosion Risk Score:** Range 0.10 - 0.65, Mean: 0.30
+
+### Soil Type Patterns
+- Well-drained soils dominate (18 of 23 fields)
+- Highest sustainability scores correlate with Wagram and Dan River soils
+- Poorly drained soils (Bibb, Tillery) show lower sustainability due to management constraints
+
+---
+
+## 7. Scripts
+
+| Script | Description |
+|--------|-------------|
+| `08_soil_sustainability.ipynb` | Main notebook: data fetching, score calculations, visualizations |
+| `generate_scorecard_html.py` | Generates `soil_health_metrics.html` from scorecard data |
+| `export_scorecard_json.py` | Exports scorecard data to JSON for HTML dashboard |
+
+---
+
+## 8. Notebook
+
+- `08_soil_sustainability.ipynb` - Contains all indicator calculations, formula implementations, and output generation
