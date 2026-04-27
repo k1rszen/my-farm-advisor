@@ -346,6 +346,21 @@
             </div>
         </div>
 
+        <div class="row">
+            <div class="col-md-6">
+                <div class="section">
+                    <h3>Temperature (°C) - 2024 vs 5-Year Avg</h3>
+                    <div class="chart-height"><canvas id="tempChart"></canvas></div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="section">
+                    <h3>Precipitation (mm) - 2024 vs 5-Year Avg</h3>
+                    <div class="chart-height"><canvas id="precipChart"></canvas></div>
+                </div>
+            </div>
+        </div>
+
         <div class="section">
             <h3>All Field Indicators</h3>
             <div style="margin-bottom:8px"><select id="sortSelect" class="form-select form-select-sm"
@@ -373,6 +388,13 @@
                 </thead>
                 <tbody id="tableBody"></tbody>
             </table>
+        </div>
+
+        <div class="section" style="margin-top:10px;font-size:11px;color:#666">
+            <strong>Sustainability Score Calculation:</strong> Composite index (0-1) based on 
+            organic matter (30%), pH optimal range (20%), available water capacity (20%), 
+            drainage class (15%), and NDVI vegetation health (15%). Higher values indicate 
+            better overall soil health for sustained crop production.
         </div>
 
         <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
