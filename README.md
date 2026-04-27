@@ -21,6 +21,8 @@ It is designed for farmhands, supervisors, owners, researchers, and ag analysts 
 - Multi-agent architecture: starts with two agents (field operations + data pipeline), scales to unlimited custom agents
 - Upstream OpenClaw compatibility for easier updates and broader channel/tool support
 
+> **Note**: While the OpenClaw runtime is being finalized for this project, the field dashboard and data analysis outputs were developed using [opencode](https://opencode.ai)—an interactive CLI tool for software engineering tasks.
+
 ## What This Repo Is
 
 This repository tracks real upstream OpenClaw as its runtime base.
@@ -88,15 +90,59 @@ The active custom layer currently keeps these skills:
 
 These sit on top of the upstream OpenClaw skill system rather than replacing it.
 
-### Highlighted Skill Packs
+## Field Dashboard
 
-- [`skills/my-farm-advisor/README.md`](skills/my-farm-advisor/README.md) is the main farm umbrella skill. It routes requests into field management, imagery, soil, weather, strategy, data rebuilds, reporting, and admin workflows so the system can act like a real farm advisor instead of a generic chat assistant.
-- [`skills/superior-byte-works-wrighter/README.md`](skills/superior-byte-works-wrighter/README.md) is the structured writing and documentation engine for the repo. It explains how we produce docs, reports, Mermaid diagrams, research syntheses, and delivery-ready artifacts through a text-first workflow.
+The My Farm Advisor dashboard provides an interactive HTML interface for analyzing North Carolina Piedmont field data. It is a self-contained output that runs directly in any web browser—no server required.
 
-Together, those two skill packs cover the project's two most important custom layers:
+### Sample Scope
 
-- farm intelligence and field-level decision support
-- writing, reporting, and explanation of how the system works
+- **23 fields** identified in Central NC via OpenStreetMap Overpass API
+- **10 fields** with complete soil, NDVI, and weather data included in the dashboard
+
+### Technologies
+
+| Layer | Technology |
+|-------|-------------|
+| UI Framework | Bootstrap 5 |
+| Charts | Chart.js |
+| Maps | Leaflet |
+| Data Visualization | Custom Canvas API (correlation heatmap) |
+| Raster Display | Base64-encoded PNG in data URIs |
+| Export | Self-contained HTML |
+
+### Data Sources
+
+| Source | Description |
+|--------|-------------|
+| OpenStreetMap | Field boundaries |
+| USDA SSURGO | Soil OM, pH, CEC, AWS |
+| Landsat 8/9 (STAC) | NDVI imagery |
+| NOAA | Weather time series |
+
+### Key Indicators
+
+- **Maps**: OM choropleth, Available Water choropleth, NDVI raster
+- **Charts**: Correlation heatmap (OM-pH-CEC-AWS-NDVI relationships)
+- **Table**: Field ID, County, Acres, OM%, pH, CEC, AWS, NDVI, Sustainability, Erosion
+- **Narrative**: Regional comparisons + actionable recommendations per field
+
+### Usage
+
+Open directly in any browser:
+
+```bash
+open data/workspace/dashboard_assets/final_dashboard_viewer.html
+```
+
+Or regenerate from the Streamlit app:
+
+```bash
+cd data/workspace/dashboard_app
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+See [`data/workspace/dashboard_app/README.md`](data/workspace/dashboard_app/README.md) for full documentation.
 
 ### Which Skill Should I Start With?
 
