@@ -106,6 +106,17 @@ if (!omMap) { console.error('OM map failed to initialize'); return; }
 - After fixing an error, grep for similar patterns that might have the same issue
 - Apply fixes comprehensively, not just to the immediate instance
 
+### 6. Stage Changes at Good Points
+
+**Problem**: Without regular staging, work can get lost or overwritten. Multiple edit passes without committing "good states" made it harder to track deviations and recover if edits went wrong.
+
+**Solution**: 
+- Stage files when they reach a working state
+- Commit regularly so there's a track record of deviations
+- Use git diff --staged to review what will be committed
+
+**Key Takeaway**: Version control is your safety net—use it to capture good states, not just final states.
+
 ## Approaches to Avoid
 
 ### 1. Large Editing Passes
